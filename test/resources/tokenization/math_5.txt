@@ -1,0 +1,17 @@
+The connection between the rotational symmetry described above and the conservation of the LRL vector can be made quantitative by way of Noether's theorem.  This theorem, which is used for finding constants of motion, states that any infinitesimal variation of the generalized coordinates of a physical system
+
+ <math>
+\delta q_i = \varepsilon g_i(\mathbf{q}, \mathbf{\dot{q}}, t)
+</math>
+
+that causes the Lagrangian to vary to first order by a total time derivative
+
+ <math>
+\delta L = \varepsilon \frac{d}{dt} G(\mathbf{q}, t)
+</math>
+
+corresponds to a conserved quantity Γ
+
+ <math>
+\Gamma = -G + \sum_i g_i \left( \frac{\partial L}{\partial \dot{q}_i}\right)
+</math>

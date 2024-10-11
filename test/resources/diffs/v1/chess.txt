@@ -1,0 +1,150 @@
+==Drawn with best play==
+[[Image:Evgeny Sveshnikov.jpg|thumb|180px|left|Evgeny Sveshnikov, who in 1994 who claimed that White must play to win, while Black must play to draw]]
+The traditional view is that White, by virtue of the first move, begins with the [[List of chess terms#Initiative|initiative]], and that his objective is to extend this into the [[Chess middlegame|middlegame]], while Black's first aim is to neutralize White's initiative and reach [[List of chess terms#Equalise/Equalize|equality]].<ref>Evans 1970, p. 89.</ref><ref>{{cite book
+ | author=[[Reuben Fine|Fine, R.]]
+ | title=Chess the Easy Way
+ | publisher=David McKay
+ | year=1942
+ | pages=p. 47
+ | id=ISBN 978-0671624279 (1985 Simon & Schuster edition)
+}}</ref><ref>"Chess books have traditionally said that Black's goal in the opening is to obtain equality. A popular variant is that Black must first secure equality and only later search for chances to gain the advantage. ... Books from the first half of the 20th century particularly stressed the need for equalizing before all else." Watson 2006, p. 23.</ref> Because White begins with the initiative, a minor mistake by White generally leads only to loss of the initiative, while a similar mistake by Black may have more serious consequences.<ref>{{cite book
+ | author=[[Alexey Suetin|Suetin, A.]]
+ | title=Modern Chess Opening Theory
+ | publisher=Pergamon Press
+ | year=1965
+ | pages=p. 47
+ | id=ISBN 0-08-011198-X
+}}</ref><ref>"In most cases, if White goes slightly wrong, he is likely to face an equal or slightly worse position, but if Black goes wrong he is often significantly worse." Rowson 2005, p. 217.</ref> Thus, Sveshnikov wrote in 1994, "Black players cannot afford to make even the slightest mistake ... from a theoretical point of view, the tasks of White and Black in chess are different: White has to strive for a win, Black&mdash;for a draw!"<ref>Adorján 2004, pp. 69–70 (statement by Sveshnikov dated [[May 12]], [[1994]]). Adorján called Sveshnikov a "hypocrite" for making this statement (p. 72), noting that he is "the father of the [[Sicilian_Defense#Sveshnikov_Variation:_4...Nf6_5.Nc3_e5|Sveshnikov Variation]]" of the [[Sicilian Defense]], which is one of the most [[List of chess terms#Dynamism|dynamic]], complex, and imbalanced openings (de Firmian 2008, p. 336).</ref>
+
+Chess theorists have long debated how enduring White's initiative is and whether, if both sides play perfectly, the game should end in a win for White or a draw. In 1889, World Champion Wilhelm Steinitz, widely considered the father of modern chess,<ref>{{cite book
+ | author=[[Garry Kasparov|Kasparov, G.]]
+ | title=My Great Predecessors, Part I
+ | publisher=Everyman Publishers
+ | year=2003
+ | pages=pp. 45–46
+ | id=ISBN 1-85744-330-6
+}} Kasparov quotes briefly from [[Emanuel Lasker|Emanuel Lasker's]] lengthy tribute to Steinitz, which appears in {{cite book
+ | author=[[Emanuel Lasker|Lasker, E.]]
+ | title=Lasker's Manual of Chess
+ | publisher=Dover Publications
+ | year=1960
+ | pages=pp. 188–229
+ | id=ISBN 978-0486206400
+}}</ref><ref>{{cite book
+ | author=[[Richard Réti|Réti, R.]]
+ | title=Masters of the Chessboard
+ | publisher=Dover Publications
+ | year=1976
+ | pages=pp. 47–49
+ | id=ISBN 0-486-23384-7
+}}</ref><ref>Saidy 1975, p. 20–21.</ref> wrote that "it is now conceded by all experts that by proper play on both sides the legitimate issue of a game ought to be a draw."<ref>{{cite book
+ | author=[[Wilhelm Steinitz|Steinitz, W.]]
+ | title=The Modern Chess Instructor
+ | publisher=Edition Olms AG
+ | year=1990 (reprint)
+ | pages=p. xxxi
+ | id=ISBN 3-283-00111-1
+}}</ref> [[Emanuel Lasker]], the second World Champion, likewise wrote, "the resources on each side are so evenly balanced that the trifling advantage of the first move is not sufficient to force the defence to resignation."<ref>{{cite book
+ | author=[[Emanuel Lasker|Lasker, Em.]]
+ | title=Common Sense in Chess
+ | publisher=Dover Publications
+ | year=1965
+ | pages=p. 65
+ | id=ISBN 978-0486214405
+}}</ref> The third World Champion, [[José Raúl Capablanca]], was convinced that a draw was the inevitable result of a correctly played game. He was so worried that chess would soon become played out and suffer a "draw death" that in the 1920s he proposed [[Capablanca chess]], a [[chess variant]] played on a larger board and with additional pieces.<ref>Saidy 1975, p. 24.</ref><ref>{{cite book
+ | author=[[Edward Lasker|Lasker, Ed.]]
+ | title=The Adventure of Chess
+ | publisher=Dover Publications
+ | year=1959
+ | pages=pp. 38–39
+ | id=ISBN 0-486-20510-X
+}}</ref> [[Reuben Fine]], one of the world's leading players from 1936 to 1951,<ref>"From about 1936 to 1951, when he practically gave up competitive chess, Fine was among the strongest eight players in the world." Hooper 1992, p. 135.</ref> wrote of chess in 1948, "the unavoidable fact is that when both sides play perfectly a draw results. Even if an opening advantage can be demonstrated for White, it is still of such an intangible nature that without further error he cannot win."<ref>{{cite book
+ | author=[[Reuben Fine|Fine, R.]]
+ | title=Great Moments in Modern Chess
+ | publisher=Dover Publications
+ | year=1965
+ | pages=p. 120
+ | id=ISBN 0-486-21449-4
+}}</ref>
+
+The view that a game of chess should end in a draw given best play prevails. Rowson observes, "We do not know for a fact that the starting position is drawn, but it does seem like a safe assumption from a hypertheoretical point of view."<ref>Rowson 2005, p. 227. By "hypertheoretical point of view", Rowson means the viewpoint of an omniscient observer, one with a perfect understanding of chess (Rowson 2005, pp. 201–06). At the level of "hypertheory", the concept of an "advantage" for either side is meaningless, since there are only three possible assessments of a position: win for White, win for Black, or draw (Rowson 2005, p. 202).</ref> [[András Adorján | Adorján]] writes, "the logical outcome of the game is a draw."<ref>Adorján 2004, p. 17.</ref> Watson agrees, "the proper result of a perfectly played chess game ... is a draw. ... Of course, I can't prove this, but I doubt that you can find a single strong player who would disagree. ... I remember Kasparov, after a last-round draw, explaining to the waiting reporters: 'Well, chess is a draw.'"<ref>Watson 1998, p. 232. Rowson also quotes Kasparov as having said that chess is a draw. Rowson 2005, p. 202.</ref> [[Bobby Fischer]], like Kasparov a former World Champion, said, "I think it's almost definite that the game is a draw theoretically."<ref>{{cite book
+ | author=Knudsen, J.
+ | title=Essential Chess Quotations
+ | year=1998
+ | pages=p. 40
+ | id=ISBN 978-1893652170 (1999 Writers Club Press edition)
+}}</ref>
+
+While the "draw death" Capablanca feared has not occurred,<ref>Adorján 2005, p. 153, expressing agreement with GM [[Andor Lilienthal]].</ref> today some of the [[List of chess terms#Sharp|sharpest]] opening variations have been analyzed so deeply that they are often used as [[List_of_chess_terms#Drawing_weapon|drawing weapons]]. For example, at the highest levels, Black often uses the [[Ruy Lopez#Marshall Attack|Marshall Attack]] in the [[Ruy Lopez]], a line where Black sacrifices a pawn for strong attacking chances to obtain an endgame where Black is still a pawn down but is able to draw with correct play.<ref>Watson 2006, pp. 161–62.</ref>
+{{Chess diagram|=
+|tleft
+|
+|=
+|rd|nd|bd|  |kd|bd|  |rd|=
+|  |pd|  |  |  |pd|pd|pd|=
+|pd|  |  |pd|pd|nd|  |  |=
+|  |  |  |  |  |  |bl|  |=
+|  |  |  |nl|pl|pl|  |  |=
+|qd|  |nl|  |  |  |  |  |=
+|pl|  |pl|ql|  |  |pl|pl|=
+|  |rl|  |  |kl|bl|  |rl|=
+|The Poisoned Pawn Variation, position after 9...Qa3.}}
+
+{{Chess diagram|=
+|tleft
+|
+|=
+|  |  |bd|  |  |  |  |kd|=
+|  |  |  |  |  |ql|  |pd|=
+|pd|  |pd|  |pd|pd|  |  |=
+|  |  |  |  |pd|  |  |  |=
+|  |  |  |  |  |  |  |  |=
+|  |  |kl|  |  |  |rl|  |=
+|  |  |  |  |  |qd|pl|pl|=
+|  |  |  |  |  |  |  |  |=
+|Final position of Vallejo Pons-Kasparov: the perfect game?
+}}
+
+In 2007, GMs [[Kiril Georgiev]] and [[Atanas Kolev]] asserted that much the same was true of the so-called [[Poisoned Pawn Variation]] of the [[Sicilian Defense, Najdorf Variation|Najdorf Sicilian]], which arises after 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6[[Chess_punctuation#.21.3F:_Interesting_move|!?]] This has long been considered one of the sharpest and most problematic (some would have said foolhardy)<ref>Watson observed that 7...Qb6 "is an astonishing move that those raised with classical chess principles would simply reject as a typical beginner's mistake. Black goes running after a pawn when he is undeveloped and already under attack." Watson 2006, p. 199.</ref><ref>[[Siegbert Tarrasch]] wrote in his classic [[treatise]] ''The Game of Chess'', "It is very dangerous to make a raid with the Queen early on in the game. In particular the capture of the Queen's Knight's pawn with the Queen often brings its own revenge." {{cite book
+ | author=[[Siegbert Tarrasch|Tarrasch, S.]]
+ | title=The Game of Chess
+ | publisher=David McKay
+ | year=1938
+ | pages=p. 220
+ | id=ISBN 978-1880673942 (1994 Hays Publishing edition)
+}}</ref> opening lines.<ref>{{cite book
+ | author=[[Yefim Geller|Geller, Y.]], [[Svetozar Gligoric|Gligoric, S.]], [[Lubosh Kavalek|Kavalek, L.]], and [[Boris Spassky|Spassky, B.]]
+ | title=The Najdorf Variation of the Sicilian Defence
+ | publisher=RHM Press
+ | year=1976
+ | pages=p. 98
+ | id=ISBN 0-89058-025-1
+}}</ref><ref>{{cite book
+ | author=[[Alexey Sokolsky|Sokolsky, A.]]
+ | title=The Modern Openings in Theory and Practice
+ | publisher=Pitman Publishing
+ | year=1972
+ | pages=p. 154
+ | id=ISBN 0-273-31409-2
+}}</ref> The game usually continues 8.Qd2 Qxb2 9.Rb1 Qa3 (see diagram at below left).<ref>Watson 2006, p. 199.</ref> Georgiev and Kolev wrote that 6.Bg5 "is seldom seen at the highest level" since the [[List of chess terms#Main line|main line]] of the Poisoned Pawn leads, with best play, to a draw by [[perpetual check]].<ref>Georgiev and Kolev 2007, p. 10.</ref> They wrote that the following game "will probably remain the last word of theory":<ref>Georgiev and Kolev 2007, p. 11.</ref>
+
+[[Francisco Vallejo Pons]]-Kasparov, [[Armenia]] vs. Rest of the World Match 2004<ref>{{cite web
+ |url=http://www.chessgames.com/perl/chessgame?gid=1290137
+ |title=Vallejo Pons vs Kasparov (2004)
+ |publisher=Chess Games
+ |accessdate=2008-04-26
+}}</ref><ref>{{cite web
+ |url=http://www.chesscafe.com/text/kibitz122.pdf
+ |title=The Poisoned Pawn is Still Looking Tasty
+ |publisher=Chess Cafe
+ |accessdate=2008-06-21
+}} Page 11 mentions the "Vallejo Pons - Kasparov" game.</ref> '''1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 8.Qd2 Qxb2 9.Rb1 Qa3 10.f5 Nc6 11.fxe6 fxe6 12.Nxc6 bxc6 13.e5 dxe5 14.Bxf6 gxf6 15.Ne4 Qxa2 16.Rd1 Be7 17.Be2 O-O 18.O-O Ra7 19.Rf3 Kh8 20.Rg3 Rd7 21.Qh6 Rf7 22.Qh5 Rxd1+ 23.Bxd1 Qa5 24.Kf1 Qd8 25.Qxf7 Qxd1+ 26.Kf2 Qxc2+ 27.Kf3 Qd1+ 28.Kf2 Qc2+ 29.Ke3 Bc5+ 30.Nxc5 Qxc5+ 31.Kd2 Qf2+ 32.Kc3 Qd4+ 33.Kc2 Qf2+ 34.Kc3 1/2-1/2''' (After 34...Qd4+, White cannot escape the checks.)
+
+However, Georgiev and Kolev's pessimistic assessment of 6.Bg5 has since been called into question, as White has succeeded with 10.e5 (another critical line) in several recent high-level games.<ref>{{cite web
+ |url=http://www.chesscafe.com/kaissiber/kaissiber.htm#Sources:
+ |title=Poisoned Pawn for Tarriers
+ |accessdate=2008-05-10
+ |author=Bücker, S.
+ |date=2008
+ |publisher=ChessCafe.com
+}}</ref>

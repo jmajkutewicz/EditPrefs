@@ -1,0 +1,30 @@
+Intro
+
+== Table inside div ==
+
+<div style="margin-left: 20px; margin-bottom: 20px; float: right;">
+{| class="wikitable"
+|+ '''Statistical Comparison'''<ref>[http://calbears.cstv.com/sports/m-footbl/stats/122603aaa.html Cal 52, Virginia Tech 49] California Athletics Department. Calbears.cstv.com. [[December 26]], [[2003]]. Accessed [[July 1]], [[2008]].</ref>
+!  || CAL || VT
+|-
+| '''1st Downs''' || 27 || 27
+|-
+| '''Total Yards''' || 530 || 551
+|-
+| '''Passing Yards''' || 394 || 398
+|-
+| '''Rushing Yards''' || 136 || 153
+|-
+| '''Penalties''' || 4&ndash;25 || 6&ndash;40
+|-
+| '''3rd Down Conversions''' || 13&ndash;17 || 8&ndash;12
+|-
+| '''4th Down Conversions''' || 0&ndash;0 || 0&ndash;0
+|-
+| '''Turnovers''' || 0 || 0
+|-
+| '''Time of Possession''' || 37:15 || 22:45
+|}
+</div>
+
+For his performance in the 2003 Insight Bowl

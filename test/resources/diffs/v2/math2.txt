@@ -1,0 +1,26 @@
+===Hamilton–Jacobi equation in parabolic coordinates===
+The constancy of the LRL vector can also be derived from the Hamilton–Jacobi equation in parabolic coordinates {{math|1=(''ξ'', ''η'')}}, which are defined by the equations
+<math display="block">\begin{align}
+\xi &= r + x, \\
+\eta &= r - x,
+\end{align}</math>
+where {{mvar|r}} represents the radius in the plane of the orbit
+<math display="block">r = \sqrt{x^2 + y^2}.</math>
+
+The inversion of these coordinates is
+<math display="block">\begin{align}
+x &= \tfrac{1}{2} (\xi - \eta), \\
+y &= \sqrt{\xi\eta},
+\end{align}</math>
+
+Separation of the Hamilton–Jacobi equation in these coordinates yields the two equivalent equations<ref name="landau_lifshitz_1976" /><ref>{{cite journal | last = Dulock | first = V. A. |author2=McIntosh H. V. |author2-link=Harold V. McIntosh| date = 1966 | title = On the Degeneracy of the Kepler Problem | journal = Pacific Journal of Mathematics | volume = 19 | pages = 39–55 | doi=10.2140/pjm.1966.19.39| doi-access = free }}</ref>
+
+<math display="block"> \begin{align}
+2\xi p_\xi^2 - mk - mE\xi &= -\Gamma, \\
+2\eta p_\eta^2 - mk - mE\eta &= \Gamma,
+\end{align}</math>
+where {{math|Γ}} is a constant of motion. Subtraction and re-expression in terms of the Cartesian momenta {{math|''p''<sub>''x''</sub>}} and {{math|''p''<sub>''y''</sub>}} shows that {{math|Γ}} is equivalent to the LRL vector
+
+<math display="block">
+\Gamma = p_y (x p_y - y p_x) - mk\frac{x}{r} = A_x.
+</math>

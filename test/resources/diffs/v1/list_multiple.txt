@@ -1,0 +1,35 @@
+==Statistics==
+{{main|Baseball statistics}}
+
+Organized baseball lends itself to [[statistics]] to a greater degree than many other sports. Each play is discrete and has a relatively small number of possible outcomes. In the late nineteenth century, a former cricket player, English-born [[Henry Chadwick (writer)|Henry Chadwick]] of [[Brooklyn, New York]], was responsible for the "development of the [[Box score (baseball)|box score]], tabular standings, the annual baseball guide, the [[batting average]], and most of the common statistics and tables used to describe baseball."<ref name=T16>Tygiel (2000), p. 16.</ref> Statistics have been kept for the major leagues since their inception. The statistical record is so central to the game's "historical essence" that Chadwick came to be known as "Father Baseball."<ref name=T16/>
+
+The Official Baseball Rules administered by Major League Baseball require the ''[[official scorer]]'' to categorize each baseball play unambiguously. The rules provide detailed criteria to promote consistency. For example, every advance of a baserunner must be officially attributed either to a batting play, to the initiative of the baserunner, or to a fielding lapse. General managers, managers, and [[scout (sport)|baseball scouts]] use statistics to evaluate players and choose strategies.
+
+[[File:Baseball steal.jpg|right|thumb|275px|[[Rickey Henderson]]—the major leagues' all-time leader in runs and stolen bases—stealing third base in a 1988 game.]]
+Certain traditional statistics are familiar to most baseball fans. The basic batting statistics include:
+* [[At bats]]: plate appearances, excluding walks and hit by pitches—where the batter's ability is not fully tested—and sacrifices and sacrifice flies—where the batter intentionally makes an out in order to advance one or more baserunners
+* Hits: times reached base because of a batted, fair ball without fielding error
+* Runs: times circling the bases and reaching home safely
+* [[Run batted in|Runs batted in]] (RBIs): number of runners who scored due to a batter's action (including the batter himself, in the case of a home run), except when batter grounded into double play or reached on an error
+* Home runs: hits on which the batter successfully touched all four bases, without the contribution of a fielding error
+* [[Batting average]]: hits divided by at bats—the traditional measure of batting ability
+The basic baserunning statistics include:
+* Stolen bases: times advancing to the next base entirely due to the runner's own efforts, generally while the pitcher is preparing to deliver or delivering the ball
+* Caught stealing: times tagged out while attempting to steal a base
+[[File:Cy young pitching.jpg|right|thumb|250px|[[Cy Young]]—the holder of many major league career marks, including wins and innings pitched, as well as losses—in 1908. MLB's annual [[Cy Young Award|awards for the best pitcher in each league]] are named for Young.]]
+The basic pitching statistics include:
+* [[Win (baseball)|Wins]]: games where pitcher was pitching while his team took a lead that it never relinquished, going on to win
+* [[Loss (baseball)|Losses]]: games where pitcher was pitching while the opposing team took a lead that it never relinquished, going on to win
+* [[Save (baseball)|Saves]]: games where the pitcher enters a game led by the pitcher's team, finishes the game without surrendering the lead, is not the winning pitcher, and either (a) the lead was three runs or less when the pitcher entered the game; (b) the potential tying run was on base, at bat, or on deck; or (c) the pitcher pitched three or more innings
+* [[Innings pitched]]: outs recorded while pitching divided by three
+* Strikeouts: times pitching three strikes to a batter
+* [[Winning percentage]]: wins divided by decisions (wins plus losses)
+* [[Earned run average]] (ERA): runs allowed, excluding those resulting from fielding errors, per nine innings pitched
+The basic fielding statistics include:
+* [[Putout]]s: times the fielder tags, forces, or appeals a runner and he is called out as a result
+* [[Assist (baseball)|Assists]]: times a putout was recorded following the fielder touching the ball
+* Errors: times the fielder fails to make a play he should have made with common effort, and the batting team benefits as a result
+* [[Total chances]]: putouts plus assists plus errors
+* [[Fielding average]]: successful chances (putouts plus assists) divided by total chances
+
+Among the many other statistics that are kept are those collectively known as ''situational statistics''. For example, statistics can indicate which specific pitchers a certain batter performs best against. If a given situation statistically favors a certain batter, the manager of the fielding team may be more likely to change pitchers or [[intentional base on balls|intentionally walk]] the batter in order to face one who is less likely to succeed.

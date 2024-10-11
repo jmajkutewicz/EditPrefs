@@ -1,0 +1,43 @@
+{{aa}}
+{{b}}
+Intro {{t}} more intro
+
+== Template at the start ==
+{{ at the start of a section }}
+{{ second the start of a section }}
+
+{{ at the start of a text }} aaa {{ at the end of a text }}
+
+{{ at the end of a section }}
+{{ second at the end of a section }}
+
+== Multi line template ==
+
+{{Infobox military conflict
+|conflict = ''Take Ichi'' convoy
+|partof = [[Pacific War]]
+}}
+
+== Multi paragraph ==
+a
+a
+{{a}}
+
+{{x}}
+
+{{b}}
+b
+
+{{c}}
+
+
+== Inside text ==
+{{ at the start of a section }}
+
+aa {{t}} bb
+{{inside text after single line break}}
+cc
+
+second para {{xx}}
+
+{{ at the end of a section and whole document}}

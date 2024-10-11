@@ -1,0 +1,90 @@
+===default__wiki__article__introduction__heading===
+Intro
+===Acupuncture===
+Acupuncture is a form of alternative medicine and a component of traditional Chinese medicine (TCM) in which thin needles are inserted into the body.
+
+In the US, acupuncture is increasingly ({{As of|2014|lc=y}}) used at academic medical centers
+===Acupuncture // Pseudoscience===
+A "Nature" editorial described TCM as "fraught with pseudoscience"
+===Acupuncture // ''De-qi'' sensation===
+"De-qi" ({{zh|s=&#24471;&#27668;|p=d&#233; q&#236;}}; "arrival of qi") refers to a claimed sensation of numbness
+
+Other techniques aim at "tonifying" ({{zh|s=&#34917;|p=b&#468;}}) or "sedating" ({{zh|s=&#27844;|p=xi&#232;}}) "qi". The former techniques are used in deficiency patterns
+===Acupuncture // Efficacy===
+{{asof|2021}} many thousands of papers had been published
+===Acupuncture // Needles===
+Needles vary in length between {{convert|13|and|130|mm|in}}, with shorter needles used near the face and eyes, and longer needles in areas with thicker tissues; needle diameters vary from 0{{convert|.16|mm|3|abbr=on}} to 0{{convert|.46|mm|3|abbr=on}}, with thicker needles used on more robust patients.
+===Acupuncture // Traditional===
+Acupuncture is a substantial part of traditional Chinese medicine (TCM).
+===Acupuncture // Traditional // Neolithic===
+Acupuncture may have been practised during the Neolithic era, near the end of the Stone Age, using sharpened stones called Bian shi. Many Chinese texts from later eras refer to sharp stones called "plen", which means "stone probe", that may have been used for acupuncture purposes.
+===Acupuncture // Traditional // Establishment and growth===
+In the first half of the 1st century AD, acupuncturists began promoting the belief that acupuncture's effectiveness was influenced by the time of day or night, the lunar cycle, and the season. The 'science of the yin-yang cycles' ({{lang|zh|&#36939;&#27683;&#23416;}} {{transliteration|zh|y&#249;n q&#236; xu&#233;}}) was a set of beliefs that curing diseases relied on the alignment of both heavenly ("tian") and earthly ("di") forces that were attuned to cycles like that of the sun and moon. There were several different belief systems that relied on a number of celestial and earthly bodies or elements that rotated and only became aligned at certain times. According to Needham and Lu, these "arbitrary predictions" were depicted by acupuncturists in complex charts and through a set of special terminology.
+===Dish-bearers===
+The chief attendants at Anglo-Saxon royal feasts were dish-bearers and butlers or cup-bearers. Dish-bearer in Medieval Latin (ML) is {{lang|la|discifer}} or {{lang|la|dapifer}}, and in Old English (OE) {{lang|ang|discþegn}}, also {{lang|ang|discðegn}} and {{lang|ang|discþen}} (dish-thegn). The French medievalist Alban Gautier states: "Both {{lang|la|discifer}} and {{lang|la|dapifer}} literally mean {{gloss|dish-bearer}}, but in the first case {{gloss|dish}} should be understood as the disc-shaped object ({{lang|la|discus}}), whereas in the second it refers to the culinary preparation that was inside ({{lang|la|dapes}})."
+===Dish-bearers // Duplicated section===
+subsection named Duplicated section
+===Duplicated section===
+section named Duplicated section
+===Louisiana Lafayette===
+This game marked the second meeting of the Texas Longhorns and the Louisiana Lafayette Ragin' Cajuns. In their first meeting in 2000, UT fell behind 10–0 before quarterback Major Applewhite entered the game late in the first quarter and threw for 315 yards and 4 touchdowns as the Longhorns scored 52 unanswered points in a 52–10 victory.
+===Disco Demolition Night===
+oldid=513070232
+
+Social commentators and historians have noted that for many minority groups the event did not represent the end of the disco era but "a mass exercise in racism and homophobia, reminiscent of Nazi book-burnings.". The book "A Change Is Gonna Come" states that "The Anti-disco movement represented an unholy alliance of funkateers and feminists, progressives and puritans, rockers and reactionaries. The attacks on disco gave respectable voice to the ugliest kinds of unacknowledged racism, sexism and homophobia." Dahl, however, rejects the notion that prejudice was his motivation. "The worst thing is people calling Disco Demolition homophobic or racist. It just wasn't...We weren't thinking like that."
+XXX
+===Table (Bacteria)===
+
+===Table (Bacteria) //  // Gregory of Nyssa===
+Gregory of Nyssa wrote:Scripture informs us that the Deity proceeded by a sort of graduated and ordered advance to the creation of man. After the foundations of the universe were laid, as the history records, man did not appear on the earth at once, but the creation of the brutes preceded him, and the plants preceded them. Thereby Scripture shows that the vital forces blended with the world of matter according to a gradation; first it infused itself into insensate nature; and in continuation of this advanced into the sentient world; and then ascended to intelligent and rational beings (emphasis added).Henry Fairfield Osborn wrote in his work on the history of evolutionary thought,
+===Diplodocus===
+The German satirical weekly Kladderadatsch devoted a poem to the dinosaur:
+===0.9999===
+Byers also presents the following argument.
+{{block indent|1=<math>
+\begin{align}
+     x &= 0.999\ldots \\
+   10x &= 9.999\ldots && \text{by multiplying by }10\\
+   10x &= 9+0.999\ldots && \text{by splitting off integer part}\\
+   10x &= 9 + x && \text{by definition of }x\\
+   9x &= 9 && \text{by subtracting }x\\
+    x &= 1 && \text{by dividing by }9
+\end{align}
+</math>}}
+===Binary search===
+Procedure
+
+ function binary_search(A, n, T) is
+     L := 0
+     R := n − 1
+     while L ≤ R do
+         m := floor((L + R) / 2)
+         if A[m] < T then
+             L := m + 1
+         else if A[m] > T then
+             R := m − 1
+         else:
+             return m
+     return unsuccessful
+===Enzyme inhibitor===
+To demonstrate the relationship the following rearrangement can be made:
+ <math>\begin{align}\cfrac{V_\max}{1 + \cfrac\ce{[I]}{K_i}} &={V_\max}\left(\cfrac{K_i}{K_i+[\ce I]}\right)&&\text{multiply by } \cfrac{K_i}{K_i}=1\\
+&={V_\max}\left(\cfrac{K_i+[\ce I]-[\ce I]}{K_i+[\ce I]}\right)&&\text{add }[\ce I]-[\ce I]=0\text{ to numerator}\\
+&={V_\max}\left(1-\cfrac{[\ce I]}{K_i+[\ce I]}\right)&&\text{simplify }\cfrac{K_i+[\ce I]}{K_i+[\ce I]}=1\\
+&=V_\max - V_\max \cfrac\ce{[I]}{K_i+[\ce I]}&&\text{multiply out by }V_\max \end{align}</math>
+===Chagas disease===
+In the acute phase of the disease, signs and symptoms are caused directly by the replication of {{nowrap|''T. cruzi''}} and the immune system's response to it. During this phase, {{nowrap|''T. cruzi''}} can be found in various tissues throughout the body and circulating in the blood. During the initial weeks of infection, parasite replication is brought under control by production of antibodies and activation of the host's inflammatory response, particularly cells that target intracellular pathogens such as NK cells and macrophages, driven by inflammation-signaling molecules
+===Changeling (film)===
+"Changeling"'s budget was $55 million. Principal photography began on October 15, 2007, It finished two days ahead of its 45-day schedule, on December 14, 2007. Filming mainly took place on the Universal Studios backlot in Los Angeles.
+===Christopher C. Kraft Jr===
+On Christmas Eve, 1968, Apollo 8 went into orbit around the Moon. Only ten years earlier, Kraft had joined Gilruth's newly founded Space Task Group. Now, the two men sat together in Mission Control, reflecting on how far they had come. Around them, the room was filled with cheers, but Kraft and Gilruth celebrated more quietly.
+
+{{Blockquote  | It was glorious pandemonium, and through the mist in my own eyes, I saw Bob Gilruth wiping at his and hoping that no one saw him crying. I put my hand on his arm and squeezed. [...] He lifted my hand from his arm and shook it strongly. There were no words from either of us. The lumps in our throats held them back.}}
+
+Kraft again found himself a spectator during the landing of Apollo 11, which he viewed from Mission Control, sitting with Gilruth and George Low. He played a more active role in events during the unfolding of the Apollo 13 crisis. Called into Mission Control by Gene Kranz almost immediately after the accident, he led discussions on whether Apollo 13 should attempt a direct abort, or go around the Moon and return on a free trajectory; the latter option was taken.
+===Quotes around concert name (Ayumi Hamasaki)===
+Due to the cancellation of her 2020 tour, Hamasaki held an online concert named "Trouble Tour 2020 A: Saigo no Trouble Final" on October 2. This was without an in-person audience, the stream being hosted by Mu-mo Live. On December 2, the singer also performed "Ohia no Ki" as part of the FNS Music Festival. Later that same month, Hamasaki planned to hold an in-person Christmas concert titled "Special Showcase Xmas Eve 2020," but it was later adapted to be a streaming exclusive via YouTube on December 24. "Countdown Live 2020-2021 A: Music For Life," two New Year concerts for December 30 and 31, were cancelled on December 29 due to a member of staff testing positive with COVID-19. Hamasaki later confirmed she was following isolation instructions and had not tested positive herself.
+===not a typo===
+This warbler gets its name from its simple distinctive song, a repetitive cheerful "{{not a typo|chiff-chaff}}". This song is one of the first avian signs that spring has returned. Its call is a "{{not a typo|hweet}}", less disyllabic than the "{{not a typo|hooeet}}" of the willow warbler or "{{not a typo|hu-it}}" of the western Bonelli's warbler.
+===Templates to remove===
+{{ at the start of a text }} aaa

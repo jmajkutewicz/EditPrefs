@@ -1,0 +1,16 @@
+The Casimir invariants for negative energies are
+ <math>
+C_1 = \mathbf{D} \cdot \mathbf{D} + \mathbf{L} \cdot \mathbf{L} = \frac{mk^2}{2|E|},
+</math>
+ <math>
+C_2 = \mathbf{D} \cdot \mathbf{L} = 0,
+</math>
+
+and have vanishing Poisson brackets with all components of D and L,
+ <math>
+\{ C_1, L_i \} = \{ C_1, D_i\} =
+\{ C_2, L_i \} = \{ C_2, D_i \} = 0.
+</math>
+"C"2 is trivially zero, since the two vectors are always perpendicular.
+
+However, the other invariant, "C"1, is non-trivial and depends only on "m", "k" and "E".  Upon canonical quantization, this invariant allows the energy levels of hydrogen-like atoms to be derived using only quantum mechanical canonical commutation relations, instead of the conventional solution of the Schrödinger equation. This derivation is discussed in detail in the next section.

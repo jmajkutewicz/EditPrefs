@@ -1,0 +1,45 @@
+== First line changed ==
+* aaxx
+* bb
+* cc
+
+== First line added ==
+* xx
+* aa
+* bb
+* cc
+
+== Middle line changed ==
+* aa
+* bbxx
+* cc
+
+== Middle line added ==
+* aa
+* bb
+* xx
+* cc
+
+== Last line changed ==
+* aa
+* bb
+* ccxx
+
+== Last line added ==
+* aa
+* bb
+* cc
+* xx
+
+== No changes ==
+* aa
+** bb
+* cc
+
+== First line removed ==
+* bb
+* cc
+
+== Last line removed ==
+* aa
+* bb

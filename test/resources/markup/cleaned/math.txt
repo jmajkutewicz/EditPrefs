@@ -1,0 +1,58 @@
+===default__wiki__article__introduction__heading===
+Intro
+===0.999===
+Therefore, 1 is the smallest number that is greater than all <math> 0.9 </math>, <math> 0.99 </math>, <math> 0.999 </math>, etc., and so <math> 1 = 0.999\ldots </math>.
+
+Therefore, 1 is the smallest number that is greater than all 0.9, 0.99, 0.999, etc., and so {{math|1=1 = 0.999...}}.
+===Pi===
+{{pi}} is commonly defined as the ratio of a circle's circumference {{math|''C''}} to its diameter {{math|''d''}}:
+<math> \pi = \frac{C}{d}.</math>
+The ratio {{math|''C''/''d''}} is constant, regardless of the circle's size. For example, if a circle has twice the diameter of another circle, it will also have twice the circumference, preserving the ratio {{math|''C''/''d''}}. This definition of {{pi}} implicitly makes use of flat (Euclidean) geometry; although the notion of a circle can be extended to any curve (non-Euclidean) geometry, these new circles will no longer satisfy the formula {{math|{{pi}} {{=}} ''C''/''d''}}.
+
+Here, the circumference of a circle is the arc length around the perimeter of the circle, a quantity which can be formally defined independently of geometry using limits—a concept in calculus.  For example, one may directly compute the arc length of the top half of the unit circle, given in Cartesian coordinates by the equation {{math|''x''<sup>2</sup> + ''y''<sup>2</sup> {{=}} 1}}, as the integral:
+<math>\pi = \int_{-1}^1 \frac{dx}{\sqrt{1-x^2}}.</math>
+An integral such as this was adopted as the definition of {{pi}} by Karl Weierstrass, who defined it directly as an integral in 1841.
+
+Integration is no longer commonly used in a first analytical definition because, as  explains, differential calculus typically precedes integral calculus in the university curriculum, so it is desirable to have a definition of {{pi}} that does not rely on the latter.  One such definition, due to Richard Baltzer and popularized by Edmund Landau, is the following: {{pi}} is twice the smallest positive number at which the cosine function equals 0. {{pi}} is also the smallest positive number at which the sine function equals zero, and the difference between consecutive zeroes of the sine function. The cosine and sine can be defined independently of geometry as a power series, or as the solution of a differential equation.
+
+In a similar spirit, {{pi}} can be defined using properties of the complex exponential, {{math|exp ''z''}}, of a complex variable {{math|''z''}}. Like the cosine, the complex exponential can be defined in one of several ways. The set of complex numbers at which {{math|exp ''z''}} is equal to one is then an (imaginary) arithmetic progression of the form:
+<math>\{\dots,-2\pi i, 0, 2\pi i, 4\pi i,\dots\} = \{2\pi ki\mid k\in\mathbb Z\}</math>
+and there is a unique positive real number {{pi}} with this property.
+
+A variation on the same idea, making use of sophisticated mathematical concepts of topology and algebra, is the following theorem: there is a unique (up to automorphism) continuous isomorphism from the group R/Z of real numbers under addition modulo integers (the circle group), onto the multiplicative group of complex numbers of absolute value one. The number {{pi}} is then defined as half the magnitude of the derivative of this homomorphism.
+
+Euclid's algorithm can be applied to real numbers, as described by Euclid in Book 10 of his "Elements". The goal of the algorithm is to identify a real number {{mvar|g}} such that two given real numbers, {{mvar|a}} and {{mvar|b}}, are integer multiples of it: {{math|1=''a'' = ''mg''}} and {{math|1=''b'' = ''ng''}}, where {{mvar|m}} and {{mvar|n}} are integers. This identification is equivalent to finding an integer relation among the real numbers {{mvar|a}} and {{mvar|b}}; that is, it determines integers {{mvar|s}} and {{mvar|t}} such that {{math|1=''sa'' + ''tb'' = 0}}. Euclid uses this algorithm to treat the question of incommensurable lengths.
+
+The real-number Euclidean algorithm differs from its integer counterpart in two respects. First, the remainders {{math|''r''<sub>''k''</sub>}} are real numbers, although the quotients {{math|''q''<sub>''k''</sub>}} are integers as before. Second, the algorithm is not guaranteed to end in a finite number {{mvar|N}} of steps. If it does, the fraction {{math|''a''/''b''}} is a rational number, i.e., the ratio of two integers
+
+  {{math|1=''a''/''b'' = ''mg''/''ng'' = ''m''/''n''}}
+
+and can be written as a finite continued fraction {{math|1=[''q''<sub>0</sub>; ''q''<sub>1</sub>, ''q''<sub>2</sub>, …, ''q''<sub>''N''</sub>]}}. If the algorithm does not stop, the fraction "a"/"b" is an irrational number and can be described by an infinite continued fraction {{math|1=[''q''<sub>0</sub>; ''q''<sub>1</sub>, ''q''<sub>2</sub>, …]}}. Examples of infinite continued fractions are the golden ratio "φ" = [1; 1, 1, …] and the square root of two, {{sqrt|2}} = [1; 2, 2, …]. The algorithm is unlikely to stop, since almost all ratios "a"/"b" of two real numbers are irrational.
+
+An infinite continued fraction may be truncated at a step {{math|1=''k'' [''q''<sub>0</sub>; ''q''<sub>1</sub>, ''q''<sub>2</sub>, …, ''q''<sub>''k''</sub>]}} to yield an approximation to "a"/"b" that improves as "k" is increased. The approximation is described by convergents {{math|''m''<sub>''k''</sub>/''n''<sub>''k''</sub>}}; the numerator and denominators are coprime and obey the recurrence relation
+
+ {{math|1=''m''<sub>''k''</sub> = ''q''<sub>''k''</sub> ''m''<sub>''k''−1</sub> + ''m''<sub>''k''−2</sub>}}
+ {{math|1=''n''<sub>''k''</sub> = ''q''<sub>''k''</sub> ''n''<sub>''k''−1</sub> + ''n''<sub>''k''−2</sub>}}
+
+where {{math|1=''m''<sub>−1</sub> = ''n''<sub>−2</sub> = 1}} and {{math|1=''m''<sub>−2</sub> = ''n''<sub>−1</sub> = 0}} are the initial values of the recursion. The convergent {{math|''m''<sub>''k''</sub>/''n''<sub>''k''</sub>}} is the best rational number approximation to "a"/"b" with denominator {{math|''n''<sub>''k''</sub>}}:
+ <math>
+\left|\frac{a}{b} - \frac{m_k}{n_k}\right| < \frac{1}{n_k^2}.
+</math>
+===Euclidean algorithm===
+Euclid's algorithm can be applied to real numbers, as described by Euclid in Book 10 of his "Elements". The goal of the algorithm is to identify a real number {{mvar|g}} such that two given real numbers, {{mvar|a}} and {{mvar|b}}, are integer multiples of it: {{math|1=''a'' = ''mg''}} and {{math|1=''b'' = ''ng''}}, where {{mvar|m}} and {{mvar|n}} are integers. This identification is equivalent to finding an integer relation among the real numbers {{mvar|a}} and {{mvar|b}}; that is, it determines integers {{mvar|s}} and {{mvar|t}} such that {{math|1=''sa'' + ''tb'' = 0}}. Euclid uses this algorithm to treat the question of incommensurable lengths.
+
+The real-number Euclidean algorithm differs from its integer counterpart in two respects. First, the remainders {{math|''r''<sub>''k''</sub>}} are real numbers, although the quotients {{math|''q''<sub>''k''</sub>}} are integers as before. Second, the algorithm is not guaranteed to end in a finite number {{mvar|N}} of steps. If it does, the fraction {{math|''a''/''b''}} is a rational number, i.e., the ratio of two integers
+
+  {{math|1=''a''/''b'' = ''mg''/''ng'' = ''m''/''n''}}
+
+and can be written as a finite continued fraction {{math|1=[''q''<sub>0</sub>; ''q''<sub>1</sub>, ''q''<sub>2</sub>, …, ''q''<sub>''N''</sub>]}}. If the algorithm does not stop, the fraction "a"/"b" is an irrational number and can be described by an infinite continued fraction {{math|1=[''q''<sub>0</sub>; ''q''<sub>1</sub>, ''q''<sub>2</sub>, …]}}. Examples of infinite continued fractions are the golden ratio "φ" = [1; 1, 1, …] and the square root of two, {{sqrt|2}} = [1; 2, 2, …]. The algorithm is unlikely to stop, since almost all ratios "a"/"b" of two real numbers are irrational.
+
+An infinite continued fraction may be truncated at a step {{math|1=''k'' [''q''<sub>0</sub>; ''q''<sub>1</sub>, ''q''<sub>2</sub>, …, ''q''<sub>''k''</sub>]}} to yield an approximation to "a"/"b" that improves as "k" is increased. The approximation is described by convergents {{math|''m''<sub>''k''</sub>/''n''<sub>''k''</sub>}}; the numerator and denominators are coprime and obey the recurrence relation
+
+ {{math|1=''m''<sub>''k''</sub> = ''q''<sub>''k''</sub> ''m''<sub>''k''−1</sub> + ''m''<sub>''k''−2</sub>}}
+ {{math|1=''n''<sub>''k''</sub> = ''q''<sub>''k''</sub> ''n''<sub>''k''−1</sub> + ''n''<sub>''k''−2</sub>}}
+
+where {{math|1=''m''<sub>−1</sub> = ''n''<sub>−2</sub> = 1}} and {{math|1=''m''<sub>−2</sub> = ''n''<sub>−1</sub> = 0}} are the initial values of the recursion. The convergent {{math|''m''<sub>''k''</sub>/''n''<sub>''k''</sub>}} is the best rational number approximation to "a"/"b" with denominator {{math|''n''<sub>''k''</sub>}}:
+ <math>
+\left|\frac{a}{b} - \frac{m_k}{n_k}\right| < \frac{1}{n_k^2}.
+</math>

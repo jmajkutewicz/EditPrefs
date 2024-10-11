@@ -1,0 +1,116 @@
+<page>
+    <title>Test xml</title>
+    <ns>0</ns>
+    <id>1</id>
+
+    <revision>
+        <id>1</id>
+        <timestamp>2002-12-11T09:39:56Z</timestamp>
+        <contributor>
+            <username>Test</username>
+            <id>1</id>
+        </contributor>
+        <comment>This is a test</comment>
+        <model>wikitext</model>
+        <format>text/x-wiki</format>
+        <!-- first version -->
+        <text bytes="16575" xml:space="preserve">
+{{Featured article}}
+aaa
+        </text>
+        <sha1>1234</sha1>
+    </revision>
+
+    <revision>
+        <id>2</id>
+        <timestamp>2004-12-11T09:39:56Z</timestamp>
+        <contributor>
+            <username>Test</username>
+            <id>1</id>
+        </contributor>
+        <comment>This is a test</comment>
+        <model>wikitext</model>
+        <format>text/x-wiki</format>
+        <!-- AA changed to aa (kept) -->
+        <!-- ss changed to SS (not kept, despite SS being in feature article id=3) -->
+        <text bytes="16575" xml:space="preserve">
+aaa
+        </text>
+        <sha1>1234</sha1>
+    </revision>
+
+    <revision>
+        <id>3</id>
+        <timestamp>2006-12-11T09:39:56Z</timestamp>
+        <contributor>
+            <username>Test</username>
+            <id>1</id>
+        </contributor>
+        <comment>This is a test</comment>
+        <model>wikitext</model>
+        <format>text/x-wiki</format>
+        <!-- marked as featured article, but not a featured article -->
+        <!-- ee changed to EE (kept, text in featured article id=5) -->
+        <text bytes="16575" xml:space="preserve">
+{{Featured article}}
+aaa
+        </text>
+        <sha1>1234</sha1>
+    </revision>
+
+    <revision>
+        <id>4</id>
+        <timestamp>2008-12-11T09:39:56Z</timestamp>
+        <contributor>
+            <username>Test</username>
+            <id>1</id>
+        </contributor>
+        <comment>This is a test</comment>
+        <model>wikitext</model>
+        <format>text/x-wiki</format>
+        <!-- featured article removed -->
+        <!-- new line added (ii JJ kk) -->
+        <!-- SS changed to ss (kept) -->
+        <text bytes="16575" xml:space="preserve">
+aaa
+        </text>
+        <sha1>1234</sha1>
+    </revision>
+
+    <revision>
+        <id>5</id>
+        <timestamp>2010-12-11T09:39:56Z</timestamp>
+        <contributor>
+            <username>Test</username>
+            <id>1</id>
+        </contributor>
+        <comment>This is a test</comment>
+        <model>wikitext</model>
+        <format>text/x-wiki</format>
+        <!-- featured article added -->
+         <!-- JJ changed to jj (kept) -->
+        <text bytes="16575" xml:space="preserve">
+{{featured Article}}
+aaa
+        </text>
+        <sha1>1234</sha1>
+    </revision>
+
+    <revision>
+        <id>6</id>
+        <timestamp>2012-12-11T09:39:56Z</timestamp>
+        <contributor>
+            <username>Test</username>
+            <id>1</id>
+        </contributor>
+        <comment>This is a test</comment>
+        <model>wikitext</model>
+        <format>text/x-wiki</format>
+         <!-- EE changed to ee (kept) -->
+        <text bytes="16575" xml:space="preserve">
+{{Featured article}}
+aaa
+        </text>
+        <sha1>1234</sha1>
+    </revision>
+</page>

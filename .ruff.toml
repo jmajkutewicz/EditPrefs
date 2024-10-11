@@ -1,0 +1,116 @@
+# Exclude a variety of commonly ignored directories.
+exclude = [
+    ".bzr",
+    ".direnv",
+    ".eggs",
+    ".git",
+    ".git-rewrite",
+    ".hg",
+    ".ipynb_checkpoints",
+    ".mypy_cache",
+    ".nox",
+    ".pants.d",
+    ".pyenv",
+    ".pytest_cache",
+    ".pytype",
+    ".ruff_cache",
+    ".svn",
+    ".tox",
+    ".venv",
+    ".vscode",
+    "__pypackages__",
+    "_build",
+    "buck-out",
+    "build",
+    "dist",
+    "node_modules",
+    "site-packages",
+    "venv",
+]
+# https://docs.astral.sh/ruff/settings/#top-level
+line-length = 120
+indent-width = 4
+target-version = "py311"
+
+# https://docs.astral.sh/ruff/settings/#lint
+[lint]
+select = [
+    # pydocstyle
+    "D",
+    # pycodestyle
+    "E",
+    # Pyflakes
+    "F",
+    # pyupgrade
+    "UP",
+    # flake8-bugbear
+    "B",
+    # flake8-simplify
+    "SIM",
+    # isort
+    "I",
+    # warnings
+    "W"
+]
+ignore = [
+    # D100 Missing docstring in public module
+    "D100",
+    # D104 Missing docstring in public package
+    "D104",
+    # D415 First line should end with a period, question mark, or exclamation point
+    "D415"
+]
+
+# Allow fix for all enabled rules (when `--fix`) is provided.
+fixable = ["ALL"]
+unfixable = []
+
+# Allow unused variables when underscore-prefixed.
+dummy-variable-rgx = "^(_+|(_+[a-zA-Z0-9_]*[a-zA-Z0-9]+?))$"
+
+# A list of task tags
+task-tags = ["TODO", "FIXME"]
+
+# https://docs.astral.sh/ruff/settings/#lintisort
+[lint.isort]
+known-first-party = ["wikiprefs"]
+
+# https://docs.astral.sh/ruff/settings/#lintpydocstyle
+[lint.pydocstyle]
+# Use Google-style docstrings.
+convention = "google"
+
+# https://docs.astral.sh/ruff/settings/#lint_per-file-ignores
+[lint.per-file-ignores]
+# Ignore docstring and SIM errors for collect_npov_diffs.py
+# D102 Missing docstring in public method
+# D107 Missing docstring in `__init__
+"wikiprefs/collect_npov_diffs.py" = ["D102", "D107", "SIM115"]
+# Ignore docstring and SIM errors for download_articles_history.py
+# D102 Missing docstring in public method
+# D107 Missing docstring in `__init__
+# `SIM115` (Use context handler for opening files) because it needs to keep the file handler open during xml processing
+"wikiprefs/download_articles_history.py" = ["D102", "D107", "SIM115"]
+# Ignore docstring and SIM errors for find_npov_edits.py
+# D102 Missing docstring in public method
+# D107 Missing docstring in `__init__
+"wikiprefs/find_npov_edits.py" = ["D102", "D107", "SIM115"]
+# Ignore `SIM105` (Use `contextlib.suppress(ValueError)` instead of `try`-`except`-`pass`) in markup_processing because
+# it needs to ignore weird ValueError thrown by mwparserfromhell
+"wikiprefs/markup/markup_processing.py" = ["SIM105"]
+# Ignore docstring errors for XML utils
+# D102 Missing docstring in public method
+# D107 Missing docstring in `__init__
+"wikiprefs/utils/xml_utils.py" = ["D102", "D107"]
+
+#https://docs.astral.sh/ruff/settings/#format
+[format]
+docstring-code-format = true
+docstring-code-line-length = 120
+
+quote-style = "single"
+indent-style = "space"
+line-ending = "lf"
+
+# espect magic trailing commas.
+skip-magic-trailing-comma = false

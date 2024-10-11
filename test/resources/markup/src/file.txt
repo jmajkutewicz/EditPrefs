@@ -1,0 +1,4 @@
+Files test
+[[wiki link]]
+[[possibly wronk link with nested file [[file:test|test]]]]
+[[File:url|with nested link [[test]] test]]

@@ -1,0 +1,11 @@
+The "shape" and "orientation" of the orbits can be determined from the LRL vector as follows. Taking the dot product of {{math|'''A'''}} with the position vector {{math|'''r'''}} gives the equation
+<math>
+\mathbf{A} \cdot \mathbf{r} = A \cdot r \cdot \cos\theta =
+\mathbf{r} \cdot \left( \mathbf{p} \times \mathbf{L} \right) - mkr,
+</math>
+where {{mvar|θ}} is the angle between {{math|'''r'''}} and {{math|'''A'''}} (Figure 2). Permuting the scalar triple product yields
+<math>
+\mathbf{r} \cdot\left(\mathbf{p}\times \mathbf{L}\right) =
+\left(\mathbf{r} \times \mathbf{p}\right)\cdot\mathbf{L} =
+\mathbf{L}\cdot\mathbf{L}=L^2
+</math>

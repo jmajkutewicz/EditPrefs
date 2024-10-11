@@ -1,0 +1,413 @@
+{{Infobox Country
+|native_name = भारत गणराज्य<br />''Bh{{Unicode|ā}}rat Ga{{Unicode|ṇ}}ar{{Unicode|ā}}jya''<!-- IF YOU CANNOT SEE THE 'N' UPGRADE YOUR BROWSER -->
+|conventional_long_name = Republic of India
+|common_name = India
+|image_flag = Flag of India.svg
+|image_coat = Emblem of India.svg
+|symbol_type = Emblem
+|national_motto = "[[Satyameva Jayate]]" ([[Sanskrit language|Sanskrit]])<br />[[Devanāgarī]]: सत्यमेव जयते<br />{{IPARef|sɐt̪jəmeːʋə ʤəjət̪eː}}<br />("Truth Alone Triumphs")
+|image_map = LocationIndia.png
+|national_anthem = "[[Jana Gana Mana]]<br />{{Audio|Jana Gana Mana.ogg|listen}}"<br />{{IPA|/ʤənə gəɳə mɐnə/}}|
+official_languages = [[Hindi]], [[English language|English]], and [[List of national languages of India|21 other languages]]
+|capital = [[New Delhi]]
+|latd = 28|latm=34|latNS=N|longd=77|longm=12|longEW=E
+|government_type = [[Federal republic]]
+|leader_titles = [[President of India|President]]<br />[[Prime Minister of India|Prime Minister]]
+|leader_names = [[APJ Abdul Kalam]]<br />[[Manmohan Singh]] | largest_city = [[Mumbai]] (Bombay)
+|area = 3,287,590
+|areami²= 1,269,346<!-- Do not remove per [[WP:MOSNUM]] -->
+|area_rank = 7th
+|area_magnitude = 1 E12
+|percent_water = 9.56
+|population_estimate = 1,103,371,000
+|population_estimate_year = 2005
+|population_estimate_rank = 2nd
+|population_census = 1,027,015,247
+|population_census_year = 2001
+|population_density = 329
+|population_densitymi² = 852<!-- Do not remove per [[WP:MOSNUM]] -->
+|population_density_rank = 20th
+|GDP_PPP_year = 2005
+|GDP_PPP = $3.633 trillion
+|GDP_PPP_rank = 4th
+|GDP_PPP_per_capita = $3344
+|GDP_PPP_per_capita_rank = 122th
+|HDI_year = 2003
+|HDI = 0.602
+|HDI_rank = 127th
+|HDI_category = <font color="#FFCC00">medium</font>
+|sovereignty_type = [[Independence of India|Independence]]
+|established_events = &nbsp;- Commonwealth<br />&nbsp;- Republic
+|established_dates = From the [[United Kingdom]]<br />[[1947-08-15]]<br />[[1950-01-26]]
+|currency = [[Indian Rupee|Rupee]] (Rs.)<sup>1</sup>
+|currency_code = INR
+|time_zone = [[Indian Standard Time|IST]]
+|utc_offset = +5:30
+|time_zone_DST = not observed
+|utc_offset_DST = +5:30
+|cctld = [[.in]]
+|calling_code = 91
+|footnotes = <sup>1</sup> '''Re.''' is singular
+|*Includes census data from [[Jammu and Kashmir]], [[Azad Kashmir]], and [[Aksai Chin]]
+}}
+'''India''', officially the '''Republic of India''', is a country located in [[South Asia]]. It is the [[List of countries by area|seventh-largest]] country by geographical area, and the [[List of countries by population|second most populous]] country in the world. India has a coastline of over seven thousand kilometres,<ref name="indianembassy">{{cite web | title = Foreign Policy of India | work = Indian Embassy | url = http://www.indianembassy.org/policy/Foreign_Policy/2004/AR2004.htm | accessdate = March 24 | accessyear = 2006}}</ref> and borders [[Pakistan]] and [[Afghanistan]]<ref name="afgh">The Government of India considers the entire state of [[Jammu and Kashmir]] to be a part of India including the portion bordering [[Afghanistan]]. A ceasefire sponsored by the [[United Nations]] in 1948 freezes the positions of Indian and Pakistani held territory. As a consequence, the region bordering Afghanistan is in Pakistani-administered territory.</ref> to the west, [[Nepal]], the [[People's Republic of China]] and [[Bhutan]] to the north-east, and [[Bangladesh]] and [[Myanmar]] to the east. In the [[Indian Ocean]], it is adjacent to the [[island nation]]s of [[Sri Lanka]] and [[Indonesia]].
+
+Home to one of the four major [[Indus Valley Civilisation|ancient civilisations]], a center of important trade routes and vast empires, India has long played a major role in human history. [[Hinduism]], [[Jainism]], [[Buddhism]], and [[Sikhism]]&ndash;all have their origins in India, and [[Islam]] and [[Christianity]] enjoy a strong cultural heritage. Colonised as part of the [[British Empire]] in the nineteenth century, India gained independence in 1947 as a unified nation after an intensive [[Indian independence movement|struggle for independence]]. The country has one of the most diverse populations of wildlife, geographical terrain and climate systems found anywhere in the world.
+==Etymology==
+{{main|Origin of India's name}}
+The name ''India'' /{{IPA|'ɪndiə}}/ is derived from ''[[Indus River|Indus]]'', which is derived from the [[Old Persian]] word ''Hindu'', from [[Sanskrit]] ''[[Sindhu]]'', the historic local appellation for the [[Indus River]] .
+The [[Constitution of India]] and common usage also recognise '''Bharat''' ({{lang-hi|भारत}} {{IPA|/bʰɑːrət̪/}} {{Audio|Bharat.ogg|listen}}), as an official name of equal status. A third name, ''[[Hindustan]]'' ({{lang-hi|हिन्दुस्तान}} <!-- THIS SPELLING IS CORRECT. PLEASE READ [[Wikipedia:text support for Indic scripts]] --> /{{IPA|hin̪d̪ust̪ɑːn}}/) {{Audio|Hindustan.ogg|listen}} ([[Persian language|Persian]]: ''[[-stan|Land]] of the Hindus'' < Old Persian ''Hindu'', India / land of the [[Indus river|Indus]] < Sanskrit ''Sindhu'', any river/the [[Indus river|Indus]])<!--ref:Webster's New World Dictionary--> has been used since the twelfth century, though its contemporary use is unevenly applied.
+
+==Culture==
+{{main|Culture of India}}
+[[Image:Taj Mahal in March 2004.jpg|thumb|250px|right|The [[Taj Mahal]] in [[Agra]] is India's most popular tourist destination.]]
+India has a rich and unique cultural heritage, and has managed to preserve its established traditions throughout history whilst absorbing customs, traditions and ideas from both invaders and immigrants. Many cultural practices, languages, customs and monuments are examples of this co-mingling over centuries. Famous monuments, such as the [[Taj Mahal]] and other examples of [[Islamic architecture|Islamic-inspired architecture]] have been inherited from the Mughal dynasty. These are the result of a syncretic tradition that combined elements from all parts of the country.
+
+[[Music of India|Indian music]] is represented in a wide variety of forms. The two main forms of [[Indian classical music|classical music]] are ''[[Carnatic music|Carnatic]]'' from [[South India]], and ''[[Hindustani classical music|Hindustani]]'' from [[North India]]. Popular forms of music also prevail, the most notable being [[Filmi music]]. In addition to this are the diverse traditions of [[Indian folk music|folk music]] from different parts of the country. Many [[Indian classical dance|classical dance forms]] exist, including the [[Bharatanatyam]], [[Kathakali]], [[Kathak]] and [[Manipuri dance|Manipuri]]. They often have a narrative form and are usually infused with devotional and spiritual elements. The earliest [[Indian literature|literary traditions]] in India were mostly oral, and were later transcribed. Most of these are represented by sacred works like the [[Vedas]] and the epics of the [[Mahabharata]] and [[Ramayana]]. [[Sangam]] literature from Tamil Nadu represents some of India's oldest traditions. There have been many notable modern Indian writers, both in Indian languages and [[Indian Writing in English|in English]]. India's only [[Nobel Prize for Literature|Nobel laureate in literature]] was the [[Bengali language|Bengali]] writer [[Rabindranath Tagore]]. India produces the world's largest number of [[Cinema of India|films]] every year. The most recognisable face is that of cinema production based in Mumbai, which produces mainly commercial Hindi films, often referred to as "[[Bollywood]]". There are also strong cinema industries based on the [[Kannada language|Kannada]], [[Malayalam]], [[Tamil language|Tamil]], [[Telugu language|Telugu]] and [[Bengali cinema|Bengali]] languages.
+[[Image:Babasteve-View_of_Varanasi_from_the_Ganges.jpg|thumb|250px|right|[[Varanasi]] is the oldest living city in the world and is considered as one of the most sacred places of [[pilgrimage]] for Hindus irrespective of denomination.<ref name=Varanasicity>[http://www.varanasicity.com/history-of-varanasi.html "Oldest Holy city"]</ref>
+Religious practices of various faiths are an integral part of everyday life in society. Religion in India is a very public affair, with many practices imbued with pomp and vitality accompanying their underlying spiritual qualities. Education is highly regarded by members of every socio-economic stratum. Traditional Indian family values are highly respected, and considered sacred, although urban families have grown to prefer a nuclear family system, owing to the socio-economic constraints imposed by the traditional joint family system.
+
+The [[cuisine of India]] is extremely diverse, as ingredients, spices and cooking methods vary from region to region. Rice and wheat are the staple foods in the country. The country is notable for its wide variety of [[vegetarian]] and non-vegetarian [[wikibooks:Cookbook:Cuisine of India|cuisine]]. Spicy food and sweets are popular in India. [[Indian Dress|Traditional dress]] in India greatly varies across the regions in its colours and styles, and depend on various factors, including climate. Popular styles of dress include the traditional [[sari]] for women and the traditional [[dhoti]] for men.
+
+India's national sport is [[field hockey]], although [[cricket]] is now the ''de facto'' national game. In some states, particularly in the northeast, [[football (soccer)]] is the most popular sport and is widely watched. In recent times, [[tennis]] has gained popularity in India. [[Chess]] is also gaining popularity with the rise of number of [[grandmasters]]. The most commonly held view is that chess originated in India. Traditional indigenous sports include [[kabaddi]]<ref name="rediff">{{cite web | title = India pitches for Olympic kabbadi | work = Rediff.com | url = http://www.rediff.com/sports/2000/aug/30india.htm | accessdate = April 15 | accessyear = 2006}}</ref> and [[gilli-danda]], which are played in most parts of the country.
+
+
+==History==
+<!-- THIS SECTION IS A SUMMARY. CONSIDER ADDING MATERIAL TO THE 'HISTORY OF INDIA' ARTICLE.-->
+{{main|History of India}}
+
+[[Stone Age]] rock shelters with paintings at [[Bhimbetka]] in the state of [[Madhya Pradesh]] are the earliest known traces of human life in India. The first known permanent settlements appeared over 9,000 years ago, and gradually developed into the [[Indus Valley Civilisation]], began in around 3300 BCE in western India. It was followed by the [[Vedic Civilisation]] which laid the foundations of [[Hinduism]] and other cultural aspects of early Indian society. From around 550 BCE, many independent kingdoms and republics known as the [[Mahajanapadas]] were established across the country.
+
+The empire built by the [[Maurya dynasty]] under Emperor [[Ashoka]] united most of modern [[South Asia]]. From 180 BCE, a series of invasions from [[Central Asia]] followed including the [[Indo-Greek]]s, [[Indo-Scythian]]s, [[Indo-Parthian]]s and [[Kushan Empire|Kushans]] in the northwestern [[Indian Subcontinent]]. From the third century CE, the [[Gupta|Gupta dynasty]] oversaw the period referred to as ancient India's "Golden Age." In the south, several dynasties, including the [[Chalukyas]], [[Rashtrakutas]], [[Hoysalas]], [[Cheras]], [[Cholas]], [[Pallavas]] and [[Pandyas]] prevailed during different periods. [[Ancient Indian science and technology|Science, engineering]], [[Indian art|art]], [[Indian literature|literature]], [[Indian Mathematics|mathematics]], [[Indian science|astronomy]], [[Religion in India|religion]] and [[Indian philosophy|philosophy]] flourished under the patronage of these kings.
+[[Image:Sanchi2.jpg|thumb|right|270px|The [[Sanchi|Sanchi stupa]] in Sanchi, [[Madhya Pradesh]] built by emperor [[Ashoka]] in the 3rd century BC]]
+Following the invasions from Central Asia, between the tenth to the twelfth centuries, much of north India came under the rule of the [[Delhi Sultanate]], and later the [[Mughal dynasty]], who gradually expanded their reign throughout large parts of the Indian subcontinent. Nevertheless, several indigenous kingdoms flourished, especially in the south, like the [[Vijayanagara Empire]]. During the eighteenth and nineteenth centuries, several [[Europe|European]] countries, including [[Portugal]], [[Netherlands]], [[France]] and the [[United Kingdom]], initially arrived as traders, later took advantage of the fractious nature of relations between the kingdoms, to establish [[colony|colonies]] in the country. By 1856, most of India came under control of the [[British East India Company]]. A year later, a nationwide insurrection of rebelling military units and kingdoms, known locally as the [[Indian rebellion of 1857|First War of Indian Independence]] (known as the Sepoy Mutiny elsewhere) broke out, which failed even as it seriously challenged British rule. India thus came under the direct control of the [[British Crown]] as a colony of the British Empire.
+
+[[Image:Nehru Gandhi 1937 touchup.jpg|thumb|250px|right|[[Mahatma Gandhi]] (right) with India's first Prime Minister, Pandit [[Jawaharlal Nehru]]]]
+In the early twentieth century, a nationwide [[Indian Independence Movement|struggle for independence]] was launched by the [[Indian National Congress]], largely led by [[Mahatma Gandhi]]. Millions of protestors would engage in mass campaigns of [[civil disobedience]] with a commitment to ''[[ahimsa]]'' or non-violence. Finally, on [[15 August]], 1947, India gained independence from British rule. Three years later, on [[26 January]], 1950, India chose to be a republic, and a new [[Constitution of India|Constitution]] came into effect.
+
+Since independence, India has seen sectarian violence and [[insurgency|insurgencies]] in various parts of the country, but has maintained its unity and democracy. It has unresolved territorial disputes with China, which escalated into the brief [[Sino-Indian War]] in 1962; and with Pakistan, which resulted in wars in [[Indo-Pakistani War of 1947|1947]], [[Indo-Pakistani War of 1965|1965]], [[Indo-Pakistani War of 1971|1971]] and in 1999 in [[Kargil War|Kargil]]. India is a founding member of the [[Non-Aligned Movement]] and the [[United Nations]] (as part of British India). In 1974, India conducted an underground [[Smiling Buddha|nuclear test]]. This was followed by [[Operation Shakti|five more]] tests in 1998. Significant economic reforms beginning in 1991 have transformed India into one of the fastest-growing economies in the world, and added to its global and regional clout.
+{{see also|Military history of India|Timeline of Indian history}}
+
+==Government==
+{{main|Government of India}}
+{| class="toccolours" style="float: right; margin-left: 0.75em; margin-bottom: 0.5em; padding: 0.5em; width:220px; border-collapse: collapse; font-size: 95%;"
+|+ '''National symbols of India'''
+|-
+| style="padding-left: 1em;" | '''Flag'''
+| [[Tiranga]]
+|-
+| style="padding-left: 1em;" | '''Emblem'''
+| [[Emblem of India|Sarnath Lion]]
+|-
+| style="padding-left: 1em;" | '''Anthem'''
+| "[[Jana Gana Mana]]"
+|-
+| style="padding-left: 1em;" | '''Song'''
+| "[[Vande Mataram|Vandē Mātaram]]"
+|-
+| style="padding-left: 1em;" | '''Animal'''
+| [[Bengal Tiger|Royal Bengal Tiger]]
+|-
+| style="padding-left: 1em;" | '''Bird'''
+| [[Indian Peacock]]
+|-
+| style="padding-left: 1em;" | '''Flower'''
+| [[Nelumbo nucifera|Lotus]]
+|-
+| style="padding-left: 1em;" | '''Tree'''
+| [[Banyan]]
+|-
+| style="padding-left: 1em;" | '''Fruit'''
+| [[Mango]]
+|-
+| style="padding-left: 1em;" | '''Sport'''
+| [[Field Hockey]]
+|-
+| style="padding-left: 1em;" | '''Calendar'''
+| [[Indian National Calendar|Saka]]
+|
+|}
+The Consitution of India states that India is a [[sovereignty|sovereign]], [[socialist]], [[secular]], [[democratic]] [[republic]]. India has a federal form of government and a [[bicameral]] [[parliament]] operating under a [[Westminster System|Westminster-style]] parliamentary system. It has three branches of governance: the [[Legislature]], [[Executive]] and [[Judiciary]].
+
+The [[President of India|President]] is the [[head of state]], though he has a largely ceremonial role to play. He is also the [[Commander-in-Chief]] of [[Indian military|India's armed forces]]. The President is elected indirectly by an [[electoral college]] for five-year terms. The [[Prime Minister of India|Prime Minister]] is the ''de facto'' [[head of government]], and has most executive powers. He or she is appointed by the President, with the requirement that he/she enjoys the support of the majority of the party or coalition securing the most number of seats in lower house of the Parliament (the ''[[Lok Sabha]]'').
+
+The legislature of India is the bicameral [[Indian Parliament|Parliament]], which consists of the upper house called the [[Rajya Sabha]] (Council of States), and the lower house called the [[Lok Sabha]] (House of People). The 245-member ''Rajya Sabha'' is chosen indirectly through the state Legislative Assemblies, and has a staggered six-year term. Each state sends members to the Rajya Sabha in a proportion of its population. The 545-member ''Lok Sabha'' is directly elected by popular vote for a five-year term, and is the determinative constituent of political power and government formation. All Indian citizens above age 18 are eligible to vote.
+
+The executive arm consists of the President, Vice-President, and the [[Council of Ministers]] (the [[Cabinet]] being its executive committee) headed by the Prime Minister. Any minister holding a portfolio must be a member of either house of parliament. In the Indian parliamentary system, the executive is subordinate to the legislature.
+
+India's independent judiciary consists of the [[Supreme Court of India|Supreme Court]], headed by the [[Chief Justice of India]]. The Supreme Court has both original jurisdiction over disputes between states and the Centre, and appellate jurisdiction over the eighteen High Courts of India, and additionally, the power to declare Union and state laws null and void if in conflict with the Constitution.<ref name="manorama">{{cite book | first = K.M. | last = Matthew | title = Manorama Yearbook 2003 | publisher = Malaya Manorama | year = 2006 | id = ISBN 8189004077 | pages = pg 524 }}</ref>
+
+The federating states have a governor as the ceremonial head, with a Chief Minister and his Council of Ministers weilding the actual power. The state council of ministers is responsible to the legislative assembly of the state.
+
+==Politics==
+{{main articles|[[Politics of India]], [[Foreign relations of India]]}}
+[[image:IndiaMap2.PNG|thumb|270px|Map of India <ref name="loc">The black line is the boundary as recognised by the government of India. The northern region of [[Kashmir]] is currently administered by India, Pakistan, and China (and coloured in as such). The delimiting of the three administered regions is ''not'' the international boundary but a ceasefire line demarcated in red. The boundary separating India and Pakistan is known as the [[Line of Control]], that separating India and China as the '[[Line of Actual Control]]'. Most of the state of [[Arunachal Pradesh]] is still claimed by China.</ref>.]]
+For most of its independent history, India has been ruled by the [[Indian National Congress]]. The party enjoyed a parliamentary majority barring two brief periods during the 1970s and late 1980s. This rule was interrupted between 1977 to 1980, when the [[Janata Party]] coalition won the election owing to public discontent with the [[Indian Emergency|"Emergency"]] declared by the then Prime Minister [[Indira Gandhi]]. The [[Janata Dal]] won elections in 1989, but its government managed to hold on to power for only two years. Between 1996 and 1998, there was a period of political flux with the government being formed first by the [[Right-wing politics|right-wing]] nationalist [[Bharatiya Janata Party]] followed by a left-leaning [[United Front (India)|United Front]] coalition. In 1998, the BJP formed the [[National Democratic Alliance]] (NDA) with smaller regional parties, and became the first non-Congress and coalition government to complete a full five-year term. The [[Indian general elections, 2004|2004 Indian elections]] saw the Congress party winning the largest number of seats to form a government leading the [[United Progressive Alliance]], and supported by left-parties and those opposed to the BJP.
+
+Since independence, India has maintained cordial relationships with most nations. It took a lead in the 1950s in advocating the independence of European colonies in Africa and Asia. During the [[Cold War]], India tried to maintain its neutrality and was one of the founding members of the [[Non-Aligned Movement]]. After the [[Sino-Indian War]] and the [[Indo-Pakistani War of 1965]], India's relationship with the [[Soviet Union]] warmed at the expense of ties with the [[United States]] and continued to remain so till the end of the Cold War. India has consistently refused to sign the [[CTBT]] and the [[NPT]] to maintain sovereignty over its nuclear program despite criticism and military sanctions. Recent overtures by the Indian government have strengthened India's relations with United States, China and Pakistan. In the economic sphere, India has close relationships with other developing nations of [[South America]], [[Asia]] and [[Africa]]. In recent years, India has played an influential role in the [[ASEAN]], [[SAARC]] and the [[WTO]]. India has been a long time supporter of the [[United Nations]], with over 55,000 [[Indian Armed Forces|Indian military]] and police personnel having served in 35 UN peace keeping operations over four continents <ref name="UN">{{cite web | title = India and the United Nations | url = http://www.un.int/india/india_and_the_un_pkeeping.html | accessdate = April 22 | accessyear = 2006}}</ref>.
+
+==States and union territories==
+{{main|States and territories of India}}
+
+India is divided into twenty-eight states (which are further subdivided into [[districts of India|districts]]), and seven [[union territories]] (or territories owned by the Central Government). All states, and the union territories of Delhi and Pondicherry have elected governments. The remaining five union territories have centrally-appointed administrators.
+
+{{India states}}
+
+==Geography==
+{{main|Geography of India}}
+[[Image:Yumthanghimalayas.jpg|thumb|270px|The [[Himalaya]]s stretch from [[Jammu and Kashmir]] in the north to [[Arunachal Pradesh]] in the far east making up most of India's eastern borders]]
+The territory of India constitutes a major portion of the [[Indian subcontinent]], situated on the [[Indian Plate]], the northerly portion of the [[Indo-Australian Plate]], in [[southern Asia]]. India's northern and northeastern states are partially situated in the [[Himalaya|Himalayan Mountain Range]]. The rest of northern, central and eastern India consists of the fertile [[Indo-Gangetic plain]]. In the west, bordering southeast [[Pakistan]], lies the [[Thar Desert]]. The southern Indian Peninsula is almost entirely composed of the [[Deccan|Deccan plateau]], which is flanked by two hilly coastal ranges, the [[Western Ghats]] and [[Eastern Ghats]].
+
+India is home to several major rivers, including the [[Ganges|Ganga]], [[Brahmaputra]], [[Yamuna]], [[Godavari]], [[Kaveri]], [[Narmada]], and [[Krishna River|Krishna]]. India has three archipelagos &ndash; [[Lakshadweep]] off the southwest coast, the [[Andaman and Nicobar Islands]] volcanic island chain to the southeast, and the [[Sunderbans]] in the Gangetic delta in West Bengal.
+
+Climate in India varies from [[tropical climate|tropical]] in the south to more [[temperate climate|temperate]] in the Himalayan north, with elevated regions in the north receiving sustained snowfall in winters. India's climate is strongly influenced by the Himalayas and the Thar Desert. The Himalayas, along with the [[Hindu Kush]] mountains in Pakistan, provide a barrier to the cold winds from Central Asia. This keeps most of the Indian subcontinent warmer than most locations in similar latitudes. The Thar Desert is responsible for attracting the moisture laden [[southwest monsoon]] winds in that provide most of India's rainfall between June to September.
+
+{{see also|Climate of India|Ecoregions of India|Geology of India}}
+
+==Economy==
+{{main|Economy of India}}
+[[Image:Bombay-Stock-Exchange.jpg|thumb|180px|The [[Bombay Stock Exchange]] sensitive index is used as a determinant of the strength of the Indian economy.]]
+
+The economy of India is the [[List of countries by GDP (PPP)|fourth largest]] in the world as measured by [[purchasing power parity]] (PPP), with a [[Gross Domestic Product|GDP]] of US $3.63 [[trillion]]. However when it comes to [[Purchasing power parity|PPP]]&mdash;GDP per capita figures&mdash;India's economy is ranked 152nd in the world. When measured in [[United States dollar|USD]] [[exchange rate|exchange-rate]] terms, it is the [[List of countries by GDP (nominal)|twelfth largest]] in the world, with a GDP of US $775 billion (2005). India is the second fastest growing major economy in the world, with a GDP growth rate of 8.4% at the end of the first quarter of 2006. However, India's huge population results in a relatively low [[per capita]] income of $3,400 at PPP and is classified as a [[developing nation]].<ref name="CIA">{{cite web | title = CIA Factbook : India | work = CIA Factbook | url = http://www.cia.gov/cia/publications/factbook/geos/in.html | accessdate = August 14 | accessyear = 2005 }}</ref>
+
+For most of its independent history India has adhered to a socialist-inspired approach, with strict government control over [[private sector]] participation, [[foreign trade]], and [[foreign direct investment]]. Since the early 1990s, India has gradually opened up its markets through [[liberalization|economic reforms]] by reducing government controls on foreign trade and investment. [[Privatization|Privatisation]] of public-owned industries and opening up of certain sectors to private and foreign players has proceeded slowly amid political debate.
+
+India has a [[labour force]] of 496.4 million of which agriculture constitutes 60%, industry 17%, and services 23%. India's agricultural produce include rice, wheat, oilseed, cotton, jute, tea, sugarcane, potatoes; cattle, water buffalo, sheep, goats, poultry and fish. Major industries include textiles, chemicals, food processing, steel, transportation equipment, cement, mining, petroleum and machinery.<ref name="CIA"/>
+
+In recent times, India has also capitalised on its large number of educated population who are fluent in the [[English language]] to become an important location for global companies [[outsourcing]] [[customer service]] and [[technical support]] [[call center]]s. It is also a major exporter of [[software]], [[financial]], [[research]] and technology services. India's most important trading partners are the [[United States]], the [[European Union]], [[Japan]], [[People's Republic of China|China]], and the [[United Arab Emirates]].{{citation needed}}
+
+==Demographics==
+{{main|Demographics of India}}
+[[Image:Desaswamedh-ghat.jpg|thumb|270px|A Hindu bathing ghat, [[Varanasi]]]]
+
+India is the second-most populous country in the world with an estimated 1.1 billion people in 2006.<ref name="Census">{{cite web | title = Census of India 2001, Data on Religion | work = Census of India | url = http://www.censusindia.net/results/religion_main.html | accessdate = August 14 | accessyear = 2005 }}</ref> Language, [[caste]] and religion are determinants of social and political organisation within the highly diverse population. Although 80.5% of the people are [[Hinduism|Hindus]], India is also home to the [[Islam by country|third-largest]] population of [[Muslim]]s in the world (13.4%; see [[Islam in India]]), after [[Indonesia]] and [[Pakistan]]. Other religious groups include [[Christianity|Christians]] (2.3%), [[Sikhism|Sikhs]] (1.84%), [[Buddhism|Buddhists]] (0.76%), [[Jainism|Jains]] (0.40%), [[Jew]]s, [[Zoroastrians]], [[Ahmadi|Ahmadi-muslims]], and [[Bahá'í Faith|Bahá'í]]s.<ref name="Census"/>
+
+India's biggest [[metropolitan area|metropolitan]] agglomerations are [[Mumbai]] (formerly ''Bombay''), [[Delhi]], [[Kolkata]] (formerly ''Calcutta'') and [[Chennai]] (formerly ''Madras'').  The national [[sex ratio]] is 933 females per 1,000 males and median age is 24.66 India's population growth rate is 22.32 births per 1,000.<ref name="Census"/>
+
+India is home to two major [[Languages of India|linguistic families]]: [[Indo-Aryan]] (spoken by about 74% of the population) and [[Dravidian languages|Dravidian]] (spoken by about 24%). Other languages spoken in India come from the [[Austro-Asiatic]] and [[Tibeto-Burman]] linguistic families. The Indian constitution recognises 23 official languages{{ref|languages}}. [[Hindi]] and [[English language|English]] are used by the [[Government of India|Central Government]] for official purposes. Two [[classical languages]] native to the land are [[Sanskrit]] and [[Tamil language|Tamil]]. The number of [[Indian languages|mother tongues]] in India is as high as 1,652.<ref name="Manorama"> {{cite book | first = K.M. | last = Matthew | title = Manorama Yearbook 2003 | publisher = Malaya Manorama | year = 2006 | id = ISBN 8189004077 | pages = pg 524 }}</ref>
+
+==Holidays==
+[[Image:DSCF9016.JPG|thumb|right|Holi, the festival of colours has emerged as one of the most popular Indian festivals]]
+{{main|List of Festivals in India}}
+
+India is also known as a land of festivals. A melting pot of many religions, India has a rich diversity of [[Indian festivals|festivals]], many of which are celebrated irrespective of [[caste]] and creed. The most widely known and popular celebrations include the Hindu festivals of [[Diwali]], [[Holi]], [[Pongal]] and [[Dussehra]] and the Muslim celebration of [[Eid]].
+
+A number of festivals are common to most parts of India; however, they may be called by different names in the various parts of the country or may be celebrated in a different fashion. Every festival is celebrated in a unique style.
+
+India has three National Holidays. Other sets of holidays, varying between nine to twelve, pertain to festivals, religious holidays and births of leaders which are legislated by the individual states.
+
+<center>
+{| border="1" cellpadding="3" cellspacing="0" width="90%" style="border-collapse:collapse; border:1px solid #aaa; text-align:left"
+|-
+! style="background:#efefef;" width="15%" | Date
+! style="background:#efefef;" width="20%" | Holiday
+! style="background:#efefef;" | Remarks
+|-
+| [[26 January]]
+| [[Republic Day of India|Republic Day]]
+| The Constitution of India came into effect on this day in 1950.
+|-
+| [[15 August]]
+| [[Independence Day (India)|Independence Day]]
+| India gained its independence from the British Empire on this day in 1947.
+|-
+| [[2 October]]
+| [[Gandhi Jayanti]]
+| The Birth Date of [[Mahatma Gandhi]].
+|}
+</center>
+
+==See also==
+{{Topics related to India}}
+{{India ties}}
+
+==Notes and references==
+{{Spoken Wikipedia|India.ogg|2006-03-07}}
+<div style="font-size: 95%">
+<references/>
+</div>
+
+==External links==
+{{portal}}
+{{sisterlinks|India}}
+<!--PLEASE ADD SITES RELATING TO INDIA AS A WHOLE. EXTERNAL LINKS PERTAINING TO SPECIFICS SHOULD BE PLACED IN THE CORRESPONDING ARTICLES. -->
+; '''Official'''
+* [http://india.gov.in/ Official portal of the Government of India]
+* [http://www.nic.in Government of India Directory] — Directory of Central and State government websites
+
+; '''Other'''
+<!-- Include ONLY links that pertain to India as a whole. Maps are linked from the country's latitude/longitude. -->
+*{{wikitravel}}
+*{{wikicities|india|India}}
+*[http://www.fordham.edu/halsall/india/indiasbook.html Internet Indian History Sourcebook]
+*[http://www.cia.gov/cia/publications/factbook/geos/in.html CIA World Factbook article on India]
+*[http://news.bbc.co.uk/1/hi/world/south_asia/country_profiles/1154019.stm BBC Country Profile on India]
+
+* {{cite web | title = Provisional Population Totals 2001 Census | work = Census of India | url = http://www.censusindia.net/results/resultsmain.html | accessdate = August 14 | accessyear = 2005 }}
+* {{cite web | title = India – Country profiles | work = indexmundi.com | url = http://www.indexmundi.com/India/ India | accessdate = August 14 | accessyear = 2005 }}
+* {{cite web | title = Languages of India | work = India image | url = http://indiaimage.nic.in/languages.htm | accessdate = August 14 | accessyear = 2005 }}
+* {{cite web | title = India pitches for Olympic kabbadi | work = Rediff.com | url = http://www.rediff.com/sports/2000/aug/30india.htm | accessdate = April 15 | accessyear = 2006}}
+* {{cite web | title = The Colonial Legacy: Myths and Popular Beliefs | work = Image-India | url = http://india_resource.tripod.com/colonial.html | accessdate = May 14 | accessyear = 2006}}
+
+{{featured article}}
+
+[[Category:India|*]]
+[[Category:Republics]]
+[[Category:Members of the Commonwealth of Nations]]
+[[Category:SAARC members]]
+[[Category:Former British colonies]]
+[[Category:English speaking countries]]
+
+{{Link FA|de}}
+{{Link FA|sv}}
+{{Link FA|ta}}
+
+[[af:Indië]]
+[[als:Indien]]
+[[am:ህንድ]]
+[[ang:India]]
+[[ar:هند]]
+[[an:India]]
+[[roa-rup:India]]
+[[as:ভারত]]
+[[ast:India]]
+[[gn:India]]
+[[ay:India]]
+[[az:Hindistan]]
+[[bn:ভারত]]
+[[zh-min-nan:Ìn-tō͘]]
+[[be:Індыя]]
+[[bh:भारत]]
+[[bs:Indija]]
+[[br:India]]
+[[bg:Индия]]
+[[ca:Índia]]
+[[cv:Инди]]
+[[cs:Indie]]
+[[co:India]]
+[[za:India]]
+[[cy:India]]
+[[da:Indien]]
+[[de:Indien]]
+[[dv:ހިންދުސްތާން]]
+[[nv:India]]
+[[dz:India]]
+[[et:India]]
+[[el:Ινδία]]
+[[es:India]]
+[[eo:Barato]]
+[[eu:India]]
+[[fa:هند]]
+[[fo:India]]
+[[fr:Inde]]
+[[fy:Yndia]]
+[[fur:Indie]]
+[[ga:An India]]
+[[gv:Yn Injey]]
+[[gd:Na h-Innseachan]]
+[[gl:India - भारत]]
+[[gu:ભારત]]
+[[got:𐌹𐌽𐌳𐌹𐌰]]
+[[ko:인도]]
+[[haw:ʻInia]]
+[[hy:Հնդկաստան]]
+[[hi:भारत]]
+[[hr:Indija]]
+[[io:India]]
+[[ilo:India]]
+[[id:India]]
+[[ia:India]]
+[[iu:ᐃᓐᑎᐊ]]
+[[os:Инди]]
+[[is:Indland]]
+[[it:India]]
+[[he:הודו]]
+[[jv:India]]
+[[kn:ಭಾರತ]]
+[[ka:ინდოეთი]]
+[[ks:ہِندوستان]]
+[[csb:Indie]]
+[[kk:Үндістан]]
+[[kw:Eynda]]
+[[sw:Uhindi]]
+[[ht:End]]
+[[ku:Hindistan]]
+[[la:India]]
+[[lv:Indija]]
+[[lb:Indien]]
+[[lt:Indija]]
+[[li:India]]
+[[jbo:barat]]
+[[hu:India]]
+[[mk:Индија]]
+[[mg:India]]
+[[ml:ഇന്ത്യ]]
+[[mt:Indja]]
+[[mi:Inia (whenua)]]
+[[mr:भारत]]
+[[ms:India]]
+[[mo:Энэтхэг]]
+[[mn:Энэтхэг]]
+[[nah:India]]
+[[na:India]]
+[[nl:India]]
+[[cr:India]]
+[[ne:भारत]]
+[[ja:インド]]
+[[nap:Innia]]
+[[no:India]]
+[[nn:India]]
+[[nrm:Înde]]
+[[oc:Índia]]
+[[or:ଭାରତ]]
+[[pa:ਭਾਰਤ]]
+[[ps:هند]]
+[[km:ឥណ្ឌា]]
+[[nds:Indien]]
+[[pl:Indie]]
+[[pt:Índia]]
+[[ro:India]]
+[[rmy:Indiya]]
+[[rm:India]]
+[[qu:Indiya]]
+[[ru:Индия]]
+[[se:India]]
+[[sa:भारत]]
+[[sc:Ìndia]]
+[[sco:Indie]]
+[[st:India]]
+[[tn:India]]
+[[sq:India]]
+[[scn:India]]
+[[si:India]]
+[[simple:India]]
+[[sd:भारत]]
+[[sk:India]]
+[[sl:Indija]]
+[[sr:Индија]]
+[[sh:Indija]]
+[[su:India]]
+[[fi:Intia]]
+[[sv:Indien]]
+[[tl:India]]
+[[ta:இந்தியா]]
+[[tt:Hindstan]]
+[[te:భారత దేశము]]
+[[th:ประเทศอินเดีย]]
+[[vi:Ấn Độ]]
+[[tg:Ҳиндустон]]
+[[tpi:India]]
+[[chr:India]]
+[[tr:Hindistan]]
+[[tk:Hindistan]]
+[[udm:Индия]]
+[[uk:Індія]]
+[[ur:بھارت]]
+[[uz:Hindiston]]
+[[vec:India]]
+[[fiu-vro:India]]
+[[wa:Inde]]
+[[wo:India]]
+[[yi:אינדיע]]
+[[yo:India]]
+[[zh:印度]]

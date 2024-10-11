@@ -1,0 +1,4 @@
+===default__wiki__article__introduction__heading===
+Files test
+wiki link
+[[possibly wronk link with nested file ]]

@@ -1,0 +1,2 @@
+A common development of decimal expansions is to define them as sums of infinite series. In general:
+<math display="block"> b_0 . b_1 b_2 b_3 b_4 \ldots = b_0 + b_1\left({\tfrac{1}{10}}\right) + b_2\left({\tfrac{1}{10}}\right)^2 + b_3\left({\tfrac{1}{10}}\right)^3 + b_4\left({\tfrac{1}{10}}\right)^4 + \cdots .</math>

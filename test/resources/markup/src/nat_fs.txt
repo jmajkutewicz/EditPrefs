@@ -1,0 +1,38 @@
+Intro
+== Belgium national football team ==
+
+===Recent call-ups===
+The following footballers were part of a national selection in the past twelve months, but are not part of the current squad.
+{{nat fs r start}}
+{{nat fs r player|no=|pos=GK|name=[[Thibaut Courtois]]|other=[[Captain (association football)|vice-captain]]|age={{birth date and age|1992|5|11|df=y}}|caps=102|goals=0|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP|latest=v. {{fb|EST}}, 20 June 2023 <sup>WD</sup>}}
+{{nat fs r player|no=|pos=GK|name=[[Koen Casteels]]|age={{birth date and age|1992|6|25|df=y}}|caps=5|goals=0|club=[[VfL Wolfsburg]]|clubnat=GER|latest=v. {{fb|GER}}, 28 March 2023}}
+{{nat fs r player|no=|pos=GK|name=[[Simon Mignolet]]|age={{birth date and age|1988|3|6|df=y}}|caps=35|goals=0|club=[[Club Brugge KV|Club Brugge]]|clubnat=BEL|latest=[[2022 FIFA World Cup]] <sup>RET</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=DF|name=[[Thomas Meunier]]|age={{birth date and age|1991|9|12|df=y}}|caps=62|goals=8|club=[[Borussia Dortmund]]|clubnat=GER|latest=v. {{fb|GER}}, 28 March 2023}}
+{{nat fs r player|no=|pos=DF|name=[[Zeno Debast]]|age={{birth date and age|2003|10|24|df=y}}|caps=3|goals=0|club=[[R.S.C. Anderlecht|Anderlecht]]|clubnat=BEL|latest=v. {{fb|GER}}, 28 March 2023}}
+{{nat fs r player|no=2|pos=DF|name=[[Toby Alderweireld]]|age={{birth date and age|1989|3|2|df=y}}|caps=127|goals=5|club=[[Royal Antwerp F.C.|Antwerp]]|clubnat=BEL|latest=[[2022 FIFA World Cup]] <sup>RET</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Jason Denayer]]|age={{birth date and age|1995|6|28|df=y}}|caps=35|goals=1|club=[[Shabab Al Ahli Club|Shabab Al Ahli]]|clubnat=UAE|latest=[[2022 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs r player|no=|pos=DF|name=[[Dedryck Boyata]]|age={{birth date and age|1990|11|28|df=y}}|caps=31|goals=0|club=[[Club Brugge KV|Club Brugge]]|clubnat=BEL|latest=v. {{fb|NED}}, 25 September 2022}}
+{{nat fs r player|no=|pos=DF|name=[[Brandon Mechele]]|age={{birth date and age|1993|1|28|df=y}}|caps=3|goals=0|club=[[Club Brugge KV|Club Brugge]]|clubnat=BEL|latest=v. {{fb|NED}}, 25 September 2022}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=MF|name=[[Leander Dendoncker]]|age={{birth date and age|1995|4|15|df=y}}|caps=32|goals=1|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG|latest=v. {{fb|EST}}, 20 June 2023 <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Kevin De Bruyne]]|other=[[Captain (association football)|captain]]|age={{birth date and age|1991|6|28|df=y}}|caps=99|goals=26|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG|latest=v. {{fb|AUT}}, 17 June 2023 <sup>INJ</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Amadou Onana]]|age={{birth date and age|2001|8|16|df=y}}|caps=6|goals=0|club=[[Everton F.C.|Everton]]|clubnat=ENG|latest=v. {{fb|GER}}, 28 March 2023}}
+{{Nat fs r player|no=|pos=MF|name=[[Charles De Ketelaere]]|age={{birth date and age|2001|3|10|df=y}}|caps=12|goals=1|clubnat=ITA|club=[[A.C. Milan|Milan]]|latest=v. {{fb|GER}}, 28 March 2023}}
+{{Nat fs r player|no=|pos=MF|name=[[Roméo Lavia]]|age={{birth date and age|2004|1|6|df=y}}|caps=1|goals=0|clubnat=ENG|club=[[Southampton F.C.|Southampton]]|latest=v. {{fb|GER}}, 28 March 2023}}
+{{nat fs r player|no=|pos=MF|name=[[Dennis Praet]]|age={{birth date and age|1994|5|14|df=y}}|caps=15|goals=2|club=[[Leicester City F.C.|Leicester City]]|clubnat=ENG|latest=v. {{fb|GER}}, 28 March 2023}}
+{{nat fs r player|no=|pos=MF|name=[[Axel Witsel]]|age={{birth date and age|1989|1|12|df=y}}|caps=130|goals=12|club=[[Atlético Madrid]]|clubnat=ESP|latest=[[2022 FIFA World Cup]] <sup>RET</sup>}}
+{{nat fs r player|no=|pos=MF|name=[[Bryan Heynen]]|age={{birth date and age|1997|2|6|df=y}}|caps=0|goals=0|club=[[K.R.C. Genk|Genk]]|clubnat=BEL|latest=[[2022 FIFA World Cup]] <sup>PRE</sup>}}
+{{nat fs break}}
+{{nat fs r player|no=|pos=FW|name=[[Loïs Openda]]|age={{birth date and age|2000|2|16|df=y}}|caps=9|goals=2|club=[[RC Lens|Lens]]|clubnat=FRA|latest=v. {{fb|EST}}, 20 June 2023 <sup>U21</sup>}}
+{{nat fs r player|no=|pos=FW|name=[[Leandro Trossard]]|age={{birth date and age|1994|12|4|df=y}}|caps=26|goals=5|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG|latest=v. {{fb|GER}}, 28 March 2023}}
+{{nat fs r player|no=|pos=FW|name=[[Dries Mertens]]|age={{birth date and age|1987|5|6|df=y}}|caps=109|goals=21|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR|latest=[[2022 FIFA World Cup]]}}
+{{Nat fs r player|no=|pos=FW|name=[[Thorgan Hazard]]|age={{birth date and age|1993|3|29|df=y}}|caps=47|goals=9|clubnat=NED|club=[[PSV Eindhoven|PSV]]|latest=[[2022 FIFA World Cup]]}}
+{{Nat fs r player|no=|pos=FW|name=[[Eden Hazard]]|age={{birth date and age|1991|1|7|df=y}}|caps=126|goals=33|clubnat=ESP|club=[[Real Madrid CF|Real Madrid]]|latest=[[2022 FIFA World Cup]] <sup>RET</sup>}}
+{{nat fs break|background=#0B0B3F}}
+*<sup>PRE</sup> Preliminary squad / standby
+*<sup>RET</sup> Retired from the national team
+*<sup>INJ</sup> Player injuries
+*<sup>U21</sup> Moved to U21 squad
+*<sup>WD</sup> Player withdrew from squad due to non-injury issue
+{{nat fs end|background=#0B0B3F}}

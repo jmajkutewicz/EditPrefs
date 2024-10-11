@@ -1,0 +1,29 @@
+{{Use mdy dates|date=May 2013}}
+{{NCR}}
+{{Infobox album <!-- See Wikipedia:WikiProject_Albums -->
+| Name        = ...And Justice for All
+| Type        = Studio album
+| Artist      = [[Metallica]]
+| Cover       = Metallica - ...And Justice for All cover.jpg
+| Border      = yes
+| Released    = {{Start date|1988|8|25}}
+| Recorded    = January 28–{{Start date|1988|5|1}} at [[Extasy Records#Extasy Recording Studios|One on One Recording Studios]] in [[Los Angeles]]<ref>''[http://www.vh1.com/artists/interview/1473275/06252003/metallica.jhtml James Hetfield interview]''. [[VH1]]. Retrieved 2011-19-08.</ref><ref name="booklet" />
+| Genre       = [[Progressive metal]], [[thrash metal]]<!-- based on the article's "Music and lyrics" section ([[WP:IBX#References in infoboxes]]); do not change without giving a sufficient rationale at the talk page -->
+| Length      = {{duration|m=65|s=29}}
+| Label       = [[Elektra Records|Elektra]]
+| Producer    = Metallica, [[Flemming Rasmussen]]
+| Last album  = ''[[Master of Puppets]]''<br/>(1986)
+| This album  = '''''...And Justice for All'''''<br/>(1988)
+| Next album  = ''[[Metallica (album)|Metallica]]''<br/>(1991)
+| Misc        = {{Singles
+  | Name           = ...And Justice for All
+  | Type           = Studio
+  | single 1       = [[Harvester of Sorrow]]
+  | single 1 date  = August 28, 1988<ref>{{cite web|url=http://www.metallica.com/releases/harvester-of-sorrow.asp |title=Harvester of Sorrow release date |publisher=Metallica.com |date=August 28, 1988 |accessdate=August 15, 2011}}</ref>
+  | single 2       = [[Eye of the Beholder (song)|Eye of the Beholder]]
+  | single 2 date  = October 30, 1988<ref>{{cite web|url=http://www.metallica.com/releases/eye-of-the-beholder.asp |title=Eye of the Beholder release date |publisher=Metallica.com |date=October 30, 1988 |accessdate=August 15, 2011}}</ref>
+  | single 3       = [[One (Metallica song)|One]]
+  | single 3 date  = January 10, 1989<ref>{{cite web|url=http://www.metallica.com/releases/one.asp |title=One release date |publisher=Metallica.com |accessdate=August 15, 2011}}</ref>
+  }}
+}}
+'''''...And Justice for All''''' is the fourth studio album by American [[Heavy metal music|heavy metal]] band [[Metallica]], released on August 25, 1988, by [[Elektra Records]].<ref name="RIAA"/> It was the group's first full studio album to feature bassist [[Jason Newsted]], following the death of [[Cliff Burton]] in 1986. Newsted had previously appeared on the Metallica [[Extended play|E.P.]] ''[[The $5.98 E.P.: Garage Days Re-Revisited]]'', which was his first recorded work with Metallica. ''...And Justice for All'' was certified [[RIAA certification|8x platinum]] by the [[Recording Industry Association of America]] (RIAA) on June 9, 2003, having shipped eight million copies in the United States.<ref name="RIAA">{{cite web|url=http://www.riaa.com/goldandplatinumdata.php?artist=%22And+Justice+For+All%22|title=American album certifications – ...And Justice for All|publisher=[[Recording Industry Association of America]] (RIAA)|accessdate=May 10, 2013}}</ref>

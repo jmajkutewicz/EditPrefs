@@ -1,0 +1,251 @@
+{{Short description|1944 Japanese military naval convoy}}
+{{Featured article}}
+{{This template doesn't exists}}
+{{This template doesn't exists}}{{this is subsequent template}}
+{{Pp-protected|small=yes}}
+{{Infobox military conflict
+|conflict = ''Take Ichi'' convoy
+|partof = [[Pacific War]]
+|image = [[File:Take Ichi convoy.jpg|300px|The route of the Take Ichi convoy]]
+|caption = The ''Take Ichi'' convoy's route from Shanghai to Halmahera<ref name= "Parillo_140">Parillo (1993), p. 140</ref>
+|date = 17 April – 9 May 1944
+|place = Off [[Luzon]] and [[Sulawesi|Celebes]]
+|coordinates =
+|map_type =
+|latitude =
+|longitude =
+|map_size =
+|map_caption =
+|territory =
+|result = American victory
+|status =
+|combatant1 = {{flag|United States|1912}}
+|combatant2 = {{flagcountry|Empire of Japan}}
+|commander1 = {{flagicon|USA|1912}} [[Ralph Waldo Christie]] <small>([[United States Navy|USN]])</small><ref name="Blair_622"/>
+|commander2 = {{flagicon|Empire of Japan|naval}} [[Sadamichi Kajioka]] <small>([[Imperial Japanese Navy|IJN]])</small>
+|strength1 = 2 submarines
+|strength2 = 1 [[minelayer]]<br />
+3 [[destroyer]]s<br />
+2 [[Kaibokan|kaibokan escort ships]]<br />
+1 [[Minesweeper (ship)|minesweeper]]<br />
+2 [[subchasers]]<br />
+3 [[gunboats]]<br />
+15 merchant ships
+|casualties1 = None
+|casualties2 = Four transports sunk<br />4,290 soldiers killed
+|notes =
+|campaignbox = {{Campaignbox New Guinea}}
+}}
+
+Intro
+
+== Acupuncture ==
+'''Acupuncture'''{{efn|From the [[Latin language|Latin]] {{lang|la|acus}} (needle) and {{lang|la|punctura}} (to puncture).&lt;ref&gt;{{cite journal | vauthors = Pyne D, Shenker NG | title = Demystifying acupuncture | journal = Rheumatology | volume = 47 | issue = 8 | pages = 1132&#8211;36 | date = August 2008 | pmid = 18460551 | doi = 10.1093/rheumatology/ken161 | doi-access = free }}&lt;/ref&gt;}} is a form of [[alternative medicine]]&lt;ref name=Berman2010&gt;{{cite journal | vauthors = Berman BM, Langevin HM, Witt CM, Dubner R | s2cid = 10129706 | title = Acupuncture for chronic low back pain | journal = The New England Journal of Medicine | volume = 363 | issue = 5 | pages = 454&#8211;61 | date = July 2010 | pmid = 20818865 | doi = 10.1056/NEJMct0806114 }}&lt;/ref&gt; and a component of [[traditional Chinese medicine]] (TCM) in which thin needles are inserted into the body.
+
+In the US, acupuncture is increasingly ({{As of|2014|lc=y}}) used at [[academic medical centers]]
+
+=== Pseudoscience ===
+
+{{efn|name=SinghErnst2008}}&lt;ref name="Ahn2008"/&gt;&lt;ref name=Mann2000&gt;{{cite book | last = Mann | first = F | author-link = Felix Mann | isbn = 978-0750648578 | publisher = [[Elsevier Health Sciences|Elsevier]] | year = 2000 | title = Reinventing Acupuncture: A New Concept of Ancient Medicine}}&lt;/ref&gt; A ''[[Nature (journal)|Nature]]'' editorial described TCM as "fraught with pseudoscience"
+
+=== ''De-qi'' sensation ===
+
+''De-qi'' ({{zh|s=&#24471;&#27668;|p=d&#233; q&#236;}}; "arrival of qi") refers to a claimed sensation of numbness
+
+Other techniques aim at "tonifying" ({{zh|s=&#34917;|p=b&#468;}}) or "sedating" ({{zh|s=&#27844;|p=xi&#232;}}) ''qi''.&lt;ref name="AungChen2007"/&gt; The former techniques are used in [[Traditional Chinese medicine#Eight principles of diagnosis|deficiency]] patterns
+
+=== Efficacy ===
+{{asof|2021}} many thousands of papers had been published
+
+=== Needles ===
+Needles vary in length between {{convert|13|and|130|mm|in}}, with shorter needles used near the face and eyes, and longer needles in areas with thicker tissues; needle diameters vary from 0{{convert|.16|mm|3|abbr=on}} to 0{{convert|.46|mm|3|abbr=on}},&lt;ref name=Aung116&gt;[[#Aung2007|Aung &amp; Chen]], 2007, p. [https://books.google.com/books?id=I6NclaeDWjgC&amp;pg=PA116 116].&lt;/ref&gt; with thicker needles used on more robust patients.
+
+===Traditional===
+{{Main|Qi|Traditional Chinese medicine|Meridian (Chinese medicine)|List of acupuncture points}}
+[[File:ChineseMedecine.JPG|thumb|right|Old Chinese medical chart of acupuncture meridians]]
+
+Acupuncture is a substantial part of [[traditional Chinese medicine]] (TCM).
+
+==== Neolithic ====
+
+Acupuncture may have been practised during the [[Neolithic]] era, near the end of the [[Stone Age]], using sharpened stones called [[Bian Stones|Bian shi]].&lt;ref name="abc"/&gt;{{RP|70}} Many Chinese texts from later eras refer to sharp stones called "plen", which means "stone probe", that may have been used for acupuncture purposes.&lt;ref name="abc"/&gt;{{RP|70}}
+
+====Establishment and growth====
+In the first half of the 1st century AD, acupuncturists began promoting the belief that acupuncture's effectiveness was influenced by the time of day or night, the lunar cycle, and the season.&lt;ref name="abc"/&gt;{{RP|140&#8211;41}} The 'science of the yin-yang cycles' ({{lang|zh|&#36939;&#27683;&#23416;}} {{transliteration|zh|y&#249;n q&#236; xu&#233;}}{{efn|A reference to the five movements and six ''qi'' ({{lang|zh|&#20116;&#36939;&#20845;&#27683;}} {{transliteration|zh|w&#468; y&#249;n li&#249; q&#236;}}).}}) was a set of beliefs that curing diseases relied on the alignment of both heavenly (''tian'') and earthly (''di'') forces that were attuned to cycles like that of the sun and moon.&lt;ref name="abc"/&gt;{{RP|140&#8211;41}} There were several different belief systems that relied on a number of celestial and earthly bodies or elements that rotated and only became aligned at certain times.&lt;ref name="abc"/&gt;{{RP|140&#8211;41}} According to Needham and Lu, these "arbitrary predictions" were depicted by acupuncturists in complex charts and through a set of special terminology.&lt;ref name="abc"/&gt;
+
+==Dish-bearers==
+
+The chief attendants at Anglo-Saxon royal feasts were dish-bearers and [[butler]]s or cup-bearers. Dish-bearer in [[Medieval Latin]] (ML) is {{lang|la|discifer}} or {{lang|la|dapifer}}, and in [[Old English]] (OE) {{lang|ang|discþegn}}, also {{lang|ang|discðegn}} and {{lang|ang|discþen}} (dish-[[thegn]]).{{sfnm|1a1=Gautier|1y=2017|1pp=269, 273–274|2a1=Keynes|2y=2014|2p=460}} The French medievalist Alban Gautier states: "Both {{lang|la|discifer}} and {{lang|la|dapifer}} literally mean {{gloss|dish-bearer}}, but in the first case {{gloss|dish}} should be understood as the disc-shaped object ({{lang|la|discus}}), whereas in the second it refers to the culinary preparation that was inside ({{lang|la|dapes}})."{{sfn|Gautier|2017|p=274}}
+
+
+=== Duplicated section ===
+subsection named Duplicated section
+
+== Duplicated section ==
+section named Duplicated section
+
+==Louisiana Lafayette==
+{{AFB game box start
+|Title=
+|Visitor=Louisiana-Lafayette
+|V1=3 |V2=0 |V3=0 |V4=0
+|Host='''Texas'''
+|H1=13 |H2=26 |H3=14 |H4=7
+|Date=September 3
+|Location=[[Darrell K Royal–Texas Memorial Stadium]], [[Austin, Texas]]
+|StartTime=
+|TimeZone=
+|ElapsedTime=
+|Attendance=
+|Weather=
+|Referee=
+|TVAnnouncers=
+|TVStation=[[Fox Sports Networks|FSN]]
+}}
+{{AFB game box end}}
+
+This game marked the second meeting of the Texas Longhorns and the [[University of Louisiana at Lafayette|Louisiana Lafayette]] [[Louisiana–Lafayette Ragin' Cajuns football|Ragin' Cajuns]]. In their first meeting in 2000, UT fell behind 10–0 before quarterback [[Major Applewhite]] entered the game late in the first&nbsp;[[Quarterback controversy|quarter]] and threw for 315&nbsp;yards and 4&nbsp;touchdowns as the Longhorns scored 52&nbsp;unanswered points in a 52–10 victory.<ref name="LL PDF"/>
+
+
+==Disco Demolition Night==
+oldid=513070232
+
+Social commentators and historians have noted that for many minority groups the event did not represent the end of the disco era but "a mass exercise in racism and homophobia, reminiscent of Nazi book-burnings."<ref>{{cite journal
+−
++
+ | last =Mandich
+ 	+
+ | title =Disco Demolition Night: A Midsummer Nightmare
+ 	+
+ | journal =Roctober
+ 	+
+ | issue =37
+ 	+
+ | date =Winter 2003
+ 	+
+ | url =http://www.stevemandich.com/otherstuff/disco.htm
+ 	+
+ | accessdate =20 July 2012 }}</ref>. The book ''A Change Is Gonna Come'' states that "The Anti-disco movement represented an unholy alliance of funkateers and feminists, progressives and puritans, rockers and reactionaries. The attacks on disco gave respectable voice to the ugliest kinds of unacknowledged racism, sexism and homophobia."<ref name="werner">{{cite book|last=Werner|first=Craig|title=A Change Is Gonna Come: Music, Race & the Soul of America|date=January 9, 2006|publisher=University of Michigan Press|isbn=0-472-03147-3}}</ref> Dahl, however, rejects the notion that prejudice was his motivation. "The worst thing is people calling Disco Demolition homophobic or racist. It just wasn't...We weren't thinking like that."<ref name=Behrens/>
+XXX
+
+==Table (Bacteria)==
+
+
+{| class="wikitable" style="margin-left  auto; margin-right: auto"
+|+ Nutritional types in bacterial metabolism
+|-
+!Nutritional type
+!Source of energy
+!Source of carbon
+!Examples
+|-
+|&nbsp;[[Phototroph]]s&nbsp;
+| style="text-align:center;"|Sunlight
+| style="text-align:center;"|&nbsp;Organic compounds (photoheterotrophs) or carbon fixation (photoautotrophs)
+|&nbsp;[[Cyanobacteria]], [[Green sulfur bacteria]], [[Chloroflexota]], or [[Purple bacteria]]&nbsp;
+|-
+|&nbsp;[[Lithotroph]]s
+| style="text-align:center;"|Inorganic compounds
+| style="text-align:center;"|&nbsp;Organic compounds (lithoheterotrophs) or carbon fixation (lithoautotrophs)
+|&nbsp;[[Thermodesulfobacteriota]], [[Hydrogenophilaceae]], or [[Nitrospirota]]&nbsp;
+|-
+|&nbsp;[[Organotroph]]s
+| style="text-align:center;"|Organic compounds
+| style="text-align:center;"|&nbsp;Organic compounds (chemoheterotrophs) or carbon fixation (chemoautotrophs)
+|&nbsp;''[[Bacillus]]'', ''[[Clostridium]]'', or [[Enterobacteriaceae]]&nbsp;
+|}
+
+==== Gregory of Nyssa ====
+[[Gregory of Nyssa]] wrote:<blockquote>Scripture informs us that the Deity '''proceeded by a sort of graduated and ordered advance to the creation of man'''. After the foundations of the universe were laid, as the history records, man did not appear on the earth at once, but the creation of the brutes preceded him, and the plants preceded them. Thereby Scripture shows that the vital forces blended with the world of matter according to a gradation; first it infused itself into insensate nature; and in continuation of this advanced into the sentient world; and then ascended to intelligent and rational beings (emphasis added).<ref name=":0" /></blockquote>[[Henry Fairfield Osborn]] wrote in his work on the history of evolutionary thought,
+
+
+== Diplodocus ==
+The German satirical weekly Kladderadatsch devoted a poem to the dinosaur:
+{|
+|
+:''Auch ein viel älterer Herr noch muß''
+:''Den Wanderburschen spielen''
+:''Er ist genannt Diplodocus''
+:''und zählt zu den Fossilen''
+:''Herr Carnegie verpackt ihn froh''
+:''In riesengroße Archen''
+:''Und schickt als Geschenk ihn so''
+:''An mehrere Monarchen''<ref>{{Cite magazine|date=May 10, 1908|title=Die Wanderjahre|url=https://digi.ub.uni-heidelberg.de/diglit/kla1908/0319|magazine=[[Kladderadatsch]]|language=de|volume=61|page=319}}</ref>
+|
+:But even a much older gent
+:Sees itself forced to wander
+:He goes by the name ''Diplodocus''
+:And belongs among the fossils
+:Mr. Carnegie packs him joyfully
+:Into giant arks
+:And sends him as gift
+:To several monarchs
+|
+|}
+
+== 0.9999 ==
+
+Byers also presents the following argument.
+{{block indent|1=<math>
+\begin{align}
+     x &= 0.999\ldots \\
+   10x &= 9.999\ldots && \text{by multiplying by }10\\
+   10x &= 9+0.999\ldots && \text{by splitting off integer part}\\
+   10x &= 9 + x && \text{by definition of }x\\
+   9x &= 9 && \text{by subtracting }x\\
+    x &= 1 && \text{by dividing by }9
+\end{align}
+</math>}}
+
+== Binary search ==
+Procedure
+
+[[File:Binary-search-work.gif|thumb|right|binary-search]]
+ '''function''' binary_search(A, n, T) '''is'''
+     L := 0
+     R := n &minus; 1
+     '''while''' L ≤ R '''do'''
+         m := floor((L + R) / 2)
+         '''if''' A[m] < T '''then'''
+             L := m + 1
+         '''else if''' A[m] > T '''then'''
+             R := m &minus; 1
+         '''else''':
+             '''return''' m
+     '''return''' unsuccessful
+
+== Enzyme inhibitor ==
+To demonstrate the relationship the following rearrangement can be made:<ref name = "Walsh_2007" />{{rp|}}
+:<math chem>\begin{align}\cfrac{V_\max}{1 + \cfrac\ce{[I]}{K_i}} &={V_\max}\left(\cfrac{K_i}{K_i+[\ce I]}\right)&&\text{multiply by } \cfrac{K_i}{K_i}=1\\
+&={V_\max}\left(\cfrac{K_i+[\ce I]-[\ce I]}{K_i+[\ce I]}\right)&&\text{add }[\ce I]-[\ce I]=0\text{ to numerator}\\
+&={V_\max}\left(1-\cfrac{[\ce I]}{K_i+[\ce I]}\right)&&\text{simplify }\cfrac{K_i+[\ce I]}{K_i+[\ce I]}=1\\
+&=V_\max - V_\max \cfrac\ce{[I]}{K_i+[\ce I]}&&\text{multiply out by }V_\max \end{align}</math>
+
+
+== Chagas disease ==
+In the acute phase of the disease, signs and symptoms are caused directly by the replication of {{nowrap|''T. cruzi''}} and the [[immune system]]'s response to it.<ref name="Molina2018"/> During this phase, {{nowrap|''T. cruzi''}} can be found in various tissues throughout the body and circulating in the blood.<ref name="Molina2018"/> During the initial weeks of infection, parasite replication is brought under control by production of [[antibodies]] and activation of the host's [[Inflammation|inflammatory response]], particularly cells that target [[intracellular pathogen]]s such as [[NK cell]]s and [[macrophage]]s, driven by [[cytokine|inflammation-signaling molecules]]
+
+== Changeling (film) ==
+
+''Changeling''{{'}}s budget was $55&nbsp;million.<ref name="mojo"/> [[Principal photography]] began on October&nbsp;15, 2007,<ref>{{cite journal | author=Army Archerd | url=http://www.variety.com/article/VR1117972374.html | title=Eastwood plots schedule | journal=[[Variety (magazine)|Variety]] | publisher=[[Reed Business Information]] | date=2007-09-20 | accessdate=2008-01-28 }}</ref> It finished two days ahead of its 45-day schedule, on December&nbsp;14, 2007.<ref name="united"/> Filming mainly took place on the Universal Studios [[backlot]] in Los Angeles.
+
+== Christopher C. Kraft Jr ==
+
+On Christmas Eve, 1968, Apollo 8 went into orbit around the Moon. Only ten years earlier, Kraft had joined Gilruth's newly founded Space Task Group. Now, the two men sat together in Mission Control, reflecting on how far they had come. Around them, the room was filled with cheers, but Kraft and Gilruth celebrated more quietly.
+
+{{Blockquote  | It was glorious pandemonium, and through the mist in my own eyes, I saw Bob Gilruth wiping at his and hoping that no one saw him crying. I put my hand on his arm and squeezed. [...] He lifted my hand from his arm and shook it strongly. There were no words from either of us. The lumps in our throats held them back.<ref>Kraft, ''Flight'', p. 299.</ref>}}
+
+Kraft again found himself a spectator during the landing of [[Apollo 11]], which he viewed from Mission Control, sitting with Gilruth and George Low.<ref>Kraft, ''Flight'', p. 316</ref> He played a more active role in events during the unfolding of the [[Apollo 13]] crisis. Called into Mission Control by Gene Kranz almost immediately after the accident,<ref>Kranz, ''Failure is Not an Option'', p. 313</ref> he led discussions on whether Apollo 13 should attempt a direct abort, or go around the Moon and return on a free trajectory; the latter option was taken.<ref>Kranz, ''Failure is Not an Option'', pp. 316–318</ref>
+
+== Quotes around concert name (Ayumi Hamasaki) ==
+Due to the cancellation of her 2020 tour, Hamasaki held an online concert named ''Trouble Tour 2020 A: Saigo no Trouble Final'' on October 2. This was without an in-person audience, the stream being hosted by Mu-mo Live.<ref>{{Cite web |last=Inc |first=Natasha |title=【ライブレポート】浜崎あゆみ、ピンクの海の中でレア曲連発「サイゴノトラブル」を終わらせる（写真6枚） |url=https://natalie.mu/music/news/399065 |access-date=2022-12-14 |website=音楽ナタリー |language=ja}}</ref> On December 2, the singer also performed "Ohia no Ki" as part of the [[FNS Music Festival]].<ref>{{Cite web |date=2020-12-02 |title=「2020 FNS歌謡祭」第1夜のタイムテーブル【出演者・曲一覧】 |url=https://www.huffingtonpost.jp/entry/story_jp_5fc6d9bdc5b64c880a7e3228 |access-date=2022-12-21 |website=ハフポスト |language=ja}}</ref> Later that same month, Hamasaki planned to hold an in-person Christmas concert titled ''Special Showcase Xmas Eve 2020,'' but it was later adapted to be a streaming exclusive via YouTube on December 24.<ref>{{Cite web |title=ayumi hamasaki LIMITED TA Special Xmas LIVE 2020 ～@Maihama Amphitheaterー～ |url=https://ayu-vogue.net/post/632767523072442368/ayumi-hamasaki-limited-ta-special-xmas-live-2020 |access-date=2022-12-14 |website=Tumblr}}</ref> ''Countdown Live 2020-2021 A: Music For Life,'' two New Year concerts for December 30 and 31, were cancelled on December 29 due to a member of staff testing positive with [[COVID-19 pandemic|COVID-19.]]<ref>{{Cite web |last=Kyle |date=2020-12-29 |title=Ayumi Hamasaki cancels Countdown Live 2020-2021 concert |url=https://aramajapan.com/news/concert/ayumi-hamasaki-cancels-countdown-live-2020-2021-concert/111048/ |access-date=2022-12-14 |website=ARAMA! JAPAN |language=en-US}}</ref> Hamasaki later confirmed she was following isolation instructions and had not tested positive herself.<ref>{{Cite web |title=ayumi hamasaki on Instagram: "このステージに立ち、パフォーマンスを観て頂く夢は叶わなかったけれど 同じゴールだけをひたすらに目指して、ミュージシャンチームが、コーラスチームが、クワイヤーチームが、ダンサーズが、そしてたくさんのスタッフが毎日一歩ずつ試行錯誤しながら夢をカタチにしようと挑んできたあの日々は決して無駄なんかじゃなく、想いや経験として胸に刻まれ残って行く 一見こんなにも華やかなのに、神妙な面持ちをしたスタッフの涙と共に取り壊されて行ったステージのように 一生忘れない チーム内で感染が確認された方々が、1日も早く回復される事を祈りながら、自主隔離中の今はただ、静かに、穏やかに、、 これまで、本当に有り難うございました #MusicForLife" |url=https://www.instagram.com/p/CJbcaEkBV7F/ |access-date=2022-12-14 |website=Instagram |language=en}}</ref>
+
+== not a typo ==
+This warbler gets its name from its simple distinctive song, a repetitive cheerful ''{{not a typo|chiff-chaff}}''. This song is one of the first [[bird|avian]] signs that spring has returned. Its call is a ''{{not a typo|hweet}}'', less [[syllable|disyllabic]] than the ''{{not a typo|hooeet}}'' of the willow warbler or ''{{not a typo|hu-it}}'' of the [[western Bonelli's warbler]].<ref name= Collins>Mullarney, Killian; Svensson, Lars, Zetterstrom, Dan; Grant, Peter. (1999). ''Birds of Europe.'' London. HarperCollins. pp. 304–306 {{ISBN|0-00-219728-6}}</ref>
+
+
+== Templates to remove ==
+{{ at the start of a section }}
+
+{{ at the start of a text }} aaa
+

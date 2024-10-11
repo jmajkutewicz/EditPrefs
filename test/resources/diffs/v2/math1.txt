@@ -1,0 +1,15 @@
+===Casimir invariants and the energy levels===
+The [[Casimir invariant]]s for negative energies are
+<math display="block"> \begin{align}
+C_1 &= \mathbf{D} \cdot \mathbf{D} + \mathbf{L} \cdot \mathbf{L} = \frac{mk^2}{2|E|}, \\
+C_2 &= \mathbf{D} \cdot \mathbf{L} = 0,
+\end{align}</math>
+
+and have vanishing Poisson brackets with all components of {{math|'''D'''}} and {{math|'''L'''}},
+<math display="block">
+\{ C_1, L_i \} = \{ C_1, D_i\} =
+\{ C_2, L_i \} = \{ C_2, D_i \} = 0.
+</math>
+''C''<sub>2</sub> is trivially zero, since the two vectors are always perpendicular.
+
+However, the other invariant, ''C''<sub>1</sub>, is non-trivial and depends only on {{mvar|m}}, {{mvar|k}} and {{mvar|E}}. Upon canonical quantization, this invariant allows the energy levels of [[hydrogen-like atom]]s to be derived using only quantum mechanical canonical commutation relations, instead of the conventional solution of the Schrödinger equation.<ref name="bohm_1993" /><ref name="ReferenceA" /> This derivation is discussed in detail in the next section.

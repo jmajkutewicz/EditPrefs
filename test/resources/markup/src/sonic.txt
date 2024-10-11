@@ -1,0 +1,44 @@
+{{Short description|Video game franchise}}
+{{About|the media franchise|the character|Sonic the Hedgehog (character)|other uses}}
+{{Pp-semi-indef|small=yes}}
+{{Featured article}}
+{{Use mdy dates|date=May 2023}}
+{{Infobox media franchise
+| image = Sonic The Hedgehog.svg
+| caption =
+| creator = {{Ubl|[[Yuji Naka]]|[[Naoto Ohshima]]|[[Hirokazu Yasuhara]]}}
+| origin = ''[[Sonic the Hedgehog (1991 video game)|Sonic the Hedgehog]]'' (1991)
+| owner = [[Sega]]
+| years = 1991–present
+| books = [[List of Sonic the Hedgehog printed media|Printed media list]]
+| novels =
+| short_stories =
+| comics = [[List of Sonic the Hedgehog printed media#Comic books|Comic book list]]
+| magazines =
+| films = [[List of Sonic the Hedgehog features#Films|Films list]]
+| shorts = [[List of Sonic the Hedgehog features#Web series|Web series list]]
+| tv =
+| atv = [[List of Sonic the Hedgehog features#Television series/specials|Animated series list]]
+| tv_specials =
+| tv_films =
+| dtv =
+| plays =
+| musicals =
+| games =
+| rpgs =
+| vgs = [[List of Sonic the Hedgehog video games|List of games]]
+| radio =
+| soundtracks =
+| music =
+| toys = [[Lego Sonic the Hedgehog]]
+| otherlabel1 =
+| otherdata1 =
+| otherlabel2 =
+| otherdata2 =
+| otherlabel3 =
+| otherdata3 =
+| website = {{URL|www.sonicthehedgehog.com}}
+| alt = The word "Sonic" in yellow text outlined in blue, followed by "the hedgehog" in white text surrounded by a red box
+}}
+
+{{nihongo foot|'''''Sonic the Hedgehog'''''|ソニック・ザ・ヘッジホッグ|Sonikku za Hejjihoggu|lead=yes|group=lower-alpha}} is a [[video game]] series and [[media franchise]] created by the Japanese developers [[Yuji Naka]], [[Naoto Ohshima]], and [[Hirokazu Yasuhara]] for [[Sega]]. The franchise follows [[Sonic the Hedgehog (character)|Sonic]], an [[anthropomorphic]] blue [[hedgehog]] who battles the evil [[Doctor Eggman]], a [[mad scientist]]. The main ''Sonic the Hedgehog'' games are [[platformer]]s mostly developed by [[Sonic Team]]; other games, developed by various studios, include [[Spin-off (media)|spin-offs]] in the [[Racing game|racing]], [[fighting game|fighting]], [[party game|party]] and [[sports game|sports]] genres. The franchise also incorporates [[List of Sonic the Hedgehog printed media|printed media]], [[List of Sonic the Hedgehog features|animations]], feature films, and merchandise.

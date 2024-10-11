@@ -1,0 +1,657 @@
+===Paintings===
+The ''Paintings'' list is derived from the numbered catalogue ''The exhibition of the Shakspeare gallery, Pall-Mall: being the last time the pictures can ever be seen as an entire collection'' (London: W. Bulmer & Co., 1805), ''The Boydell Shakespeare Gallery'' edited by Walter Pape and Frederick Burwick (Bottrop: Peter Pomp, 1996), and [http://www.whatjanesaw.org/1796/rooms.php?location=NRNE "What Jane Saw"].
+{| class="wikitable sortable"
+|+ Boydell Shakespeare Gallery list of paintings
+|-
+! Boydell number !! Artist !! Play title !! Act, scene (#.#) !! Location !! Image
+|-
+| 1 || [[James Northcote]] || [[Richard II (play)|''Richard II'']] || 5.2 || [[Royal Albert Memorial Museum]] ||
+|-
+| 2 || [[James Northcote]] || [[Richard III (play)|''Richard III'']] || 4.3 || Collection of Richard Herner, National Trust ||
+|-
+| 3 || [[John Opie]] || ''[[The Winter's Tale]]'' || 2.3 || Northbrook Sale, Straton Park, November 27, 1929 ||
+|-
+| 4 || [[Robert Smirke (painter)|Robert Smirke]] || ''[[The Taming of the Shrew]]'' || Induction ||  ||
+|-
+| 5 || Thomas Kirk || ''[[Titus Andronicus]]'' || 4.1 ||  ||
+|-
+| 6 || [[William Hamilton (painter)|William Hamilton]] || ''[[Twelfth Night]]'' || 5.1 ||  ||
+|-
+| 7 || [[William Hamilton (painter)|William Hamilton]] || ''[[Love's Labour's Lost]]'' || 4.1 ||  ||
+|-
+| 8 || [[John Opie]] || ''[[Henry VI, Part 1]]'' || 2.3 ||  ||
+|-
+| 9 || [[William Hamilton (painter)|William Hamilton]] || ''[[The Winter's Tale]]'' || 5.3 || Christie's, July 24, 1953, no. 40 ||
+|-
+| 10 || [[James Northcote]] || [[King John (play)|''King John'']] || 4.1 || [[Royal Shakespeare Company]] ||
+|-
+| 11 || [[Joshua Reynolds]] || ''[[Macbeth]]'' || 4.1 || [[Petworth House]] ||
+|-
+| 12 || [[John Hoppner]] || ''[[Cymbeline]]'' || 3.4 || Christie's, C.K.M. Neeld Sale, November 16, 1962, no. 86 ||
+|-
+| 13 || [[Joshua Reynolds]] || ''[[Henry VI, Part 2]]'' || 3.3 || [[Petworth House]] ||
+|-
+| 14 || [[Henry Fuseli]] || ''[[King Lear]]'' || 1.1 || [[Art Gallery of Ontario]] ||
+|-
+| 15 || [[William Hamilton (painter)|William Hamilton]] || ''[[As You Like It]]'' || 5.4 || [[Brighton and Hove|Brighton and Hove Museums and Art Galleries]] ||
+|-
+| 16 || [[Robert Smirke (painter)|Robert Smirke]] || ''[[Henry VI, Part 1]]'' || 2.2 ||  ||
+|-
+| 17 || [[James Northcote]] || ''[[Henry VI, Part 3]]'' || 5.7 ||  ||
+|-
+| 18 || [[Robert Smirke (painter)|Robert Smirke]] || ''[[The Merry Wives of Windsor]]'' || 5.5 ||  ||
+|-
+| 19 || [[Thomas Stothard]] || [[Henry VIII (play)|''Henry VIII'']] || 1.4 ||  ||
+|-
+| 20 || [[William Hamilton (painter)|William Hamilton]] || ''[[Much Ado About Nothing]]'' || 4.1 || Christie's, July 24, 1953, no. 41 ||
+|-
+| 21 || [[Henry Fuseli]] || ''[[Henry VI, Part 2]]'' || 5.4 ||  ||
+|-
+| 22 || [[Henry Howard (painter)|Henry Howard]] || ''[[Timon of Athens]]'' || 4.1 ||  ||
+|-
+| 23 || Thomas Kirk || ''[[Titus Andronicus]]'' || 4.2 || [[Stratford-upon-Avon]] ||
+|-
+| 24 || [[Robert Smirke (painter)|Robert Smirke]] || ''[[As You Like It]]'' || 4.3 ||  ||
+|-
+| 25 || [[Robert Smirke (painter)|Robert Smirke]] || ''[[The Merry Wives of Windsor]]'' || 4.1 || R. Hall McCormick sale New York, April 15, 1920, no. 28, as ''The New Page'' ||
+|-
+| 26 || [[Francis Wheatley (painter)|Francis Wheatley]] || ''[[All's Well That Ends Well]]'' || 1.3 ||  ||
+|-
+| 27 || [[William Hamilton (painter)|William Hamilton]] || ''[[Twelfth Night]]'' || 1.5 ||  ||
+|-
+| 28 || [[Richard Westall]] || ''[[Cymbeline]]'' || 3.6 || [[Folger Shakespeare Library]] ||
+|-
+| 29 || [[Richard Westall]] || ''[[Cymbeline]]'' || 2.2 ||  ||
+|-
+| 30 || [[William Hamilton (painter)|William Hamilton]] || ''[[Twelfth Night]]'' || 4.3 || [[Folger Shakespeare Library]] ||
+|-
+| 31 || [[William Hamilton (painter)|William Hamilton]] || ''[[Henry VI, Part 1]]'' || 5.4 ||  ||
+|-
+| 32 || [[William Hamilton (painter)|William Hamilton]] || ''[[Henry VI, Part 3]]'' || 5.5 ||  ||
+|-
+| 33 || [[William Hamilton (painter)|William Hamilton]] || ''[[Henry VI, Part 3]]'' || 3.2 || Christie's, March 31, 1967 ||
+|-
+| 34 || [[William Hamilton (painter)|William Hamilton]] || ''[[Twelfth Night]]'' || 2.3 ||  ||
+|-
+| 35 || [[Francis Wheatley (painter)|Francis Wheatley]] || ''[[Love's Labour's Lost]]'' || 5.2 ||  ||
+|-
+| 36 || [[Francis Wheatley (painter)|Francis Wheatley]] || ''[[All's Well That Ends Well]]'' || 2.3 || [[Folger Shakespeare Library]] ||
+|-
+| 37 || [[Richard Westall]] || [[Henry VIII (play)|''Henry VIII'']] || 5.1 ||  ||
+|-
+| 38 || [[Richard Westall]] || ''[[Macbeth]]'' || 3.4 ||  ||
+|-
+| 39 || [[Richard Westall]] || ''[[Macbeth]]'' || 5.1 ||  ||
+|-
+| 40 || [[Richard Westall]] || [[Richard III (play)|''Richard III'']] || 3.4 ||  ||
+|-
+| 41 || [[Josiah Boydell]] || ''[[Othello]]'' || 5.2 ||  ||
+|-
+| 42 || [[Robert Smirke (painter)|Robert Smirke]] || ''[[King Lear]]'' || 4.7 || [[Folger Shakespeare Library]] ||
+|-
+| 43 || [[Henry Howard (painter)|Henry Howard]] || ''[[Timon of Athens]]'' || 1.2 ||  ||
+|-
+| 44 || [[Robert Ker Porter]] || ''[[Coriolanus]]'' || 4.5 ||  ||
+|-
+| 45 || [[Richard Westall]] || [[Henry V (play)|''Henry V'']] || 3.3 ||  ||
+|-
+| 46 || [[Richard Westall]] || ''[[Macbeth]]'' || 1.3 ||  ||
+|-
+| 47 || [[Robert Ker Porter]] || ''[[Coriolanus]]'' || 1.3 ||  ||
+|-
+| 48 || [[Richard Westall]] || [[Julius Caesar (play)|''Julius Caesar'']] || 3.1 ||  ||
+|-
+| 49 || [[Samuel Woodforde]] || ''[[Titus Andronicus]]'' || 2.3 || [[Stratford-upon-Avon]] ||
+|-
+| 50 || [[Richard Westall]] || [[King John (play)|''King John'']] || 3.4 ||  ||
+|-
+| 51 || [[Richard Westall]] || [[Henry VIII (play)|''Henry VIII'']] || 4.2 ||  ||
+|-
+| 52 || [[Richard Westall]] || ''[[Hamlet]]'' || 3.4 ||  ||
+|-
+| 53 || [[Robert Smirke (painter)|Robert Smirke]] || ''[[As You Like It]]'' || 2.6 ||  ||
+|-
+| 54 || [[Robert Smirke (painter)|Robert Smirke]] || ''[[Romeo and Juliet]]'' || 2.5 || R. Hall McCormick sale New York, 15 April 1920, no. 29, as ''The Obdurate Mother'' ||
+|-
+| 55 || [[Robert Smirke (painter)|Robert Smirke]] || ''[[Henry IV, Part 1]]'' || 5.4 ||  ||
+|-
+| 56 || [[Robert Smirke (painter)|Robert Smirke]] || ''[[Measure for Measure]]'' || 2.4 || [[Folger Shakespeare Library]] ||
+|-
+| 57 || [[William Hamilton (painter)|William Hamilton]] || ''[[Othello]]'' || 4.2 ||  ||
+|-
+| 58 || [[Richard Westall]] || ''[[Hamlet]]'' || 4.7 ||  ||
+|-
+| 59 || [[William Hamilton (painter)|William Hamilton]] || [[Richard II (play)|''Richard II'']] || 3.2 || [[Sir John Soane's Museum]] ||
+|-
+| 60 || [[William Hamilton (painter)|William Hamilton]] || ''[[Henry VI, Part 2]]'' || 3.2 ||  ||
+|-
+| 61 || [[Robert Ker Porter]] || [[King John (play)|''King John'']] || 4.3 ||  ||
+|-
+| 62 || [[Richard Westall]] || [[Julius Caesar (play)|''Julius Caesar'']] || 5.5 ||  ||
+|-
+| 63 || [[William Hamilton (painter)|William Hamilton]] || ''[[The Tempest]]'' || 3.1 || Christie's, August 4, 1944, no. 58 ||
+|-
+| 64 || [[William Hamilton (painter)|William Hamilton]] || ''[[Henry VI, Part 2]]'' || 2.2 ||  ||
+|-
+| 65 || [[William Hamilton (painter)|William Hamilton]] || [[Richard II (play)|''Richard II'']] || 5.2 || [[Folger Shakespeare Library]] ||
+|-
+| 66 || [[William Hamilton (painter)|William Hamilton]] || ''[[Henry VI, Part 1]]'' || 2.5 ||  ||
+|-
+| 67 || [[William Hamilton (painter)|William Hamilton]] || ''[[The Winter's Tale]]'' || 2.1 ||  ||
+|-
+| 68 || [[Richard Westall]] || ''[[The Merchant of Venice]]'' || 3.2 ||  ||
+|-
+| 69 || [[William Hamilton (painter)|William Hamilton]] || ''[[The Winter's Tale]]'' || 2.3 ||  ||
+|-
+| 70 || [[Richard Westall]] || ''[[Cymbeline]]'' || 2.4 ||  ||
+|-
+| 71 || [[Henry Fuseli]] || ''[[Hamlet]]'' || 1.4 ||  ||
+|-
+| 72 || [[Richard Westall]] || ''[[Macbeth]]'' || 1.5 ||  ||
+|-
+| 73 || [[Henry Tresham]] || ''[[Antony and Cleopatra]]'' || 3.9 ||  ||
+|-
+| 74 || [[Robert Smirke (painter)|Robert Smirke]] || ''[[Henry IV, Part 1]]'' || 2.4 || [[Bob Jones University]] ||
+|-
+| 75 || [[Robert Smirke (painter)|Robert Smirke]] || ''[[Much Ado About Nothing]]'' || 4.2 || [[Royal Shakespeare Company]] ||
+|-
+| 76 || [[James Northcote]] || ''[[Henry VI, Part 1]]'' || 2.5 || Northbrook Sale, Straton Park, November 27, 1929, no. 493 ||
+|-
+| 77 || [[Francis Wheatley (painter)|Francis Wheatley]] || ''[[The Winter's Tale]]'' || 4.3 || [[Royal Shakespeare Company]] ||
+|-
+| 78 || [[James Northcote]] || ''[[Romeo and Juliet]]'' || 5.3 || [[Folger Shakespeare Library]] || [[File:Folger-265225.jpg|thumb|]]
+|-
+| 79 || [[Angelica Kauffman]] || ''[[Troilus and Cressida]]'' || 5.2 || [[Petworth House]] ||
+|-
+| 80 || [[Robert Smirke (painter)|Robert Smirke]] || ''[[The Merry Wives of Windsor]]'' || 1.1 || [[Royal Shakespeare Company]]; Anne Page only, [[Folger Shakespeare Library]] ||
+|-
+| 81 || [[John Opie]] || ''[[Romeo and Juliet]]'' || 4.5 || Christie's, 1892 ||
+|-
+| 82 || [[Robert Smirke (painter)|Robert Smirke]] || ''[[The Merchant of Venice]]'' || 2.5 || [[Stratford-upon-Avon]] ||
+|-
+| 83 || William Miller || ''[[Henry VI, Part 3]]'' || 4.5 ||  ||
+|-
+| 84 || [[Benjamin West]] || ''[[King Lear]]'' || (3.4)1.4 || [[Museum of Fine Arts, Boston]]; [[Rhode Island School of Design]] ||
+|-
+| 85 || [[Raphael West|Raphael Lamar West]] || ''[[As You Like It]]'' || 4.3 ||  ||
+|-
+| 86 || [[Angelica Kauffman]] || ''[[The Two Gentlemen of Verona]]'' || (5.3)5.4 || [[Davis Museum and Cultural Center at Wellesley College]] ||
+|-
+| 87 || [[Henry Fuseli]] || ''[[The Tempest]]'' || 1.2 || [[York Museums Trust]], Head of Prospero only ||
+|-
+| 88 || [[Benjamin West]] || ''[[Hamlet]]'' || 4.5 || [[Cincinnati Art Museum]] ||
+|-
+| 89 || [[George Romney (painter)|George Romney]] || ''[[Troilus and Cressida]]'' || 2.2 || Mrs. Tankerville Chamberlayne ||
+|-
+| 90 || [[Richard Westall]] || [[Julius Caesar (play)|''Julius Caesar'']] || 4.3 ||  ||
+|-
+| 91 || [[John Graham (painter)|John Graham]] || ''[[Othello]]'' || 5.2 ||  ||
+|-
+| 92 || Thomas Kirk || ''[[Troilus and Cressida]]'' || 1.2 ||  ||
+|-
+| 93 || [[Henry Tresham]] || ''[[Antony and Cleopatra]]'' || 5.2 ||  ||
+|-
+| 94 || [[Robert Smirke (painter)|Robert Smirke]] || ''[[Henry IV, Part 1]]'' || 2.3 ||  ||
+|-
+| 95 || [[Thomas Stothard]] || ''[[The Two Gentlemen of Verona]]'' || 5.3 || [[Stratford, Connecticut]] ||
+|-
+| 96 || [[Francis Wheatley]] || ''[[The Comedy of Errors]]'' || 1.1 || [[Stratford-upon-Avon]] ||
+|-
+| 97 || [[Robert Smirke (painter)|Robert Smirke]] || ''[[The Tempest]]'' || 2.2 || [[Folger Shakespeare Library]] ||
+|-
+| 98 || [[Robert Smirke (painter)|Robert Smirke]] || ''[[King Lear]]'' || 3.4 ||  ||
+|-
+| 99 || [[Robert Smirke (painter)|Robert Smirke]] || ''[[Measure for Measure]]'' || 4.2 ||  ||
+|-
+| 100 || [[Francis Wheatley (painter)|Francis Wheatley]] || ''[[The Comedy of Errors]]'' || 4.3 ||  ||
+|-
+| 101 || [[John Francis Rigaud]] || ''[[Romeo and Juliet]]'' || 2.4 || Agnew, 1972 ||
+|-
+| 102 || [[Francis Wheatley (painter)|Francis Wheatley]] || ''[[Love's Labour's Lost]]'' || 4.2 ||  ||
+|-
+| 103 || [[Robert Smirke (painter)|Robert Smirke]] || ''[[Henry IV, Part 1]]'' || 2.1 ||  ||
+|-
+| 104 || [[Robert Smirke (painter)|Robert Smirke]] || ''[[The Merry Wives of Windsor]]'' || 1.4 ||  ||
+|-
+| 105 || [[Robert Smirke (painter)|Robert Smirke]] || ''[[Henry IV, Part 2]]'' || 5.5 || [[Folger Shakespeare Library]] ||
+|-
+| 106 || [[Robert Smirke (painter)|Robert Smirke]] || ''[[The Merry Wives of Windsor]]'' || 5.5 ||  ||
+|-
+| 107 || [[Robert Smirke (painter)|Robert Smirke]] || ''[[Henry IV, Part 2]]'' || 4.4 ||  ||
+|-
+| 108 || [[Robert Smirke (painter)|Robert Smirke]] || ''[[King Lear]]'' || 1.1 ||  ||
+|-
+| 109 || [[Robert Smirke (painter)|Robert Smirke]] || ''[[As You Like It]]'' || 2.7 ||  ||
+|-
+| 110 || [[William Hamilton (painter)|William Hamilton]] || ''[[The Winter's Tale]]'' || 4.3 ||  ||
+|-
+| 111 || [[William Hamilton (painter)|William Hamilton]] || ''[[The Tempest]]'' || 1.2 ||  ||
+|-
+| 112 || [[Richard Westall]] || [[Henry VIII (play)|''Henry VIII'']] || 1.2 ||  ||
+|-
+| 113 || [[Richard Westall]] || ''[[The Merchant of Venice]]'' || 3.3 || [[Folger Shakespeare Library]] ||
+|-
+| 114 || [[George Romney (painter)|George Romney]] || ''[[The Tempest]]'' || 1.1 || [[Bolton Museum]], Head of Prospero only ||
+|-
+| 115 || [[Josiah Boydell]] || ''[[Henry IV, Part 2]]'' || 4.4 ||  ||
+|-
+| 116 || [[Joseph Wright of Derby]] || ''[[The Winter's Tale]]'' || 3.3 || [[Art Gallery of Ontario]] ||
+|-
+| 117 || [[Josiah Boydell]] || ''[[Henry IV, Part 2]]'' || 4.4 ||  ||
+|-
+| 118 || [[Joseph Wright of Derby]] || ''[[The Tempest]]'' || 4.1 ||  ||
+|-
+| 119 || [[Josiah Boydell]] || ''[[Henry VI, Part 1]]'' || 2.4 ||  ||
+|-
+| 120 || Thomas Kirk || ''[[Measure for Measure]]'' || 5.1 || Christie's, December 11, 1964 ||
+|-
+| 121 || [[Francis Wheatley (painter)|Francis Wheatley]] || ''[[The Tempest]]'' || 5.1 ||  ||
+|-
+| 122 || [[James Barry (painter)|James Barry]] || ''[[King Lear]]'' || 5.3 || [[Tate]]  ||
+|-
+| 123 || [[Henry Fuseli]] || ''[[A Midsummer Night's Dream]]'' || 4.1 || [[Tate]]  ||
+|-
+| 124 || [[Henry Fuseli]] || ''[[A Midsummer Night's Dream]]'' || 2.1 || [[Kloster Allerheiligen, Schaffhausen#Museum zu Allerheiligen|Kloster Allerheiligen, Schaffhausen]] ||
+|-
+| 125 || [[Joshua Reynolds]] || ''[[A Midsummer Night's Dream]]'' || 2.3 || Private collection ||
+|-
+| 126 || Matthew Peters || ''[[Much Ado About Nothing]]'' || 3.1 || [[Carnegie Museum of Art]] ||
+|-
+| 127 || [[James Northcote]] || [[Richard III (play)|''Richard III'']] || 3.1 ||  ||
+|-
+| 128 || Matthew Peters || ''[[The Merry Wives of Windsor]]'' || 3.3 || Christie's, July 3, 1964 ||
+|-
+| 129 || [[James Northcote]] || [[Richard III (play)|''Richard III'']] || 4.3 || [[Petworth House]] ||
+|-
+| 130 || [[Henry Fuseli]] || [[Henry V (play)|''Henry V'']] || 2.2 || [[Royal Shakespeare Company]] ||
+|-
+| 131 || [[Richard Westall]] || ''[[Henry IV, Part 1]]'' || 3.1 || Christie's, C.K.M. Neeld Sale, November 16, 1962, no. 91 ||
+|-
+| 132 || [[Francis Wheatley (painter)|Francis Wheatley]] || ''[[The Taming of the Shrew]]'' || 3.2 ||  ||
+|-
+| 133 || [[John Opie]] || ''[[Timon of Athens]]'' || 4.3 ||  ||
+|-
+| 134 || [[Henry Fuseli]] || ''[[A Midsummer Night's Dream]]'' || 4.1 || [[Kunstmuseum Winterthur]] ||
+|-
+| 135 || [[John Francis Rigaud]] || ''[[Henry IV, Part 1]]'' || 5.4 ||  ||
+|-
+| 136 || [[Richard Westall]] || [[Henry VIII (play)|''Henry VIII'']] || 4.2 || [[Folger Shakespeare Library]] ||
+|-
+| 137 || [[William Hodges]] || ''[[As You Like It]]'' || 2.1 || [[Yale Center for British Art]] ||
+|-
+| 138 || [[George Romney (painter)|George Romney]] || Infant Shakespeare ||  || [[Folger Shakespeare Library]] ||
+|-
+| 139 || [[William Hodges]] || ''[[The Merchant of Venice]]'' || 5.1 ||  ||
+|-
+| 140 || [[James Durno]] || ''[[Henry IV, Part 2]]'' || 3.2 || Sotheby's October 14, 1953, small version. ||
+|-
+| 141 || [[James Durno]] || ''[[The Merry Wives of Windsor]]'' || 4.1 || [[Sir John Soane's Museum]] ||
+|-
+| 142 || [[Mather Brown]] || [[Richard II (play)|''Richard II'']] || 4.1 ||  ||
+|-
+| 143 || [[Thomas Stothard]] || ''[[Othello]]'' || 2.1 || [[Royal Shakespeare Company]] ||
+|-
+| 144 || William Miller || ''[[Romeo and Juliet]]'' || 1.5 ||  ||
+|-
+| 145 || [[Johann Heinrich Ramberg]] || ''[[Twelfth Night]]'' || 3.4 || [[Yale Center for British Art]] ||
+|-
+| 146 || [[Josiah Boydell]] || ''[[Henry VI, Part 3]]'' || 2.5 ||  ||
+|-
+| 147 || [[William Hamilton (painter)|William Hamilton]] || ''[[Cymbeline]]'' || 1.1 ||  ||
+|-
+| 148 || [[Julius Caesar Ibbetson]] || ''[[The Taming of the Shrew]]'' || 4.1 || Coll. Lord Dudley, Exhibition Birmingham 1934 as ''The Elopement'' by W. Hamilton ||
+|-
+| 149 || [[Julius Caesar Ibbetson]] || ''[[The Taming of the Shrew]]'' || 4.5 ||  ||
+|-
+| 150 || [[Josiah Boydell]] || ''[[Othello]]'' || 5.2 ||  ||
+|-
+| 151 || [[Francis Wheatley (painter)|Francis Wheatley]] || ''[[Much Ado About Nothing]]'' || 3.3 ||  ||
+|-
+| 152 || Matthew Peters || [[Henry VIII (play)|''Henry VIII'']] || 5.4 || [[Beaverbrook Art Gallery]] ||
+|-
+| 153 || [[John Francis Rigaud]] || ''[[The Comedy of Errors]]'' || 5.1 ||  ||
+|-
+| 154 || Matthew Peters || ''[[The Merry Wives of Windsor]]'' || 2.1 || Christie's, March 16, 1956, no. 110 ||
+|-
+| 155 || [[John Downman]] || ''[[As You Like It]]'' || 1.2 ||  ||
+|-
+| 156 || [[Francis Wheatley (painter)|Francis Wheatley]] || ''[[All's Well That Ends Well]]'' || 5.3 ||  ||
+|-
+| 157 || [[Henry Fuseli]] || ''[[Macbeth]]'' || 1.3 ||  ||
+|-
+| 158 || [[Robert Smirke (painter)|Robert Smirke]] || ''[[Measure for Measure]]'' || 2.1 || [[Royal Shakespeare Company]] ||
+|-
+| 159 || [[James Northcote]] || ''[[Henry VI, Part 3]]'' || 1.3 ||  ||
+|-
+| 160 || Matthew Peters || [[Henry VIII (play)|''Henry VIII'']] || 3.1 ||  ||
+|-
+| 161 || [[Gavin Hamilton (artist)|Gavin Hamilton]] || ''[[Coriolanus]]'' || 5.3 ||  ||
+|-
+| 162 || [[John Opie]] || ''[[Henry VI, Part 2]]'' || 1.4 ||  ||
+|-
+| 163 || [[Francis Wheatley (painter)|Francis Wheatley]] || ''[[Much Ado About Nothing]]'' || 5.4 ||  ||
+|-
+| 164 || [[Henry Tresham]] || ''[[Antony and Cleopatra]]'' || 4.4 ||  ||
+|-
+| 165 || [[Josiah Boydell]] || ''[[Othello]]'' || 1.3 ||  ||
+|-
+| 166 || [[Francis Wheatley (painter)|Francis Wheatley]] || ''[[A Midsummer Night's Dream]]'' || 4.1 ||  ||
+|-
+| 167 || Mr E Edwards || ''[[The Two Gentlemen of Verona]]'' || 2.1 ||  ||
+|}
+
+===Folio engravings===
+<!--
+ Please do not switch to {{col-1-of-2}} or similar templates.
+ This places the Volume 1 and Volume 2 section in tables
+ and the PDF renderer ("download PDF") will fail because the
+ individual cells of the table would be too big to fit on a single
+ page.
+-->
+<div style="float:left; width:50%">
+'''Volume I'''
+*Titlepage vignette: ''[[:Image:Anne seymour damer coriolanus.JPG|Coriolanus]]'' by William Satchwell Leney after [[Anne Seymour Damer]]
+*Frontispiece: ''[[:Image:George III.png|Portrait of George III]]'' by [[Benjamin Smith (engraver)|Benjamin Smith]] after [[William Beechey]]
+*''Shakespeare attended by Painting and Poetry'' by Benjamin Smith after [[Thomas Banks]]
+*''Infant Shakespeare'' by Benjamin Smith after [[George Romney (painter)|George Romney]]
+*''[[:File:George Romney - William Shakespeare - The Tempest Act I, Scene 1.jpg|Tempest, Act I, scene 1]]'' by Benjamin Smith after George Romney
+*''Tempest, Act I, scene 2'' by Jean Pierre Simon after [[Henry Fuseli]]
+*''Tempest, Act IV, scene 1'' by [[Robert Thew]] after [[Joseph Wright of Derby]]
+*''Tempest, Act V, scene 1'' by [[Caroline Watson]] after [[Francis Wheatley (painter)|Francis Wheatley]]
+*''Two Gentlemen of Verona, Act V, scene 3'' by [[Luigi Schiavonetti]] after [[Angelica Kauffman]]
+*''Merry Wives of Windsor, Act I, scene 1'' by Jean Pierre Simon after [[Robert Smirke (painter)|Robert Smirke]]
+*''Merry Wives of Windsor, Act II, scene 1'' by Robert Thew after [[William Peters (painter)|William Peters]]
+*''Merry Wives of Windsor, Act III, scene 3'' by Jean Pierre Simon after Matthew Peters
+*''Merry Wives of Windsor, Act IV, scene 2'' by [[Thomas Ryder (engraver)|Thomas Ryder]] after [[James Durno]]<ref>{{cite web|title=Scene in 'The Merry Wives of Windsor'|url=http://www.bbc.co.uk/arts/yourpaintings/paintings/scene-in-the-merry-wives-of-windsor-123962|website=BBC Your Paintings|accessdate=3 July 2014}} Durno's painting is now in [[Sir John Soane’s Museum]], London.</ref>
+*''Merry Wives of Windsor, Act V, scene 5'' by Isaac Taylor, Jr. after Robert Smirke
+*''Measure for Measure, Act I, scene 1'' by Thomas Ryder after Robert Smirke
+*''Measure for Measure, Act V, scene 1'' by Jean Pierre Simon after [[Thomas Kirk (artist)|Thomas Kirk]]
+*''Comedy of Errors, Act V, scene 1'' by Charles Gauthier Playter after [[John Francis Rigaud]]
+*''Much Ado About Nothing, Act III, scene 1'' by Jean Pierre Simon after Matthew Peters
+*''Much Ado About Nothing, Act IV, scene 1'' by Jean Pierre Simon [[William Hamilton (painter)|William Hamilton]]
+*''Much Ado About Nothing, Act IV, scene 2'' by [[John Ogborne]] after Robert Smirke
+*''Love's Labour Lost, Act IV, scene 1'' by Thomas Ryder after William Hamilton
+*''Midsummer-Night's Dream, Act II, scene 1'' by Jean Pierre Simon after Henry Fuseli
+*''[[:File:Midsummer Night's Dream Henry Fuseli2.jpg|Midsummer-Night's Dream, Act IV, scene 1]]'' by Thomas Ryder and Thomas Ryder, Jr. after Henry Fuseli
+*''Merchant of Venice, Act II, scene 5'' by Jean Pierre Simon after Robert Smirke
+*''Merchant of Venice, Act V, scene 1'' by [[John Browne (artist)|John Browne]] after [[William Hodges]]
+*''As You Like It, Act I, scene 2'' by William Satchwell Leney after John Downman
+*''As You Like It, Act II, scene 1'' by [[Samuel Middiman]] after William Hodges
+*''As You Like It, Act IV, scene 3'' by William Charles Wilson after Raphael Lamar West
+*''As You Like It, Act V, scene 4'' by Jean Pierre Simon after William Hamilton
+*''Taming of the Shrew, Introduction, scene 2'' by Robert Thew after Robert Smirke
+*''Taming of the Shrew, Act III, scene 2'' by Jean Pierre Simon after Francis Wheatley
+*''All's Well That Ends Well, Act V, scene 3'' by Georg Siegmund and Johann Gottlieb Facius after Francis Wheatley
+*''Twelfth Night, Act III, scene 4'' by Thomas Ryder after [[Johann Heinrich Ramberg]]
+*''Twelfth Night, Act V, scene 1'' by [[Francesco Bartolozzi]] after William Hamilton
+*''[[:File:John Opie - Winter's Tale, Act II. Scene III.jpg|Winter's Tale, Act II, scene 3]]'' by Jean Pierre Simon after [[John Opie]]
+*''Winter's Tale, Act III, scene 3'' by Samuel Middiman after Joseph Wright of Derby
+*''Winter's Tale, Act IV, scene 3'' by [[James Fittler]] after Francis Wheatley
+*''Winter's Tale, Act V, scene 3'' by Robert Thew after William Hamilton
+*''[[:Image:FuseliMacbethBoydell.jpg|Macbeth, Act I, scene 3]]'' by James Caldwell after Henry Fuseli
+*''Macbeth, Act I, scene 5'' by James Parker after [[Richard Westall]]
+*''Macbeth, Act IV, scene 1'' by Robert Thew after [[Joshua Reynolds]]
+*''As You Like It, The Seven Ages, Act II, scene 7'' by Petro William Tomkins after Robert Smirke
+*''As You Like It, The Seven Ages, Second Age, Act II, scene 7'' by John Ogborne after Robert Smirke
+*''As You Like It, The Seven Ages, Third Age, Act II, scene 7'' by Robert Thew after Robert Smirke
+* ''As You Like It, The Seven Ages, Fourth Age, Act II, scene 7'' by John Ogborne after Robert Smirke
+*''As You Like It, The Seven Ages, Fifth Age, Act II, scene 7'' by Jean Pierre Simon after Robert Smirke
+*''As You Like It, The Seven Ages, Sixth Age, Act II, scene 7'' by William Satchwell Leney after Robert Smirke
+*''As You Like It, The Seven Ages, Seventh Age, Act II, scene 7'' by Jean Pierre Simon after Robert Smirke
+</div>
+<div style="float:left; width:50%">
+'''Volume II'''
+*''Antony and Cleopatra'' Terracotta bas relief title page vignette by J. Hellyer after Anne S. Damer
+*''Portrait of Queen Charlotte'' by Thomas Ryder and Thomas Ryder, Jr. after William Beechey
+*''King John, Act IV, scene 1'' by Robert Thew after [[James Northcote (painter)|James Northcote]]
+*''King Richard II, Act IV, scene 1'' by Benjamin Smith after Mather Browne
+*''King Richard II, Act V, scene 2'' by Robert Thew after James Northcote
+*''Henry IV, part 1, Act II, scene 2'' by Samuel Middiman Robert Smirke and [[Joseph Farington]]
+*''Henry IV, part 1, Act II, scene 4'' by Robert Thew after Robert Smirke
+*''Henry IV, part 1, Act III, scene 1'' by Jean Pierre Simon after Richard Westall
+*''Henry IV, part 1, Act V, scene 4'' by Thomas Ryder after John Francis Rigaud
+*''Henry IV, part 2, Act II, scene 4'' by William Satchwell Leney after Henry Fuseli
+*''Henry IV, part 2, Act III, scene 2'' by Thomas Ryder after James Durno
+*''Henry IV, part 2, Act IV, scene 4'' by Robert Thew after Josiah Boydell - ''Prince Henry Taking the Crown''
+*''Henry IV, part 2, Act IV, scene 4'' by Robert Thew after Josiah Boydell - ''Prince Henry's Apology''
+*''Henry V, Act II, scene 2'' by Robert Thew after Henry Fuseli
+*''Henry VI, part 1, Act II, scene 3'' by Robert Thew after John Opie
+*''Henry VI, part 1, Act II, scene 4'' by John Ogborne after Josiah Boydell
+*''Henry VI, part 1, Act II, scene 5'' by Robert Thew after James Northcote
+*''Henry VI, part 2, Act I, scene 4'' by Charles Gauthier Playter and Robert Thew after John Opie
+*''Henry VI, part 2, Act III, scene 3'' by Caroline Watson after Joshua Reynolds
+*''Henry VI, part 3, Act I, scene 3'' by Charles Gauthier Playter and Thomas Ryder after James Northcote
+*''Henry VI, part 3, Act II, scene 5'' by John Ogborne after Josiah Boydell
+*''Henry VI, part 3, Act IV, scene 5'' by Jean Baptiste Michel and William Satchwell Leney after William Miller
+*''Henry VI, part 3, Act V, scene 7'' by Jean Batptiste Michel after James Northcote
+*''Richard III, Act III, scene 1'' by Robert Thew after James Northcote
+*''Richard III, Act IV, scene 3'' by Francis Legat after James Northcote - ''The Young Princes Murdered in the Tower''
+*''Richard III, Act IV, scene 3'' by William Skelton after James Northcote - ''Burying of the Royal Children''
+*''Henry VIII, Act I, scene 4'' by [[Isaac Taylor (engraver)|Isaac Taylor]] after [[Thomas Stothard]]
+*''Henry VIII, Act III, scene 1'' by Robert Thew after Matthew Peters
+*''Henry VIII, Act IV, scene 2'' by Robert Thew after Richard Westall
+*''Henry VIII, Act V, scene 4'' by [[Joseph Collyer]] after Matthew Peters
+*''[[:File:Gavin Hamilton - Coriolanus Act V, Scene III edit2.jpg|Coriolanus, Act V, scene 3]]'' by James Caldwell after [[Gavin Hamilton (artist)|Gavin Hamilton]]
+*''Julius Cæsar, Act IV, scene 3'' by [[Edward Scriven]] after Richard Westall
+*''Antony and Cleopatra, Act III, scene 9'' by Georg Siegmund and Johann Gottlieb Facius after [[Henry Tresham]]
+*''Timon of Athens, Act IV, scene 3'' by Robert Thew after John Opie
+*''Titus Andronicus, Act IV, scene 1'' painted and engraved by Thomas Kirk
+*''Troilus and Cressida, Act II, scene 2'' by Francis Legat after George Romney
+*''[[:Image:A Scene from Troilus and Cressida - Angelica Kauffmann.jpg|Troilus and Cressida, Act V, scene 2]]'' by Luigi Schiavonetti after Angelica Kauffman
+*''Cymbeline, Act I, scene 2'' by [[Thomas Burke (artist)|Thomas Burke]] after William Hamilton
+*''Cymbeline, Act III, scene 4'' by Robert Thew after [[John Hoppner]]
+*''King Lear, Act I, scene 1'' by [[Richard Earlom]] after Henry Fuseli
+*''[[:Image:Benjamin West King Lear Act III scene 4.jpg|King Lear in the Storm]]'' from ''King Lear'', Act III, scene 4 by [[William Sharp (engraver)|William Sharp]] after [[Benjamin West]]
+*''[[:Image:James Barry 002.jpg|King Lear, Act V, scene 3]]'' by Francis Legat after [[James Barry (painter)|James Barry]]
+*''Romeo and Juliet, Act I, scene 5'' by Georg Siegmund and Johann Gottlieb Facius after William Miller
+*''Romeo and Juliet, Act IV, scene 5'' by Georg Siegmund and Johann Gottlieb Facius after John Opie
+*''Romeo and Juliet, Act V, scene 3'' by Jean Pierre Simon after James Northcote
+*''[[:Image:Henry Fuseli - Hamlet and the Ghost.JPG|Hamlet, Act I, scene 4]]'' by Robert Thew after Henry Fuseli
+*''Hamlet, Act IV, scene 5'' by Francis Legat after Benjamin West
+*''Othello, Act II, scene 1'' by Thomas Ryder after Thomas Stothard
+*''[[:Image:John Graham A bedchamber Desdemona in Bed asleep - Othello Act V scene 2.jpg|A Bedchamber, Desdemona in Bed Asleep]]'' from ''Othello'', Act V, scene 2, by William Satchwell Leney after [[John Graham (painter)|John Graham]]
+*''Cymbeline. Act III, scene 6'' by [[Thomas Gaugain]] after Richard Westall
+*''[[:Image:Romney-ShakespeareNaturePassions.jpg|Shakespeare Nursed by Tragedy and Comedy]]'' by Benjamin Smith after George Romney
+*''[[:Image:Josiah Boydell Desdemona in bed asleep - Othello Act V scene 2.jpg|Desdemona in Bed Asleep]]'' from ''Othello'', Act V, scene 2, by William Satchwell Leney after Josiah Boydell
+</div>
+{{Clear}}
+
+===Illustrated edition===
+<!--
+ Please do not switch to {{col-1-of-2}} or similar templates.
+ This places the Volume 1 and Volume 2 section in tables
+ and the PDF renderer ("download PDF") will fail because the
+ individual cells of the table would be too big to fit on a single
+ page.
+-->
+<div style="float:left; width:33%">
+'''Volume I'''
+<br/>
+''[[The Tempest]]''
+*''[[:Image:William Hamilton Prospero and Ariel.jpg|Act I, scene 2]]'' by James Parker after William Hamilton
+*''Act II, scene 2'' by William Charles Wilson after Robert Smirke
+*''Ferdinand and Miranda (Act III, scene 1)'' by [[Anker Smith]] after William Hamilton
+<br/>
+''[[Two Gentlemen of Verona]]''
+*''Act V, scene 3'' by [[John Ogborne]] after Thomas Stothard
+<br/>
+''[[Merry Wives of Windsor]]''
+*''Mrs. Page with a Letter (Act II, scene 1)'' by Joseph Saunders after Matthew Peters
+*''Act I, scene 1'' by Moses Haughton after Robert Smirke
+*''Act I, scene 4'' by Anker Smith after Robert Smirke
+*''Act IV, scene 1'' by [[Thomas Holloway (painter)|Thomas Holloway]] after Robert Smirke
+*''Act V, scene 5'' by [[William Sharp (engraver)|William Sharpe]] after Robert Smirke
+<br/>
+''[[Measure for Measure]]''
+*''Act II, scene 4'' by William Charles Wilson after Robert Smirke
+*''Act IV, scene 3'' by William Charles Wilson after Robert Smirke
+<br/>
+'''Volume II'''
+<br/>
+''[[The Comedy of Errors]]''
+*''Act I, scene 1'' by [[James Neagle]] after Francis Wheatley
+*''Act IV, scene 4'' by [[James Stow]] after Francis Wheatley
+<br/>
+''[[Much Ado About Nothing]]''
+*''Hero, Ursula, and Beatrice (Act III, scene 1)'' by [[James Heath (engraver)|James Heath]] after Matthew Peters
+*''Borachio, Conrade and Watchmen (Act III, scene 3)'' by [[George Noble (engraver)|George Noble]] after Francis Wheatley
+*''Act IV, scene 1'' by [[Thomas Milton]] and Testaloni after William Hamilton
+*''Examination (Act IV, scene 2)'' by James Heath after Robert Smirke
+*''Act V, scene 4'' by [[James Fittler]] after Francis Wheatley
+<br/>
+''[[Love's Labour's Lost]]''
+*''Act IV, scene 2'' by James Neagle after Francis Wheatley
+*''Act V, scene 2'' by [[William Skelton]] after Francis Wheatley
+<br/>
+''[[A Midsummer Night's Dream]]''
+*''Puck (Act II, scene 1)'' by James Parker after Henry Fuseli
+*''Puck (Act II, scene 2)'' by [[Luigi Schiavonetti]] after Joshua Reynolds
+<br/>
+'''Volume III'''
+<br/>
+''[[Merchant of Venice]]''
+*''Act III, scene 2'' by George Noble after Richard Westall
+*''Act III, scene 3'' by James Parker after Richard Westall
+<br/>
+''[[As You Like It]]''
+*''Jacques and the Wounded Stag (Act II, scene 1)'' by Samuel Middiman after William Hodges
+*''[[The Seven Ages of Man (painting series)|Act II, scene 6]]'' by George Noble after Robert Smirke
+*Act IV, scene 3'' by WIlliam Charles Wilson after Robert Smirke
+*''Act V, scene 4'' by Luigi Schiavonetti after William Hamilton
+<br/>
+''[[The Taming of the Shrew]]''
+*''Act IV, scene 1'' by Anker Smith after [[Julius Caesar Ibbetson]]
+*''Act IV, scene 5'' by [[Isaac Taylor (engraver)|Isaac Taylor]] after Julius Caesar Ibbetson
+<br/>
+''[[All's Well That Ends Well]]''
+*''Act I, scene 3'' by Francis Legat after Francis Wheatley
+*''Act II, scene 3'' by Luigi Schiavonetti after Francis Wheatley
+</div>
+<div style="float:left; width:33%">
+'''Volume IV'''
+<br/>
+''[[Twelfth-Night]]''
+*''Olivia, Viola and Maria (Act I, scene 5)'' by James Caldwell after William Hamilton
+*''Sir Toby, Sir Andrew and Maria (Act II, scene 3)'' by James Fittler after William Hamilton
+*''Act IV, scene 3'' by [[William Angus (engraver)|William Angus]] after William Hamilton
+<br/>
+''[[The Winter's Tale]]''
+*''Leontes and Hermione (Act II, scene 1)'' by James Fittler after William Hamilton
+*''Paulina, Child, Leontes, and Antigonus (Act II, scene 3)'' by [[Francesco Bartolozzi]] after William Hamilton
+*''The Shepherd's Cot (Act IV, scene 3)'' by Joseph Collyer after William Hamilton
+<br/>
+''[[Macbeth]]''
+*''Act I, scene 3'' by James Stow after Richard Westall
+*''Act III, scene 4'' by James Parker after Richard Westall
+*''Act V, scene 1'' by William Charles Wilson after Richard Westall
+<br/>
+''[[The Life and Death of King John|King John]]''
+*''Act IV, scene 3'' by Isaac Taylor after Robert Ker Porter
+*''Act III, scene 4'' by Anker Smith after Richard Westall
+<br/>
+'''Volume V'''
+<br/>
+''[[Richard II (play)|King Richard II]]''
+*''Act III, scene 2'' by James Parker after William Hamilton
+*''Act V, scene 2'' by James Stow after William Hamilton
+<br/>
+''[[Henry IV, Part 1|First Part of King Henry IV]]''
+*''Act II, scene 1'' by James Fittler after Robert Smirke
+*''Act II, scene 3'' by James Neagle after Robert Smirke
+*''Act V, scene 4'' by James Neagle after Robert Smirke
+<br/>
+''[[Henry IV, Part 2|Second Part of King Henry IV]]''
+*''Act IV, scene 4'' by William Charles Wilson after Robert Smirke
+*''Act V, scene 5'' by Joseph Collyer after Robert Smirke
+<br/>
+''[[Henry V (play)|King Henry V]]''
+*''Act III, scene 3'' by James Stow after Richard Westall
+<br/>
+'''Volume VI'''
+<br/>
+''[[Henry VI, Part 1|First Part of King Henry VI]]''
+*''Act II, scene 4'' by John Ogborne after Josiah Boydell
+*''Act II, scene 5'' by Isaac Taylor after William Hamilton
+*''Death of Mortimer (Act II, scene 5)'' by Andrew Gray after James Northcote
+*''Joan of Arc and the Furies (Act V, scene 4)'' by Anker Smith after William Hamilton
+<br/>
+''[[Henry VI, Part 2|Second Part of King Henry VI]]''
+*''Act II, scene 2'' by Anker Smith after William Hamilton
+*''Act III, scene 2'' by Isaac Taylor after William Hamilton
+*''Death of Cardinal Beaufort (Act III, scene 3)'' by Andrew Gray after Joshua Reynolds
+<br/>
+''[[Henry VI, Part 3|Third Part of King Henry VI]]''
+*''Act III, scene 2'' by Thomas Holloway after William Hamilton
+*''Act V, scene 5'' by Thomas Holloway after William Hamilton
+<br/>
+''[[Richard III (play)|Richard III]]''
+*''[[:Image:Northcote-Princes-Act3.jpg|Meeting of the Young Princes (Act III, scene 1)]]'' by J. Barlow after James Northcote
+*''Act III, scene 4'' by Anker Smith after Richard Westall
+*''[[:Image:Northcote-MurderPrinces.jpg|The Young Princes Murdered in the Tower (Act IV, scene 3)]]'' by James Heath after James Northcote
+</div>
+<div style="float:left; width:33%">
+'''Volume VII'''
+<br/>
+''[[Henry VIII (play)|King Henry VIII]]''
+*''[[:Image:Stothard-HenryAnne.jpg|Act I, scene 4]]'' by Isaac Taylor after Thomas Stothard
+*''[[:Image:Westall-WolseyResigns.jpg|Wolsey Disgraced (Act III, scene 2)]]'' by William Charles Wilson after Richard Westall
+*''[[:Image:Westall-Katherine.jpg|Act IV, scene 2]]'' by James Parker after Richard Westall
+*''Act V, scene 1'' by William Satchwell Leney after Richard Westall
+<br/>
+''[[Coriolanus (play)|Coriolanus]]''
+*''[[:Image:Porter-CoriolanusAct1.jpg|Act I, scene 3]]'' by James Stow after Robert Ker Porter
+*''[[:Image:Porter-CoriolanusAct4.jpg|Act IV, scene 5]]'' by James Parker after Robert Ker Porter
+<br/>
+''[[Julius Caesar (play)|Julius Cæsar]]''
+*''Act III, scene 1'' by James Parker after Richard Westall
+*''[[:Image:Brutus and the Ghost of Caesar 1802.jpg|Act V, scene 5]]'' by George Noble after Richard Westall
+<br/>
+''[[Antony and Cleopatra]]''
+*''[[:Image:Tresham-AntonyCleopatra.jpg|Act IV, scene 4]]'' by Charles Turner Warren and George Noble after Henry Tresham
+*''[[:Image:Tresham-DeathCleopatra.jpg|Death of Cleopatra (Act V, scene 2)]]'' by George Noble after Henry Tresham
+<br/>
+'''Volume VIII'''
+<br/>
+''[[Timon of Athens]]''
+*''[[:Image:Howard-TimonAct1.jpg|Act I, scene 2]]'' by Richard Rhodes after [[Henry Howard (painter)|Henry Howard]]
+*''[[:Image:Howard-TimonAct4.jpg|Act IV, scene 1]]'' by Isaac Taylor after Henry Howard
+<br/>
+''[[Titus Andronicus]]''
+*''[[:Image:Woodforde-TitusAct2.jpg|Act II, scene 3]]'' by Anker Smith after [[Samuel Woodforde]]
+*''[[:Image:Kirk-TitusAct4ChildAlarmed.jpg|Act IV, scene 1]]'' by [[Burnet Reading]] after Thomas Kirk
+*''[[:Image:Kirk-TitusAct4ProtectSon.jpg|Act IV, scene 2]]'' by Jacob Hogg after Thomas Kirk
+<br/>
+''[[Troilus and Cressida]]''
+*''[[:Image:Kirk-TroilusCressidaAct1.jpg|Act I, scene 2]]'' by Charles Turner Warren after Thomas Kirk
+*''[[:Image:Kirk-TroilusCressidaAct5.jpg|Act V, scene 3]]'' by James Fittler after Thomas Kirk
+<br/>
+''[[Cymbeline]]''
+*''[[:Image:Westall-ImogenInBed.jpg|Act II, scene 2]]'' by James Stow after Richard Westall
+*''[[:Image:Westall-IachimoWager.jpg|Act II, scene 4]]'' by William Charles Wilson after Richard Westall
+*''[[:Image:Imogen in Boy's Clothes - Richard Westall.jpg|Act III, scene 6]]'' by James Parker after Richard Westall
+<br/>
+'''Volume IX'''
+<br/>
+''[[King Lear]]''
+*''Act I, scene 1'' by William Sharpe after Robert Smirke
+*''Act III, scene 4'' by Luigi Schiavonetti after Robert Smirke
+*''Act IV, scene 7'' by Anker Smith after Robert Smirke
+<br/>
+''[[Romeo and Juliet]]''
+*''[[:Image:Miller-RomeoJulietAct1.jpg|Act I, scene 5]]'' by Anker Smith after William Miller
+*''[[:Image:Smirke-JulietNurse.jpg|Act II, scene 5]]'' by James Parker after Robert Smirke
+*''[[:Image:Rigaud-RomeoJuliet.jpg|Act III, scene 5]]'' by James Stow after John Francis Rigaud
+*''[[:Image:Opie-JulietsDeath.jpg|Capulet Finds Juliet Dead (Act IV, scene 5)]]'' by Jean Pierre Simon and [[William Blake]] after John Opie
+*''Act V, scene 3'' by James Heath after James Northcote
+<br/>
+''[[Hamlet]]''
+*''Act III, scene 4'' by William Charles Wilson after Richard Westall
+*''[[:Image:Westall-Ophelia.jpg|Act IV, scene 7]]'' by James Parker after Richard Westall
+<br/>
+''[[Othello]]''
+*''Act IV, scene 2'' by Andrew Michel after Robert Ker Porter
+*''[[:Image:Othello2 josiahbaydell.jpg|Desdemona Asleep (Act V, scene 2)]]'' by Andrew Michel after Josiah Boydell
+''[[As You Like It]]''
+*''Act II, scene 7'' by Robert Thew (no. 99), Peltro William Tomkins (no. 97), Jean Pierre Simon (no. 101, 103), John Ogborne (no. 98, 100), and William Satchwell Leney (no. 102) after Robert Smirke
+</div>
+{{Clear}}

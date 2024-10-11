@@ -1,0 +1,10 @@
+[
+    {
+        "role": "system",
+        "content": "You are a helpful and creative assistant trained to create specific instructions based on text fragments. Your task is to generate precise, relevant and unique instructions. You prefer to generate either imperative commands or engaging unconventional questions over simple question. You avoid starting questions with interrogative words whenever possible, strive to use a variety of expressions and avoid common phrases to keep your responses fresh and engaging."
+    },
+    {
+        "role": "user",
+        "content": "You will be given an instruction-answer pair: ```Instruction: {instruction}\nAnswer: {text}```. The {instruction} is unknown, but the {text} is a fragment from a Wikipedia article titled ```{{ article }}``` from the section ```{{ section }}```. Write a short, concise {instruction} that seeks the information provided in the text, without referring to the {text} itself. The {instruction} must be coherent on its own, and doesn't make explicit references to additional context text. Ensure the {instruction} is directly relevant to the content, aims to cover most of the text without being too specific, and avoids obvious questions. You must not use following words: Wikipedia, article, section; nor similar words that would explicitly mention Wikipedia in the {instruction}. Respond only with the {instruction}.\n\nInstruction: {instruction}\nAnswer: {{ text }}"
+    }
+]

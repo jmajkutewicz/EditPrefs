@@ -1,0 +1,19 @@
+===default__wiki__article__introduction__heading===
+Intro {{t}} more intro
+===Template at the start===
+{{ at the start of a text }} aaa {{ at the end of a text }}
+===Multi line template===
+
+===Multi paragraph===
+a
+a
+{{a}}
+
+{{b}}
+b
+===Inside text===
+aa {{t}} bb
+{{inside text after single line break}}
+cc
+
+second para {{xx}}

@@ -1,0 +1,1161 @@
+{{Short description|City in Greater Manchester, England}}
+{{other uses}}
+{{Featured article}}
+{{pp-semi|small=yes}}
+{{pp-move-indef}}
+{{Use dmy dates|date=May 2020}}
+{{use British English|date=July 2014}}
+{{Infobox settlement
+<!--See the Table at Infobox settlement for all fields and descriptions of usage-->| name                     = Manchester
+| official_name            = City of Manchester
+| native_name              = <!-- for cities whose native name is not in English -->
+| nickname                 = [[Cottonopolis]], [[Madchester]], [[List of warehouses in Manchester|Warehouse City]]<!-- The following has no sources and seems like vandalism: Capital of the North -->
+| settlement_type          = [[City status in the United Kingdom|City]] and [[metropolitan borough]]
+| motto                    = Latin: "Concilio Et Labore" <small>''"By wisdom and effort"''</small>
+<!-- images and maps  ----------->| image_skyline            = {{multiple image
+| border                   = infobox
+| perrow            = 1/2/2/3
+| total_width       = 300
+|image1 = Manchester Skyline.jpg
+|image2 = Manchester Town Hall from Lloyd St.jpg
+|image3 = GUADEC-2017 Hulme Arch Bridge (36293594532).jpg
+|image4 = Manchester Cathedral - geograph.org.uk - 3631413.jpg
+|image5 = Manchester City Centre, Deansgate - geograph.org.uk - 4060535.jpg
+|image6 = Midland Hotel west, Manchester.jpg
+|image7 = Manchester John Rylands Library, Deansgate - geograph.org.uk - 4060504.jpg
+|image8 = UniversityofManchesterSkyline.jpg
+}}
+| image_caption            = Clockwise from top: Manchester Skyline, [[Manchester Town Hall]], [[Hulme Arch Bridge]], [[Manchester Cathedral]], [[Deansgate]] skyline, [[Midland Hotel, Manchester|Midland Hotel]], [[John Rylands Library]] and [[Manchester University]] skyline
+| image_seal               =
+| seal_size                =
+| image_shield             = Arms of the Manchester City Council.svg
+| shield_link              = Symbols of Manchester
+| shield_size              =
+| image_blank_emblem       =
+| blank_emblem_type        =
+| blank_emblem_size        =
+| blank_emblem_link        =
+| image_map                = Manchester UK locator map.svg
+| mapsize                  =
+| pushpin_map              = United Kingdom#UK England#Europe
+| pushpin_map_caption      = Location within the United Kingdom##Location within England##Location within Europe
+| pushpin_relief           = 1
+| map_caption              = Shown within [[Greater Manchester]]
+| mapsize1                 =
+| map_caption1             =
+| image_dot_map            = <!-- Location ------------------>
+| subdivision_type         = [[List of sovereign states|Sovereign state]]
+| subdivision_name         = {{flagdeco|UK}} [[United Kingdom]]
+| subdivision_type1        = {{nowrap|[[Countries of the United Kingdom|Country]]}}
+| subdivision_name1        = {{flagdeco|ENG}} [[England]]
+| subdivision_type2        = [[Regions of England|Region]]
+| subdivision_name2        = [[North West England]]
+| subdivision_type3        = [[City region (United Kingdom)|City region]]
+| subdivision_name3        = [[Greater Manchester Statutory City Region|Manchester]]
+| subdivision_type4        = [[Metropolitan county|Metropolitan]] and [[Ceremonial counties of England|ceremonial county]]
+| subdivision_name4        = [[Greater Manchester]]
+| subdivision_type5        = [[Historic counties of England|Historic counties]]
+| subdivision_name5        = [[Lancashire]] (north of the [[River Mersey]])<br>[[Cheshire]] (south of the River Mersey)
+<!-- Politics ----------------->| government_footnotes     =
+| governing_body           = [[Manchester City Council]]
+| government_type          = [[Metropolitan borough]]
+| leader_title             = [[Executive arrangements#Leader and cabinet|Leadership]]
+| leader_name              = Leader and Cabinet
+| leader_title1            = [[Political make-up of local councils in the United Kingdom#Unitary authorities|Executive]]
+| leader_name1             = {{English district control|GSS=E08000003}}
+| leader_title2            = Leader
+| leader_name2             = [[Bev Craig]]
+| leader_title3            = [[Lord Mayor of Manchester|Lord Mayor]]
+| leader_name3             = Abid Latif Chohan<ref>{{cite web |url=http://www.manchester.gov.uk/info/200033/councillors_and_decision-making/1158/the_lord_mayor_s_office |title=The Lord Mayor of Manchester |publisher=Manchester.gov.uk |access-date=11 June 2019 |archive-url=https://web.archive.org/web/20190503180954/https://www.manchester.gov.uk/info/200033/councillors_and_decision-making/1158/the_lord_mayor_s_office |archive-date=3 May 2019 |url-status=live }}</ref>
+| leader_title4            = [[Manchester City Council#Chief executive|Chief Executive]]
+| leader_name4             = [[Joanne Roney]]
+| established_title        = Founded
+| established_date         = 1st century
+| established_title2       = Town charter
+| established_date2        = 1301
+| established_title3       = City status
+| established_date3        = [[List of cities in the United Kingdom|29 March 1853]]
+| seat_type                = Administrative HQ
+| seat                     = Manchester <small>([[Manchester Town Hall|Town Hall]])</small>
+<!-- Area --------------------->| area_magnitude           =
+| unit_pref                =
+| total_type               = City
+| area_footnotes           =
+| area_total_km2           = {{English district area|GSS=E08000003}}
+| area_rank                = [[List of English districts by area|{{English district area rank|GSS=E08000003}}]]
+| area_land_km2            = <!--See table @ Template:Infobox settlement for details on automatic unit conversion-->
+| area_water_km2           =
+| area_total_sq_mi         =
+| area_land_sq_mi          =
+| area_water_sq_mi         =
+| area_water_percent       =
+| area_urban_km2           = 630.3
+| area_urban_sq_mi         =
+| area_metro_km2           =
+| area_metro_sq_mi         =
+| area_blank1_title        =
+| area_blank1_km2          =
+| area_blank1_sq_mi        = <!-- Population ----------------------->
+| population_as_of         = {{English statistics year}}
+| population_total         = {{English district population|GSS = E08000003}}
+| population_footnotes     =
+| population_rank          = [[List of English districts by population|{{English district rank|GSS = E08000003}}]]
+| population_blank1_title  =
+| population_blank1        =
+| population_density_km2   = {{English district density|GSS=E08000003}}
+| population_blank2_title  = Ethnicity<ref name=2011censusdemo>{{cite web |title=2011 Census – Key statistics for local authorities in England and Wales |url=http://www.ons.gov.uk/ons/rel/census/2011-census/key-statistics-for-local-authorities-in-england-and-wales/rft-table-ks201ew.xls |publisher=[[Office for National Statistics|ONS]] |access-date=7 November 2013 |archive-url=https://web.archive.org/web/20160224143452/http://www.ons.gov.uk/ons/rel/census/2011-census/key-statistics-for-local-authorities-in-england-and-wales/rft-table-ks201ew.xls |archive-date=24 February 2016 |url-status=live }}</ref>
+| population_blank2        = White groups (66.7% )<br /> Asian (14.4%)<br />Black (8.6%)<br />Mixed (4.7%)<br />Chinese (2.7%)<br />Arab (1.9%)<br /> Other (1.2%)
+| population_density_sq_mi =
+| population_urban         = 2,705,000 ([[List of urban areas in Europe]])
+| population_density_urban_km2 = 4051
+| population_density_urban_sq_mi =
+| population_density_metro_km2 =
+| population_density_metro_sq_mi =
+| population_demonyms      = [[List of people from Manchester|Mancunian]]<br/>Manc (''colloq''.)
+<!-- General information --------------->| timezone                 = [[Greenwich Mean Time]]
+| utc_offset               = +0
+| timezone_DST             = [[British Summer Time]]
+| utc_offset_DST           = +1
+| coordinates              = {{coord|53|28|46|N|2|14|43|W|region:GB_type:city(553000)|display=inline,title}}
+| elevation_footnotes      = <!--for references: use tags-->
+| elevation_m              = 38
+| elevation_ft             =
+| blank_name_sec1          = [[Government Statistical Service|GSS]] code
+| blank_info_sec1          = E08000003
+| blank1_name_sec1         = [[NUTS of the United Kingdom|NUTS 3 code]]
+| blank1_info_sec1         = UKD33
+| blank2_name_sec1         = [[Ordnance Survey National Grid|OS grid reference]]
+| blank2_info_sec1         = {{gbmappingsmall|SJ838980}}
+| blank3_name_sec1         = [[List of motorways in the United Kingdom|Motorways]]
+| blank3_info_sec1         = [[M56 motorway|M56]]<br />[[M60 motorway (Great Britain)|M60]]<br />[[A57(M) motorway (Great Britain)|A57(M)]]<br />[[A635(M) motorway|A635(M)]]
+| blank4_name_sec1         = [[National Highways#The strategic road network|Trunk primary routes]]
+| blank4_info_sec1         = [[A5103 road|A5103]]
+| blank5_name_sec1         = [[UK railway stations|Major railway stations]]
+| blank5_info_sec1         = [[Manchester Airport station|Manchester Airport]] ([[United Kingdom railway station categories|B]])<br />[[Manchester Oxford Road railway station|Manchester Oxford Road]] ([[United Kingdom railway station categories|C1]])<br />[[Manchester Piccadilly station|Manchester Piccadilly]] ([[United Kingdom railway station categories|A]])<br />[[Manchester Victoria station|Manchester Victoria]] ([[United Kingdom railway station categories|B]])
+| blank6_name_sec1         = [[List of modern tramway & light rail systems in England|Tramways]]
+| blank6_info_sec1         = [[Manchester Metrolink|Metrolink]]
+| blank7_name_sec1         = [[List of airports in the United Kingdom and the British Crown Dependencies|International airport]]
+| blank7_info_sec1         = [[Manchester Airport|Manchester]] ([[International Air Transport Association airport code|MAN]])
+<!-- Area/postal codes & others -------->| postal_code_type         = [[List of postcode areas in the United Kingdom|Postcode areas]]
+| postal_code              = [[M postcode area|M]], [[WA postcode area|WA]] ([[Ringway, Manchester|Ringway]])
+| area_code_type           = [[List of dialling codes in the United Kingdom|Dialling code]]
+| area_code                = 0161
+| iso_code                 = [[ISO 3166-2:GB|GB-MAN]]
+| blank_name_sec2          = GDP
+| blank_info_sec2          = [[American dollar|US$]] 113.3&nbsp;billion<ref name="brookingsgdp">{{cite web|url=http://www.brookings.edu/research/reports2/2015/01/22-global-metro-monitor|title=Global city GDP 2013–2014|date=30 November 2001|publisher=Brookings Institution|access-date=25 March 2015|archive-url=https://web.archive.org/web/20150321051346/http://www.brookings.edu/research/reports2/2015/01/22-global-metro-monitor|archive-date=21 March 2015|url-status=live}}</ref>
+| blank1_name_sec2         = – Per capita
+| blank1_info_sec2         = [[American dollar|US$]] 38,233<ref name="brookingsgdp" />
+| blank2_name_sec2         = [[List of MPs elected in the 2015 United Kingdom general election|MPs]]
+| blank2_info_sec2         = [[Graham Stringer]] ([[Labour Party (UK)|L]])<br/>[[Lucy Powell]] ([[Labour Party (UK)|L]])<br/>[[Afzal Khan (British politician)|Afzal Khan]] ([[Labour Party (UK)|L]])<br/>[[Jeff Smith (British politician)|Jeff Smith]] ([[Labour Party (UK)|L]])<br/>[[Mike Kane]] ([[Labour Party (UK)|L]])
+| blank3_name_sec2         = Councillors
+| blank3_info_sec2         = 96
+| blank4_name_sec2         = [[List of law enforcement agencies in the United Kingdom, Crown Dependencies and British Overseas Territories|Police]]
+| blank4_info_sec2         = [[Greater Manchester Police|Greater Manchester]]
+| blank5_name_sec2         = [[Fire services in the United Kingdom|Fire and Rescue]]
+| blank5_info_sec2         = [[Greater Manchester Fire and Rescue Service|Greater Manchester]]
+| blank6_name_sec2         = [[Emergency medical services in the United Kingdom|Ambulance]]
+| blank6_info_sec2         = [[North West Ambulance Service|North West]]
+| website                  = [https://manchester.gov.uk/ manchester.gov.uk]
+| footnotes                =
+}}
+[[File:Manchester Cathedral and steps.jpg|thumb|[[Manchester Cathedral]], a grade I listed building which is the Anglican cathedral and [[parish church]] of Manchester and the mother church of the [[Anglican Diocese of Manchester|Diocese of Manchester]]]]
+'''Manchester''' ({{IPAc-en|ˈ|m|æ|n|tʃ|ᵻ|s|t|ər|,_|-|tʃ|ɛ|s|-}})<ref>{{citation |last=Wells |first=John C. |year=2008 |title=Longman Pronunciation Dictionary |edition=3rd |publisher=Longman |isbn=9781405881180}}</ref><ref>{{citation |last=Roach |first=Peter |title=Cambridge English Pronouncing Dictionary |url=https://archive.org/details/englishpronounci00dani |year=2011 |edition=18th |place=Cambridge |publisher=Cambridge University Press |isbn=9780521152532}}</ref> is a city in [[Greater Manchester]], England. It had a population of 552,000 in the [[2021 United Kingdom census]].<ref>{{Cite web |title=Census results 2021 {{!}} Census and population |url=https://www.manchester.gov.uk/info/200088/statistics_and_intelligence/7583/census_and_population |access-date=2022-10-27 |website=Manchester City Council}}</ref> It is bordered by the [[Cheshire Plain]] to the south, the [[Pennines]] to the north and east, and the neighbouring city of [[City of Salford|Salford]] to the west. The two cities and the surrounding towns form one of the United Kingdom's most populous [[conurbation]]s, the [[Greater Manchester Built-up Area]], which has a population of 2.87 million.<ref>{{Cite web |last= |first= |title=Census 2021: First Results |url=https://www.greatermanchester-ca.gov.uk/what-we-do/research/research-demographics/census-2021-first-results/ |access-date=2022-10-27 |website=Greater Manchester Combined Authority |language=en}}</ref>
+
+The [[history of Manchester]] began with the civilian settlement associated with the [[Roman Britain|Roman]] fort (''[[castra]]'') of [[Mamucium|''Mamucium'' or ''Mancunium'']], established in about AD 79 on a sandstone bluff near the confluence of the rivers [[River Medlock|Medlock]] and [[River Irwell|Irwell]]. [[Historic counties of England|Historically]] part of [[Lancashire]], areas of [[Cheshire]] south of the [[River Mersey]] were incorporated into Manchester in the 20th century, including [[Wythenshawe]] in 1931. Throughout the [[Middle Ages]] Manchester remained a [[manorialism|manorial]] [[Township (England)|township]], but began to expand "at an astonishing rate" around the turn of the 19th century. Manchester's unplanned urbanisation was brought on by a boom in [[textile manufacture during the Industrial Revolution]],<ref name="Cotton">{{cite book |last=Aspin |first=Chris |url=https://archive.org/details/cottonindustry0000aspi/page/3 |title=The Cotton Industry |publisher=Shire Publications Ltd |year=1981 |isbn=0-85263-545-1 |page=[https://archive.org/details/cottonindustry0000aspi/page/3 3] |url-access=registration}}</ref> and resulted in it becoming the world's first industrialised city.<ref name="Industrial city">{{cite book |last=Kidd |first=Alan |url=https://archive.org/details/manchesterhistor0000kidd |title=Manchester: A History |publisher=Carnegie Publishing |year=2006 |isbn=1-85936-128-5 |location=Lancaster |url-access=registration}}<br />• {{cite book |last=Frangopulo |first=Nicholas |url=https://archive.org/details/traditioninactio0000fran |title=Tradition in Action. The historical evolution of the Greater Manchester County |publisher=EP Publishing |year=1977 |isbn=0-7158-1203-3 |location=Wakefield |url-access=registration}}<br />• {{cite web |title=Manchester – the first industrial city |url=http://www.sciencemuseum.org.uk/on-line/energyhall/page84.asp |archive-url=https://web.archive.org/web/20120309184810/http://www.sciencemuseum.org.uk/on-line/energyhall/page84.asp |archive-date=9 March 2012 |access-date=17 March 2012 |publisher=Science Museum}}</ref> Manchester achieved [[City status in the United Kingdom|city status]] in 1853. The [[Manchester Ship Canal]] opened in 1894, creating the [[Port of Manchester]] and linking the city to the [[Irish Sea]], {{convert|36|mi|km}} to the west. Its fortune declined after the [[Second World War]], owing to deindustrialisation, and the [[Provisional IRA|IRA]] [[1996 Manchester bombing|bombing in 1996]] led to extensive investment and regeneration.<ref>{{cite web |last=Williams |first=Jennifer |date=15 June 2016 |title=Recap: The IRA bomb in Manchester... what happened on June 15, 1996 |url=http://www.manchestereveningnews.co.uk/news/greater-manchester-news/manchester-ira-bomb-20-years-11433239 |url-status=dead |archive-url=https://web.archive.org/web/20160817001934/http://www.manchestereveningnews.co.uk/news/greater-manchester-news/manchester-ira-bomb-20-years-11433239 |archive-date=17 August 2016 |website=Manchester Evening News}}</ref> Following considerable redevelopment, Manchester was the host city for the [[2002 Commonwealth Games]].
+
+The city is notable for [[Architecture of Manchester|its architecture]], [[Culture of Manchester|culture]], [[Popular music of Manchester|musical exports]], [[Media in Manchester|media links]], [[Science and engineering in Manchester|scientific and engineering output]], [[Sociology of Manchester|social impact]], [[Sport in Manchester|sports clubs]] and [[Transport in Manchester|transport connections]]. [[Manchester Liverpool Road railway station]] was the world's first inter-city passenger railway station. At the [[University of Manchester]], [[Ernest Rutherford]] first split the atom in 1917, [[Frederic C. Williams]], [[Tom Kilburn]] and [[Geoff Tootill]] developed the world's first [[Manchester Baby|stored-program computer]] in 1948, and [[Andre Geim]] and [[Konstantin Novoselov]] isolated the first [[graphene]] in 2004.
+
+==Toponymy==
+The name ''Manchester'' originates from the [[Latin]] name ''{{Lang|lat|Mamucium}}'' or its variant ''{{Lang|lat|Mancunio}}'' and the citizens are still referred to as Mancunians ({{IPAc-en|m|æ|n|ˈ|k|juː|n|i|ə|n}}). These names are generally thought to represent a [[Latinization of names|Latinisation]] of an original [[Common Brittonic|Brittonic]] [[Celtic placenames|name]]. The generally accepted etymology of this name is that it comes from Brittonic *''{{Lang|cel|mamm}}-'' ("[[breast]]", in reference to a "[[breast-like hill]]").<ref name=":0">''The Cambridge Dictionary of English Place-Names Based on the Collections of the English Place-Name Society'', ed. by Victor Watts (Cambridge: Cambridge University Press, 2004), under ''MANCHESTER''.</ref><ref name="Place names" /> However, more recent work suggests that it could come from *''{{Lang|cel|mamma}}'' ("mother", in reference to a [[River Medlock|local river]] [[Celtic mythology|goddess]]). Both usages are preserved in [[Insular Celtic languages]], such as ''{{Lang|cel|mam}}'' meaning "breast" in [[Irish Gaelic|Irish]] and "mother" in [[Welsh language|Welsh]].<ref>{{cite journal|journal = The Antiquaries Journal |issn =0003-5815|date = 2004|volume= 84|pages = 353–357|title = Manchester's Ancient Name|first = Andrew|last = Breeze|doi = 10.1017/S0003581500045893|s2cid =163005777}}</ref> The [[suffix]] ''[[caer|-chester]]'' is from [[Old English]] ''{{Lang|ang|ceaster}}'' ("Roman fortification", itself a loanword from Latin ''{{Lang|lat|castra}}'', "fort; fortified town").<ref name="Place names">{{cite book |last=Mills |first=A.D. |url=https://archive.org/details/dictionaryofbrit0000mill |title=A Dictionary of British Place-Names |publisher=Oxford University Press |year=2003 |isbn=0-19-852758-6 |location=Oxford |access-date=7 November 2013 |url-access=registration |archive-url=https://web.archive.org/web/20131021051450/http://www.oxfordreference.com/view/10.1093/acref/9780199609086.001.0001/acref-9780199609086 |archive-date=21 October 2013 |url-status=live}}</ref><ref name=":0" />
+
+==History==
+{{Main|History of Manchester}}
+{{see also|Timeline of Manchester history}}
+
+===Early history===
+{{main|Mamucium}}
+The [[Brigantes]] were the major [[Celtic tribes in Britain and Ireland|Celtic tribe]] in what is now known as [[Northern England]]; they had a stronghold in the locality at a sandstone outcrop on which [[Manchester Cathedral]] now stands, opposite the bank of the  [[River Irwell]].<ref name="Cooper">{{cite book |first=Glynis |last=Cooper |title=Salford: An Illustrated History |publisher=The Breedon Books Publishing Company |year=2005 |isbn=1-85983-455-8|page=19}}</ref> Their territory extended across the fertile lowland of what is now [[Salford, Greater Manchester|Salford]] and [[Stretford]]. Following the [[Roman conquest of Britain]] in the 1st century, [[Gnaeus Julius Agricola|General Agricola]] ordered the construction of a [[Castra|fort]] named [[Mamucium]] in the year 79 to ensure that Roman interests in [[Deva Victrix]] ([[Chester]]) and [[Eboracum]] ([[York]]) were protected from the Brigantes.<ref name="Cooper"/> Central Manchester has been permanently settled since this time.<ref name="Roman">{{cite book| title=Halloween: from Pagan Ritual to Party Night| url=http://ukcatalogue.oup.com/product/9780195168969.do#.UmOl33CVPp8| last=Rogers| first=Nicholas| year=2003| page=18| publisher=[[Oxford University Press]]| isbn=0-19-516896-8| access-date=7 November 2013| archive-url=https://web.archive.org/web/20131021000106/http://ukcatalogue.oup.com/product/9780195168969.do#.UmOl33CVPp8| archive-date=21 October 2013| url-status=live}}</ref> A stabilised fragment of foundations of the final version of the Roman fort is visible in [[Castlefield]]. The Roman habitation of Manchester probably ended around the 3rd century; its [[Vicus (Rome)|civilian settlement]] appears to have been abandoned by the mid-3rd century, although the fort may have supported a small garrison until the late 3rd or early 4th century.<ref>{{cite book |editor-last=Gregory |editor-first=Richard |title=Roman Manchester: The University of Manchester's Excavations within the Vicus 2001–5 |page=190 |publisher=Oxbow Books |year=2007 |location=Oxford |isbn=978-1-84217-271-1}}</ref> After the [[Roman withdrawal from Britain|Roman withdrawal]] and [[Saxon invasions of Britain|Saxon conquest]], the focus of settlement shifted to the confluence of the Irwell and [[River Irk|Irk]] sometime before the [[Norman Conquest|arrival of the Normans]] after 1066.<ref name="Kidd">{{cite book|title=Manchester: A History| last=Kidd|first=Alan|year=2006|pages= 12, 15–24, 224|publisher=Carnegie Publishing|location=Lancaster|isbn=1-85936-128-5}}</ref> Much of the wider area was laid waste in the subsequent [[Harrying of the North]].<ref name="Hylton">{{cite book|title=A History of Manchester|last=Hylton|first=Stuart|year=2003|pages=1–10, 22, 25, 42, 63–67, 69|publisher=Phillimore & Co|isbn=1-86077-240-4}}</ref><ref name="Arrowsmith">{{cite book|title=Stockport: a History|last=Arrowsmith|first=Peter|year=1997|page=30|publisher=Stockport Metropolitan Borough Council|isbn=0-905164-99-7}}</ref>
+[[File:McConnel & Company mills, about 1820.jpg|thumb|left|[[Cotton mill]]s in [[Ancoats]] {{Circa|1820}}]]
+[[File:Peterloo Massacre.png|thumb|left|The [[Peterloo massacre]] of 1819 resulted in 15 deaths and several hundred injured.]]
+In the [[Domesday Book]] of 1086, Manchester is recorded as within the [[hundred of Salford]] and held as [[tenant in chief]] by a Norman named [[Roger of Poitou]],<ref name="doomsday">{{cite web |last1=Powell-Smith |first1=Anna |title=Open Doomsday |url=https://opendomesday.org/place/SJ8398/manchester/ |website=Open Doomsday |access-date=23 January 2020}}</ref> later being held by the family of Grelley, [[lord of the manor]] and residents of [[Manchester Castle]] until 1215 before a Manor House was built.<ref name="gatehouse">{{cite web |title=Manchester Castle |url=http://www.gatehouse-gazetteer.info/English%20sites/1907.html |publisher=The Gatehouse – the comprehensive gazetteer of the medieval fortifications and castles of England and Wales |access-date=18 March 2008}}</ref> By 1421 Thomas de la Warre founded and constructed a [[collegiate church]] for the [[Manchester (ancient parish)|parish]], now [[Manchester Cathedral]]; the domestic premises of the college house [[Chetham's School of Music]] and [[Chetham's Library]].<ref name="Kidd"/><ref name="Hartwell">{{cite book|title=Pevsner Architectural Guides: Manchester|last=Hartwell|first=Clare|year=2001|pages= 11–17, 155, 256, 267–268|publisher=Penguin Books|location=London|isbn=0-14-071131-7}}</ref> The library, which opened in 1653 and is still open to the public today, is the oldest free public reference library in the United Kingdom.<ref name="Nicholls2004P20">{{cite book |first=Robert |last=Nicholls |title=Curiosities of Greater Manchester |publisher=Sutton Publishing |year=2004 |isbn=0-7509-3661-4}}</ref>
+
+Manchester is mentioned as having a [[Market town|market]] in 1282.<ref>{{Cite book | title = Gazetteer of Markets and Fairs in England and Wales to 1516 | url = http://www.british-history.ac.uk/report.aspx?compid=40422&strquery=lancashire | last = Letters | first = Samantha | year = 2005 | page = 19 | publisher = British History Online | access-date = 5 May 2009 | archive-url = https://web.archive.org/web/20120314084039/http://www.british-history.ac.uk/report.aspx?compid=40422&strquery=lancashire | archive-date = 14 March 2012 | url-status = live }}</ref> Around the 14th century, Manchester received an influx of [[Flemish people|Flemish]] weavers, sometimes credited as the foundation of the region's textile industry.<ref name="Flemish">{{cite book | title=Lancashire, The Industrial and Commercial South| last=Pevsner| first=Nikolaus| year=1969| page=265| publisher=Penguin Books| location=London| isbn=0-14-071036-1}}</ref> Manchester became an important centre for the manufacture and trade of [[wool]]lens and [[linen]], and by about 1540, had expanded to become, in [[John Leland (antiquary)|John Leland]]'s words, "The fairest, best builded, quickest, and most populous town of all Lancashire."<ref name="Kidd"/> The cathedral and Chetham's buildings are the only significant survivors of Leland's Manchester.<ref name="Hylton"/>
+
+During the [[English Civil War]] Manchester strongly favoured the Parliamentary interest. Although not long-lasting, [[Oliver Cromwell|Cromwell]] granted it the right to elect its own [[Members of Parliament|MP]]. [[Charles Worsley]], who sat for the city for only a year, was later appointed Major General for Lancashire, Cheshire and Staffordshire during the [[Rule of the Major Generals]]. He was a diligent [[puritan]], turning out ale houses and banning the celebration of Christmas; he died in 1656.<ref>{{cite book | title= Cromwell's major generals: godly government during the English Revolution | series= Politics, culture, and society in early modern Britain | author=Durston, Christopher | year= 2001 | publisher=Manchester University Press | location= Manchester | isbn= 0-7190-6065-6 | url= https://books.google.com/books?id=Hw622QZHTcYC&q=%22charles+worsley%22&pg=PA86 | access-date=5 May 2009}}</ref>
+
+Significant quantities of cotton began to be used after about 1600, firstly in linen/cotton [[fustian]]s, but by around 1750 pure cotton fabrics were being produced and cotton had overtaken wool in importance.<ref name="Kidd"/> The Irwell and Mersey were made navigable by 1736, opening a route from Manchester to the sea docks on the Mersey. The [[Bridgewater Canal]], Britain's first wholly artificial waterway, was opened in 1761, bringing coal from mines at [[Worsley]] to central Manchester. The canal was extended to the Mersey at [[Runcorn]] by 1776. The combination of competition and improved efficiency halved the cost of coal and halved the transport cost of raw cotton.<ref name="Kidd"/><ref name="Hartwell"/> Manchester became the dominant marketplace for textiles produced in the surrounding towns.<ref name="Kidd"/> A [[commodities exchange]], opened in 1729,<ref name="Hylton"/> and numerous large warehouses, aided commerce. In 1780, [[Richard Arkwright]] began construction of Manchester's first cotton mill.<ref name="Hylton"/><ref name="Hartwell"/> In the early 1800s, [[John Dalton]] formulated his atomic theory in Manchester.
+
+===Industrial Revolution===
+Manchester was one of the centres of [[textile manufacture during the Industrial Revolution]]. The great majority of [[Spinning (textiles)|cotton spinning]] took place in the towns of south Lancashire and north Cheshire, and Manchester was for a time the most productive centre of cotton processing.<ref name="GMArch">{{cite book|author=McNeil, Robina|author2=Michael Nevell|title=A Guide to the Industrial Archaeology of Greater Manchester|publisher=Association for Industrial Archaeology|year=2000|isbn=0-9528930-3-7}}</ref>
+
+Manchester became known as the world's largest marketplace for cotton goods<ref name="Kidd"/><ref name="Hall">{{cite book | last = Hall | first = Peter | title = Cities in Civilisation | publisher = Weidenfeld & Nicolson | location = London | year = 1998 | isbn = 0-297-84219-6 | chapter = The first industrial city: Manchester 1760–1830 | url = https://archive.org/details/citiesinciviliza00hall }}</ref> and was dubbed "[[Cottonopolis]]" and "Warehouse City" during the [[Victorian era]].<ref name="GMArch"/> In Australia, New Zealand and South Africa, the term "manchester" is still used for household linen: sheets, pillow cases, towels, etc.<ref name="OED">{{cite encyclopedia | title=Manchester | encyclopaedia=Oxford English Dictionary | date=March 2016 | url=https://en.oxforddictionaries.com/definition/manchester | access-date=17 December 2016 | location=Oxford | publisher=Oxford University Press | archive-url=https://web.archive.org/web/20161220181739/https://en.oxforddictionaries.com/definition/manchester | archive-date=20 December 2016 | url-status=dead }}</ref> The industrial revolution brought about huge change in Manchester and was key to the increase in Manchester's population.
+
+Manchester began expanding "at an astonishing rate" around the turn of the 19th century as people flocked to the city for work from Scotland, Wales, Ireland and other areas of England as part of a process of unplanned urbanisation brought on by the [[Industrial Revolution]].<ref>{{cite web | url = http://www.timelines.tv/index.php?t=0&e=12# | title = Timelines.tv Urban Slums | publisher = Timelines.tv | access-date = 2 February 2012 | archive-url = https://web.archive.org/web/20120218092606/http://www.timelines.tv/index.php?t=0&e=12 | archive-date = 18 February 2012 | url-status = dead | df = dmy-all }}</ref><ref>{{cite web|url=https://www.bbc.co.uk/manchester/content/articles/2007/10/03/031007_migrant_history_manchester_feature.shtml|title=Manchester: migrant city|last=Schofield|first=Jonathan|work=BBC Manchester:New Kids From The Bloc|publisher=BBC|access-date=6 April 2013|archive-url=https://web.archive.org/web/20150925071426/http://www.bbc.co.uk/manchester/content/articles/2007/10/03/031007_migrant_history_manchester_feature.shtml|archive-date=25 September 2015|url-status=live}}</ref><ref name=autogenerated1>{{cite book|title=The Cotton Industry|last=Aspin|first=Chris|publisher=Shire Publications|location=Aylesbury|year=1981|isbn=0-85263-545-1|page=[https://archive.org/details/cottonindustry0000aspi/page/3 3]|url=https://archive.org/details/cottonindustry0000aspi/page/3}}</ref> It developed a wide range of industries, so that by 1835 "Manchester was without challenge the first and greatest industrial city in the world."<ref name=Hall/> Engineering firms initially made machines for the cotton trade, but diversified into general manufacture. Similarly, the chemical industry started by producing bleaches and dyes, but expanded into other areas. Commerce was supported by financial service industries such as banking and insurance.{{multiple image
+| align             = right
+| direction         = horizontal
+| width             = <!-- Image 1 -->
+| image1            = View from Kersal Moor, Salford - 1820.jpg
+| width1            = 220
+| alt1              =
+| caption1          = ''View from Kersal Moor'' towards Manchester by [[Sebastian Pether]], circa 1820, then still a rural landscape. Note the [[River Irwell]] in both paintings.
+<!-- Image 2 -->| image2            = Wyld, William - Manchester from Kersal Moor, with rustic figures and goats - Google Art Project.jpg
+| width2            = 232
+| alt2              =
+| caption2          = ''Manchester from [[Kersal Moor]]'', by [[William Wyld]] in 1857, a view now dominated by chimney stacks as a consequence of the [[Industrial Revolution]]
+}}
+
+Trade, and feeding the growing population, required a large transport and distribution infrastructure: the canal system was extended, and Manchester became one end of the world's first intercity passenger railway—the [[Liverpool and Manchester Railway]]. Competition between the various forms of transport kept costs down.<ref name="Kidd"/> In 1878 the [[General Post Office|GPO]] (the forerunner of [[BT Group|British Telecom]]) provided its first telephones to a firm in Manchester.<ref>{{cite web|url=http://www.btplc.com/thegroup/btshistory/1605to1880/1878.htm|title=Events in Telecommunications History|access-date=13 March 2015|publisher=BT Archives|year=1878|archive-url=https://web.archive.org/web/20150402173107/http://www.btplc.com/thegroup/btshistory/1605to1880/1878.htm|archive-date=2 April 2015|url-status=live}}</ref>
+
+The [[Manchester Ship Canal]] was built between 1888 and 1894, in some sections by canalisation of the Rivers Irwell and Mersey, running {{convert|36|mi|km|0}}<ref>{{cite web |url=https://www.peelports.com/ports/manchester-ship-canal |title=Manchester Ship Canal |publisher=Peel Ports |archive-url=https://web.archive.org/web/20190520060954/https://www.peelports.com/ports/manchester-ship-canal |archive-date=20 May 2019 |url-status=live }}</ref> from [[Salford, Greater Manchester|Salford]] to Eastham Locks on the tidal Mersey. This enabled oceangoing ships to sail right into the Port of Manchester. On the canal's banks, just outside the borough, the world's first industrial estate was created at [[Trafford Park]].<ref name="Kidd"/><!--1993, p103 --> Large quantities of machinery, including cotton processing plant, were exported around the world.
+
+A centre of capitalism, Manchester was once the scene of bread and labour riots, as well as calls for greater political recognition by the city's working and non-titled classes. One such gathering ended with the [[Peterloo massacre]] of 16 August 1819. The economic school of [[Manchester Liberalism|Manchester Capitalism]] developed there, and Manchester was the centre of the [[Anti-Corn Law League]] from 1838 onward.<ref>{{cite journal |last1=Spall |first1=Richard Francis |title=Free Trade, Foreign Relations, and the Anti-Corn-Law League |journal=The International History Review |date=1988 |volume=10 |issue=3 |pages=405–432 |doi=10.1080/07075332.1988.9640484 |jstor=40105891 |issn=0707-5332}}</ref>
+
+Manchester has a notable place in the history of [[Marxism]] and left-wing politics; being the subject of [[Friedrich Engels]]' work ''[[The Condition of the Working Class in England in 1844]]''; Engels spent much of his life in and around Manchester,<ref name="Engles">{{cite web|url=http://www.marxists.org/archive/marx/bio/engels/en-1893.htm|title=Marx-Engels Internet Archive – Biography of Engels|access-date=5 May 2009|publisher=Marx/Engels Biography Archive|year=1893|archive-url=https://web.archive.org/web/20090430052112/http://www.marxists.org/archive/marx/bio/engels/en-1893.htm|archive-date=30 April 2009|url-status=live}}</ref> and when [[Karl Marx]] visited Manchester, they met at Chetham's Library. The economics books Marx was reading at the time can be seen in the library, as can the window seat where Marx and Engels would meet.<ref name="Nicholls2004P20"/> The first [[Trades Union Congress]] was held in Manchester (at the Mechanics' Institute, David Street), from 2 to 6 June 1868. Manchester was an important cradle of the [[Labour Party (UK)|Labour Party]] and the [[Suffragette]] Movement.<ref>{{cite book|title=Manchester: A history|last=Kidd|first=Alan|year=2006|chapter=Chapter 9 England Arise! The Politics of Labour and Women's Suffrage|publisher=Carnegie Publishing|location=Lancaster|isbn=1-85936-128-5}}</ref>
+
+At that time, it seemed a place in which anything could happen—new industrial processes, new ways of thinking (the [[Manchester capitalism|Manchester School]], promoting [[free trade]] and ''[[laissez-faire]]''), new classes or groups in society, new religious sects, and new forms of labour organisation. It attracted educated visitors from all parts of Britain and Europe. A saying capturing this sense of innovation survives today: "What Manchester does today, the rest of the world does tomorrow."<ref name="manchester innovation">{{cite book|editor=Speake, Jennifer |editor-link=Jennifer Speake |title=The Oxford Dictionary of Proverbs |url=https://archive.org/details/oxforddictionary00_0 |access-date=6 July 2007 |year=2003 |edition=4th |publisher=Oxford University Press |isbn=0-19-860524-2 |quote=What Manchester says today, the rest of England says tomorrow }}<br />•{{cite web |archive-url = https://web.archive.org/web/20090628122546/http://www.conservatives.com/News/Speeches/2007/03/Osborne_Our_vision_to_make_Manchester_the_creative_capital_of_Europe.aspx |archive-date=28 June 2009 |url=http://www.conservatives.com/News/Speeches/2007/03/Osborne_Our_vision_to_make_Manchester_the_creative_capital_of_Europe.aspx |title = Osborne: Our vision to make Manchester the creative capital of Europe |access-date =4 May 2009 |last = Osborne |first = George |author-link = George Osborne |date = 7 March 2007 |work=Conservative Party Website |publisher=Conservative Party |quote = The saying goes that what Manchester does today the rest of the world does tomorrow.}}<br />•{{cite web|url=http://www.mmu.ac.uk/studyatmmu/manchesterlife/|title=Manchester Life|access-date=5 May 2009|publisher=[[Manchester Metropolitan University]]|year=2007 | archive-url= https://web.archive.org/web/20080411200443/http://www.mmu.ac.uk/studyatmmu/manchesterlife/|archive-date=8 November 2007| quote= What Manchester does today, the world does tomorrow}}</ref> Manchester's golden age was perhaps the last quarter of the 19th century. Many of the great public buildings (including [[Manchester Town Hall]]) date from then. The city's cosmopolitan atmosphere contributed to a vibrant culture, which included the [[Hallé Orchestra]]. In 1889, when county councils were created in England, the municipal borough became a [[county borough]] with even greater autonomy.
+
+[[File:Oxford Road, Manchester 1910, Valette.jpg|thumb|upright=0.9|An oil painting of [[Oxford Road, Manchester|Oxford Road]], Manchester in 1910 by [[Pierre Adolphe Valette|Valette]]]]
+
+Although the Industrial Revolution brought wealth to the city, it also brought poverty and squalor to a large part of the population. Historian [[Simon Schama]] noted that "Manchester was the very best and the very worst taken to terrifying extremes, a new kind of city in the world; the chimneys of industrial suburbs greeting you with columns of smoke". An American visitor taken to Manchester's blackspots saw "wretched, defrauded, oppressed, crushed human nature, lying and bleeding fragments".<ref>{{cite episode |title=Victoria and Her Sisters |series= A History of Britain |series-link= A History of Britain (TV series) |credits= [[Simon Schama]] (presenter) |network= [[BBC One]] |airdate= 4 June 2002 |number=13}}</ref>
+
+The number of [[cotton mill]]s in Manchester itself reached a peak of 108 in 1853.<ref name="GMArch"/> Thereafter the number began to decline and Manchester was surpassed as the largest centre of cotton spinning by [[Bolton]] in the 1850s and [[Oldham]] in the 1860s.<ref name="GMArch"/> However, this period of decline coincided with the rise of the city as the financial centre of the region.<ref name="GMArch"/> Manchester continued to process cotton, and in 1913, 65% of the world's cotton was processed in the area.<ref name="Kidd"/> The First World War interrupted access to the export markets. Cotton processing in other parts of the world increased, often on machines produced in Manchester. Manchester suffered greatly from the [[Great Depression in the United Kingdom|Great Depression]] and the underlying structural changes that began to supplant the old industries, including textile manufacture.
+
+===Blitz===
+Like most of the UK, the Manchester area was mobilised extensively during the [[Second World War]]. For example, casting and machining expertise at [[Beyer, Peacock & Company]]'s locomotive works in [[Gorton]] was switched to bomb making; [[Dunlop Rubber|Dunlop's]] rubber works in [[Chorlton-on-Medlock]] made [[barrage balloon]]s; and just outside the city in [[Trafford Park]], engineers [[Metropolitan-Vickers]] made [[Avro Manchester]] and [[Avro Lancaster]] bombers and [[Ford of Britain|Ford]] built the [[Rolls-Royce Merlin]] engines to power them. Manchester was thus the target of bombing by the [[Luftwaffe]], and by late 1940 air raids were taking place against non-military targets. The biggest took place during the [[Manchester Blitz|Christmas Blitz]] on the nights of 22/23 and 24 December 1940, when an estimated {{convert|467|long ton|t|order=flip}} of high explosives plus over 37,000 incendiary bombs were dropped. A large part of the historic city centre was destroyed, including 165 warehouses, 200 business premises, and 150 offices. 376 were killed and 30,000 houses were damaged.<ref>{{cite book | last= Hardy | first= Clive | title= Manchester at War | edition= 2nd | year= 2005 | location= Altrincham| isbn= 1-84547-096-6 | pages=75–99 | chapter= The blitz | publisher=First Edition Limited }}</ref> [[Manchester Cathedral]], [[Royal Exchange, Manchester|Royal Exchange]] and [[Free Trade Hall]] were among the buildings seriously damaged; restoration of the cathedral took 20 years.<ref name="WWII">{{cite web | url= http://www.manchestercathedral.org/history/timeline | title= Timeline | access-date= 5 May 2009 | publisher= Manchester Cathedral Online | year= 2008 | archive-url= https://web.archive.org/web/20160416153101/http://www.manchestercathedral.org/history/timeline | archive-date= 16 April 2016 | url-status= dead }}</ref>
+
+===Post-Second World War===
+Cotton processing and trading continued to fall in peacetime, and the exchange closed in 1968.<ref name="Kidd"/> By 1963 the port of Manchester was the UK's third largest,<ref name="UK's 3rd largest">{{cite book|title=Manchester: an Architectural History|last=Parkinson-Bailey|first=John J|year=2000|page=127|publisher=Manchester University Press|location=Manchester|isbn=0-7190-5606-3}}<br />• {{cite book|title=Lancashire, The Industrial and Commercial South|last=Pevsner| first=Nikolaus|year=1969|page=267|publisher=Penguin Books|location=London|isbn=0-14-071036-1}}</ref> and employed over 3,000 men, but the canal was unable to handle the increasingly large [[Containerization|container]] ships. Traffic declined, and the port closed in 1982.<ref name="ship close">{{cite web|url=http://www.salford.gov.uk/milestones_v2.pdf  |title=Salford Quays milestones: the story of Salford Quays |access-date=5 May 2009 |publisher=Salford City Council |year=2005 |url-status=dead |archive-url=https://web.archive.org/web/20090327122642/http://www.salford.gov.uk/milestones_v2.pdf |archive-date=27 March 2009 }}</ref> Heavy industry suffered a downturn from the 1960s and was greatly reduced under the economic policies followed by [[Margaret Thatcher]]'s government after 1979. Manchester lost 150,000 jobs in manufacturing between 1961 and 1983.<ref name="Kidd"/>
+
+[[File:BBC picture Arndale centre after 1996 bomb.jpg|thumb|left|[[Corporation Street, Manchester|Corporation Street]] after the [[1996 Manchester bombing|Manchester bombing on 15 June 1996]]. There were no fatalities, but it was one of the most expensive man-made disasters.<ref>{{Cite news |first=Kim |last=Sengupata |url=https://www.independent.co.uk/news/pounds-411m-cost-after-manchester-bomb-sets-record-pounds-411m-1275416.html |title=£411m cost after Manchester bomb sets record |work=[[The Independent]] |date=28 March 1997 |access-date=3 October 2009 |location=London |archive-url=https://web.archive.org/web/20100522031850/http://www.independent.co.uk/news/pounds-411m-cost-after-manchester-bomb-sets-record-pounds-411m-1275416.html |archive-date=22 May 2010 |url-status=live }}</ref> A large rebuilding project of Manchester ensued.]]
+Regeneration began in the late 1980s, with initiatives such as the [[Manchester Metrolink|Metrolink]], the [[Bridgewater Hall|Bridgewater Concert Hall]], the [[Manchester Arena]], and (in Salford) the rebranding of the port as [[Salford Quays]]. Two bids to host the Olympic Games were part of a process to raise the international profile of the city.<ref name="Regeneration"/>
+[[File:Oxfordrd.jpg|thumb|[[Wilmslow Road|Oxford Road]], one of the main thoroughfares into [[Manchester city centre]]]]
+Manchester has a history of attacks attributed to Irish Republicans, including the [[Manchester Martyrs]] of 1867, arson in 1920, a series of explosions in 1939, and two bombs in 1992.
+On Saturday 15 June 1996, the [[Provisional Irish Republican Army]] (IRA) carried out the [[1996 Manchester bombing]], the detonation of a large bomb next to a department store in the city centre. The largest to be detonated on British soil, the bomb injured over 200 people, heavily damaged nearby buildings, and broke windows {{convert|1/2|mi|m}} away. The cost of the immediate damage was initially estimated at £50&nbsp;million, but this was quickly revised upwards.<ref name="1996 IRA costs">{{cite book |title=A History of Manchester |first=Stuart |last=Hylton |year=2003 |pages=227–230 |publisher=Phillimore & Co |location=Chichester |isbn= 1-86077-240-4}}</ref> The final insurance payout was over £400&nbsp;million; many affected businesses never recovered from the loss of trade.<ref name="IRA business">{{cite news | url=http://news.bbc.co.uk/2/hi/programmes/panorama/3704943.stm | title=Panorama – The cost of terrorism | access-date=5 May 2009 | publisher=BBC | date=15 May 2004 | archive-url=https://web.archive.org/web/20100415021411/http://news.bbc.co.uk/2/hi/programmes/panorama/3704943.stm | archive-date=15 April 2010 | url-status=live }}</ref>
+
+===Since 2000===
+Spurred by the investment after the 1996 bomb and aided by the [[2002 Commonwealth Games|XVII Commonwealth Games]], the city centre has undergone extensive regeneration.<ref name="Regeneration">{{cite book |title=Pevsner Architectural Guides: Manchester |last=Hartwell |first=Clare |year=2001 |publisher=Penguin Books |location=London |isbn=0-14-071131-7}}<br /> {{cite book |title=Manchester: an Architectural History |first=John J |last=Parkinson-Bailey |year=2000 |publisher=Manchester University Press |location=Manchester |isbn=0-7190-5606-3}}<br /> {{cite book |title=Lancashire: Manchester and the South-East |url=http://yalepress.yale.edu/yupbooks/book.asp?isbn=9780300105834 |last1=Hartwell |first1=Clare |last2=Hyde |first2=Matthew |last3=Pevsner |first3=Nikolaus |author-link3=Nikolaus Pevsner |year=2004 |publisher=Yale University Press |location=New Haven & London |isbn=0-300-10583-5 |access-date=7 November 2013 |archive-url=https://web.archive.org/web/20120121084122/http://yalepress.yale.edu/yupbooks/book.asp?isbn=9780300105834 |archive-date=21 January 2012 |url-status=live}}</ref> New and renovated complexes such as [[The Printworks (Manchester)|The Printworks]] and [[Corn Exchange, Manchester|Corn Exchange]] have become popular shopping, eating and entertainment areas. [[Manchester Arndale]] is the UK's largest city-centre shopping centre.<ref name="Arndale">{{cite web |url=http://www.mandg.co.uk/institutions/realestate/our-properties/ |title=Manchester Arndale |access-date=9 October 2008 |publisher=Prudential plc |year=2007 |archive-url=https://web.archive.org/web/20130804232909/http://www.mandg.co.uk/institutions/realestate/our-properties/ |archive-date=4 August 2013 |url-status=dead }}</ref>
+
+Large city sections from the 1960s have been demolished, re-developed or modernised with the use of glass and steel. Old mills have been converted into apartments. [[Hulme]] has undergone extensive regeneration, with million-pound loft-house apartments being developed. The 47-storey, {{convert|169|m|ft|adj=on|order=flip}} [[Beetham Tower, Manchester|Beetham Tower]] was the tallest UK building outside of [[London]] and the highest residential accommodation in Europe when completed in 2006. It was surpassed in 2018 by the {{convert|201|m|ft|adj=on|order=flip}} South Tower of the [[Deansgate Square]] project, also in Manchester.<ref name="Beetham Tower">{{Cite news |url=http://news.bbc.co.uk/2/hi/uk_news/england/manchester/4944590.stm |title=City building reaches full height |access-date=9 October 2008 |publisher=BBC |date=26 April 2006 |archive-url=https://web.archive.org/web/20080406120452/http://news.bbc.co.uk/2/hi/uk_news/england/manchester/4944590.stm | archive-date=6 April 2008 | url-status=live }}</ref> In January 2007, the independent Casino Advisory Panel licensed Manchester to build the UK's only [[supercasino]],<ref>{{Cite news |url=https://www.bbc.co.uk/london/content/articles/2007/01/30/dome_feature.shtml |title=Greenwich loses Casino Bet |access-date=9 October 2008 |publisher=BBC |date=15 February 2007 |archive-url= https://web.archive.org/web/20071213174837/http://www.bbc.co.uk/london/content/articles/2007/01/30/dome_feature.shtml |archive-date=13 December 2007 |url-status= live}}</ref> but plans were abandoned in February 2008.<ref>{{Cite news |url=http://www.manchestereveningnews.co.uk/news/greater-manchester-news/empty-promises-and-spin-944718 |title=Empty promises and spin |access-date=9 October 2008 |publisher=M.E.N. media |work=[[Manchester Evening News]] |date=26 February 2008 |author=Ottewell, David |url-status=dead |archive-url=https://web.archive.org/web/20130130203421/http://www.manchestereveningnews.co.uk/news/greater-manchester-news/empty-promises-and-spin-944718 |archive-date=30 January 2013 }}</ref>
+
+On 22 May 2017, an [[Islamist terrorist]] carried out [[Manchester Arena bombing|a bombing]] at an [[Ariana Grande]] concert in the [[Manchester Arena]]; the bomb killed 23, including the attacker, and injured over 800.<ref>{{cite news |url=https://www.bbc.co.uk/news/uk-england-manchester-44129386 |title=Manchester Arena attack: Bomb 'injured more than 800' |work=BBC News |date=16 May 2018 |access-date=25 December 2018 |archive-url=https://web.archive.org/web/20181027164115/https://www.bbc.co.uk/news/uk-england-manchester-44129386 |archive-date=27 October 2018 |url-status=live}}</ref> It was the deadliest terrorist attack and first suicide bombing in Britain since the [[7 July 2005 London bombings]]. It caused [[Reactions to the Manchester Arena bombing|worldwide condemnation]] and changed the [[UK Threat Levels|UK's threat level]] to  "critical" for the first time since 2007.<ref>{{cite news |title=Manchester attack: Terror threat reduced from critical to severe |url=https://www.bbc.co.uk/news/uk-40069959 |work=BBC News |access-date=25 December 2018 |archive-url=https://web.archive.org/web/20170527101510/http://www.bbc.co.uk/news/uk-40069959 |archive-date=27 May 2017 |url-status=live}}</ref>
+
+Birmingham has historically been considered to be England or the UK's second city, but in the 21st century claims to this [[Second city of the United Kingdom|unofficial title]] have also been made for Manchester.<ref>{{cite news|url=https://www.ft.com/content/6f4d18a6-7f3f-11e2-89ed-00144feabdc0 |archive-url=https://ghostarchive.org/archive/20221210/https://www.ft.com/content/6f4d18a6-7f3f-11e2-89ed-00144feabdc0 |archive-date=10 December 2022 |url-access=subscription|title=Splendidly pointless second city debate|first=Brian|last=Groom|work=Financial Times|date=25 February 2013|accessdate=16 August 2022}}</ref><ref>{{cite news|url=https://www.bbc.co.uk/insideout/northwest/series11/week5_manchester_second_city.shtml|title=Inside Out - North West: Friday February 9, 2007|publisher=BBC|accessdate=16 August 2022}}</ref><ref>{{cite book|first1=Marco|last1=Bontje|first2=Sako|last2=Musterd|year=2016|title=Inventive City-Regions: Path Dependence and Creative Knowledge Strategies|publisher=Routledge|location=London|page=173|isbn=9781317113171|url=https://books.google.com/books?id=r1AfDAAAQBAJ&pg=PA173}}</ref>
+
+==Government==
+{{Main|Politics in Manchester|Manchester City Council}}
+{{See also|Manchester local elections|List of Lord Mayors of Manchester|Healthcare in Greater Manchester}}
+[[File:Manchester Town Hall from Lloyd St.jpg|thumb|right|[[Manchester Town Hall]] in [[Albert Square, Manchester|Albert Square]], seat of local government, is an example of [[Victorian era]] [[Gothic revival]] architecture.]]
+The City of Manchester is governed by the [[Manchester City Council]]. The [[Greater Manchester Combined Authority]], with a [[Mayor of Greater Manchester|directly elected mayor]], has responsibilities for economic strategy and transport, amongst other areas, on a Greater Manchester-wide basis. Manchester has been a member of the English [[Core Cities Group]] since its inception in 1995.<ref name="Core city">{{cite web |url=http://www.corecities.com/dev07/Introduction/about.html |title=About the Core Cities Group |access-date=9 July 2007 |publisher=English [[Core Cities Group]] |year=2004 |archive-url=https://web.archive.org/web/20070919035621/http://www.corecities.com/dev07/Introduction/about.html |archive-date=19 September 2007}}</ref>
+
+The town of Manchester was granted a charter by Thomas Grelley in 1301, but lost its [[borough status in the United Kingdom|borough status]] in a court case of 1359. Until the 19th century local government was largely in the hands of [[manorial court]]s, the last of which was dissolved in 1846.<ref name="GM Gazetteer">{{cite web |url=http://www.gmcro.co.uk/Guides/Gazeteer/gazzm2n.htm|archive-url=https://web.archive.org/web/20110211203737/http://www.gmcro.co.uk/Guides/Gazeteer/gazzm2n.htm |archive-date=11 February 2011 |title=Greater Manchester Gazetteer |publisher=Greater Manchester County Record Office |access-date=9 July 2007 |at=Places names – M to N}}</ref>
+
+From [[History of Lancashire|a very early time]], the [[Manchester Township (England)|township of Manchester]] lay within the [[historic counties of England|historic or ceremonial county boundaries]] of [[Lancashire]].<ref name="GM Gazetteer"/> [[Nikolaus Pevsner|Pevsner]] wrote "That [neighbouring] [[Stretford]] and [[Salford, Greater Manchester|Salford]] are not administratively one with Manchester is one of the most curious anomalies of England".<ref name="Flemish"/> A stroke of a baron's pen is said to have divorced Manchester and Salford, though it was not Salford that became separated from Manchester, it was Manchester, with its humbler line of lords, that was separated from Salford.<ref name="GM Evolution">{{cite book |title=Tradition in Action. The historical evolution of the Greater Manchester County |last=Frangopulo |first=Nicholas |year=1977 |publisher=EP Publishing |location=Wakefield |isbn=0-7158-1203-3}}</ref> It was this separation that resulted in Salford becoming the judicial seat of [[Salfordshire]], which included the [[Manchester (ancient parish)|ancient parish of Manchester]]. Manchester later formed its own [[Poor Law Union]] using the name "Manchester".<ref name="GM Gazetteer"/> In 1792, Commissioners – usually known as "Police Commissioners" – were established for the social improvement of Manchester. Manchester regained its borough status in 1838, and comprised the townships of [[Beswick, Greater Manchester|Beswick]], [[Cheetham Hill]], [[Chorlton upon Medlock]] and [[Hulme]].<ref name="GM Gazetteer"/> By 1846, with increasing population and greater industrialisation, the Borough Council had taken over the powers of the "Police Commissioners". In 1853, Manchester was granted [[city status in the United Kingdom|city status]].<ref name="GM Gazetteer"/>
+
+In 1885, [[Bradford, Greater Manchester|Bradford]], [[Harpurhey]], [[Rusholme]] and parts of [[Moss Side]] and [[Withington]] townships became part of the City of Manchester. In 1889, the city became a [[county borough]], as did many larger Lancashire towns, and therefore not governed by [[Lancashire County Council]].<ref name="GM Gazetteer"/> Between 1890 and 1933, more areas were added to the city, which had been administered by Lancashire County Council, including former villages such as [[Burnage]], [[Chorlton-cum-Hardy]], [[Didsbury]], [[Fallowfield]], [[Levenshulme]], [[Longsight]], and [[Withington]]. In 1931, the [[Cheshire]] [[civil parishes in England|civil parishes]] of [[Baguley]], [[Northenden]] and [[Northen Etchells]] from the south of the [[River Mersey]] were added.<ref name="GM Gazetteer"/> In 1974, by way of the [[Local Government Act 1972]], the City of Manchester became a [[metropolitan district]] of the [[metropolitan county]] of [[Greater Manchester]].<ref name="GM Gazetteer"/> That year, [[Ringway, Greater Manchester|Ringway]], the village where the [[Manchester Airport]] is located, was added to the city.
+
+In November 2014, it was announced that Greater Manchester would receive a new directly elected mayor. The mayor would have fiscal control over health, transport, housing and police in the area.<ref>{{cite news |url=https://www.theguardian.com/politics/2015/may/16/northern-powerhouse-perils-devolution-mixed-blessing |title=Perils of the 'Northern Powerhouse': is devolution a mixed blessing |author=Phillip Inman |date=16 May 2015 |access-date=17 May 2015 |work=[[The Guardian]] |archive-url=https://web.archive.org/web/20150527051514/http://www.theguardian.com/politics/2015/may/16/northern-powerhouse-perils-devolution-mixed-blessing |archive-date=27 May 2015 |url-status=live}}</ref> [[Andy Burnham]] was elected as the first mayor of Greater Manchester in [[2017 Greater Manchester mayoral election|2017]].
+
+==Geography==
+[[File:Manchester Skyline - geograph.org.uk - 1094813.jpg|thumb|Manchester skyline with the cathedral and surrounding city buildings]]
+{{See also|Geography of Greater Manchester}}
+{{climate chart
+|Manchester
+|2|7|72
+|2|8|51
+|3|10|61
+|5|13|54
+|8|16|57
+|11|19|66
+|13|21|64
+|12|20|77
+|10|18|72
+|7|14|93
+|4|10|82
+|2|7|81
+|source=[http://www.climate-charts.com/Locations/u/UK03334.html Climate-Charts.com]
+|float=right
+}}
+At {{Coord|53|28|0|N|2|14|0|W|type:city}}, {{convert|160|mi|km|sigfig=2}} northwest of London, Manchester lies in a bowl-shaped land area bordered to the north and east by the [[Pennines]], an upland chain that runs the length of [[northern England]], and to the south by the [[Cheshire Plain]]. Manchester is {{convert|35.0|mi}} north-east of [[Liverpool]] and {{convert|35.0|mi}} north-west of [[Sheffield]], making the city the halfway point between the two. The [[Manchester city centre|city centre]] is on the east bank of the [[River Irwell]], near its confluences with the Rivers [[River Medlock|Medlock]] and [[River Irk|Irk]], and is relatively low-lying, being between {{convert|115|to|138|ft|m|abbr=off|order=flip}} above sea level.<ref name="Topography">{{cite book |title=Manchester: A History |last=Kidd |first=Alan |year=2006 |page=11 |publisher=Carnegie Publishing |location=Lancaster |isbn=1-85936-128-5}}</ref> The [[River Mersey]] flows through the south of Manchester. Much of the inner city, especially in the south, is flat, offering extensive views from many highrise buildings in the city of the foothills and moors of the Pennines, which can often be capped with snow in the winter months. Manchester's geographic features were highly influential in its early development as the world's first industrial city. These features are its climate, its proximity to a [[port|seaport]] at [[Liverpool]], the availability of water power from its rivers, and its nearby coal reserves.<ref name="Coalfields">{{cite web |url=http://www.mosi.org.uk/media/159631/the%20manchester%20coalfields.pdf |archive-url=https://web.archive.org/web/20090327122645/http://www.mosi.org.uk/media/159631/the%20manchester%20coalfields.pdf |archive-date=27 March 2009 |title=The Manchester Coalfields |access-date=5 May 2009 |publisher=[[Museum of Science and Industry in Manchester]] |year=2001 }}</ref>
+[[File:Map of Manchester.png|thumb|left|upright|The City of Manchester. The [[land use]] is overwhelmingly urban.]]
+The name Manchester, though officially applied only to the metropolitan district within Greater Manchester, has been applied to other, wider divisions of land, particularly across much of the Greater Manchester county and urban area. The "Manchester City Zone", "[[M postcode area|Manchester post town]]" and the "[[Manchester Congestion Charge]]" are all examples of this.
+
+For purposes of the [[Office for National Statistics]], Manchester forms the most populous settlement within the [[Greater Manchester Urban Area]], the United Kingdom's third-largest conurbation. There is a mix of high-density urban and suburban locations. The largest open space in the city, at around {{convert|260|ha|acre|0}},<ref>{{cite web |url=http://m2002.thecgf.com/venues/HPK/ |title=Heaton Park |access-date=20 July 2009 |publisher=thecgf.com |archive-url=https://web.archive.org/web/20070831032941/http://m2002.thecgf.com/venues/HPK/ |archive-date=31 August 2007 |url-status=live }}</ref> is [[Heaton Park]]. Manchester is contiguous on all sides with several large settlements, except for a small section along its southern boundary with [[Cheshire]]. The [[M60 motorway (Great Britain)|M60]] and [[M56 motorway]]s pass through [[Northenden]] and [[Wythenshawe]] respectively in the south of Manchester. Heavy rail lines enter the city from all directions, the principal destination being [[Manchester Piccadilly station]].
+
+===Climate===
+Manchester experiences a [[temperate]] [[oceanic climate]] ([[Köppen climate classification|Köppen]]: ''Cfb''), like much of the British Isles, with warm summers and cool winters. Summer daytime temperatures regularly top 20°C, quite often reaching 25°C on sunny days during July and August in particular. In more recent years, temperatures have occasionally reached over 30°C. There is regular but generally light precipitation throughout the year. The city's average annual rainfall is {{convert|806.6|mm|in|2}}<ref name="Manchester weather">{{cite web |url=http://www.metoffice.gov.uk/climate/uk/averages/19712000/sites/manchester_airport.html |title=Manchester Airport 1971–2000 weather averages |access-date=2009-05-05 |publisher=[[Met Office]] |year=2001 |url-status=dead |archive-url=https://web.archive.org/web/20070929103050/http://www.metoffice.gov.uk/climate/uk/averages/19712000/sites/manchester_airport.html |archive-date=2007-09-29}}</ref> compared to a UK average of {{convert|1125.0|mm|in|2}},<ref name="UK weather">{{cite web |url=http://www.metoffice.gov.uk/climate/uk/averages/19712000/areal/uk.html |title=UK 1971–2000 averages |access-date=2009-05-05 |publisher=[[Met Office]] |year=2001 |url-status=dead |archive-url=https://web.archive.org/web/20090705140124/http://www.metoffice.gov.uk/climate/uk/averages/19712000/areal/uk.html |archive-date=2009-07-05}}</ref> and its mean rain days are 140.4 per annum,<ref name="Manchester weather"/> compared to the UK average of 154.4.<ref name="UK weather"/> Manchester has a relatively high humidity level, and this, along with abundant soft water, was one factor that led to advancement of the textile industry in the area.<ref>{{cite book |last=Smith |first=Wilfred |title=An Economic Geography of Great Britain |publisher=Taylor and Francis |year=1959 |page=470 |chapter=II}}</ref> Snowfalls are not common in the city because of the [[Urban climate|urban warming]] effect but the [[West Pennine Moors]] to the north-west, [[South Pennines]] to the north-east and [[Peak District]] to the east receive more snow, which can close roads leading out of the city.<ref name="Snow">{{cite news |url=http://www.manchestereveningnews.co.uk/news/greater-manchester-news/roads-chaos-as-snow-sweeps-in-1058608 |title=Roads chaos as snow sweeps in Manchester |access-date=2009-05-05 |work=[[Manchester Evening News]] |date=2005-02-24 |url-status=dead |archive-url=https://web.archive.org/web/20131102012810/http://www.manchestereveningnews.co.uk/news/greater-manchester-news/roads-chaos-as-snow-sweeps-in-1058608 |archive-date=2013-11-02 }}</ref> They include the [[A62 road|A62]] via [[Oldham]] and [[Standedge]],<ref>{{cite web |title=Snow: West Yorkshire traffic and travel latest |url=http://www.halifaxcourier.co.uk/news/snow-west-yorkshire-traffic-and-travel-latest-1-1925071 |website=Halifax Courier |publisher=Halifax Courier |access-date=2017-11-09 |archive-url=https://web.archive.org/web/20171110005011/http://www.halifaxcourier.co.uk/news/snow-west-yorkshire-traffic-and-travel-latest-1-1925071 |archive-date=2017-11-10 |url-status=live}}</ref> the [[A57 road|A57]], [[Snake Pass]], towards [[Sheffield]],<ref name="Peaks">{{cite web |url=http://www.highpeak.co.uk/hp/h_snakbd.htm |title=Peak District sightseer's guide – Snake Pass |access-date=2009-05-05 |publisher=High Peak |year=2002 |archive-url=https://web.archive.org/web/20110112081929/http://www.highpeak.co.uk/hp/h_snakbd.htm |archive-date=2011-01-12 |url-status=live}}</ref> and the [[M62 motorway#Milnrow to Outlane|Pennine section of the M62]].<ref>{{cite web |title=Live: M62 motorway closed and 20 miles of queues as snow and high winds return to Greater Manchester |url=http://www.manchestereveningnews.co.uk/news/greater-manchester-news/live-m62-motorway-closed-and-20-1217237 |website=Manchester Evening News |date=2012-04-04 |publisher=Manchester Evening News |access-date=2017-11-09 |archive-url=https://web.archive.org/web/20171110005027/http://www.manchestereveningnews.co.uk/news/greater-manchester-news/live-m62-motorway-closed-and-20-1217237 |archive-date=2017-11-10 |url-status=live}}</ref> The lowest temperature ever recorded in Manchester was {{convert|-17.6|C|F|abbr=on}} on 7 January 2010.<ref>{{cite web |last1= Evening News |first1=Manchester |title=Minus 17.6C – Big freeze sets new record |url=https://www.manchestereveningnews.co.uk/news/greater-manchester-news/minus-176c---big-freeze-880053 |website=manchestereveningnews.co.uk |date=2010-01-07 |access-date=2018-08-11 |archive-url=https://web.archive.org/web/20181012053913/https://www.manchestereveningnews.co.uk/news/greater-manchester-news/minus-176c---big-freeze-880053 |archive-date=2018-08-12 |url-status=live}}</ref>
+
+{{Manchester weatherbox}}
+
+===Green belt===
+{{further|North West Green Belt}}
+Manchester lies at the centre of a [[Green belt (United Kingdom)|green belt]] region extending into the wider surrounding counties. This reduces [[urban sprawl]], prevents towns in the conurbation from further convergence, protects the identity of outlying communities, and preserves nearby countryside. It is achieved by restricting inappropriate development within the designated areas and imposing stricter conditions on permitted building.<ref name="belt2"/>
+
+Due to being already highly urban, the city contains limited portions of protected green-belt area within [[Greenfield land|greenfield]] throughout the borough, with minimal development opportunities,<ref>{{cite web |title=Urban Density -v- Suburban Sprawl – The Leader's Blog |url=http://www.manchester.gov.uk/blog/leadersblog/post/840/urban-density-v-suburban-sprawl |website=www.manchester.gov.uk |language=en |access-date=21 February 2018 |archive-url=https://web.archive.org/web/20180221222428/http://www.manchester.gov.uk/blog/leadersblog/post/840/urban-density-v-suburban-sprawl |archive-date=21 February 2018 |url-status=live}}</ref> at [[Clayton Vale]], [[Heaton Park]], Chorlton Water Park along with the [[Chorlton Ees]] & Ivy Green nature reserve and the floodplain surrounding the River Mersey, as well as the southern area around Manchester Airport.<ref>{{cite web |title=Manchester's Local Development Framework Core Strategy Development Plan Document Adopted 11th July 2012 Published by Manchester City Council |url=http://www.manchester.gov.uk/download/downloads/id/18981/final_core_strategy.pdf |website=www.manchester.gov.uk|access-date=21 February 2018 |archive-url=https://web.archive.org/web/20180219141112/http://www.manchester.gov.uk/download/downloads/id/18981/final_core_strategy.pdf |archive-date=19 February 2018 |url-status=live}}</ref> The green belt was first drawn up in 1961.<ref name="belt2">{{cite web |title=Local Development Framework Evidence Base Green Belt Review July 2010 |url=http://www.manchester.gov.uk/download/downloads/id/13853/manchester_airport_-_ldf_evidence_base_-_green_belt_review.pdf |website=www.manchester.gov.uk |access-date=21 February 2018 |archive-url=https://web.archive.org/web/20180221222410/http://www.manchester.gov.uk/download/downloads/id/13853/manchester_airport_-_ldf_evidence_base_-_green_belt_review.pdf |archive-date=21 February 2018 |url-status=live}}</ref>
+
+{{Geographic Location
+|title     = '''Neighbouring districts and places.'''
+|Northwest = [[Salford]]
+|North     = [[Bury, Greater Manchester|Bury]]
+|Northeast = [[Oldham]]
+|West      = [[Salford]]
+|Centre    = Manchester
+|East      = [[Ashton-under-Lyne]]
+|Southwest = [[Old Trafford]]
+|South     = [[Manchester Airport]]
+|Southeast = [[Stockport]]
+}}
+
+==Demographics==
+{{See also|Demography of Greater Manchester}}
+[[File:Manchester population pyramid 2020.svg|thumb|City of Manchester population pyramid in 2020]]Historically the population of Manchester began to increase rapidly during the [[Victorian era]], estimated at 354,930 for Manchester and 110,833 for Salford in 1865,<ref>{{Cite web |url=https://paperspast.natlib.govt.nz/newspapers/NZH18661004.2.12 |title=New Zealand Herald, 1866-10-04 |website=paperspast.natlib.govt.nz |language=en |access-date=11 November 2018 |archive-url=https://web.archive.org/web/20181111133904/https://paperspast.natlib.govt.nz/newspapers/NZH18661004.2.12 |archive-date=11 November 2018 |url-status=live}}</ref> and peaking at 766,311 in 1931. From then the population began to decrease rapidly, due to [[Slum clearance in the United Kingdom|slum clearance]] and the increased building of [[Public housing|social housing]] [[overspill estate]]s by Manchester City Council after the Second World War such as [[Hattersley]] and [[Langley, Greater Manchester|Langley]].<ref name="Slums">{{cite journal |last=Shapely |first=Peter |year=2002–2003 |title=The press and the system built developments of inner-city Manchester |journal=Manchester Region History Review |volume=16 |pages=30–39 |publisher=Manchester Centre for Regional History |location=Manchester |issn=0952-4320 |url=http://www.mcrh.mmu.ac.uk/pubs/pdf/mrhr_16_shapely.pdf  |access-date=22 November 2007 |archive-url=https://web.archive.org/web/20120210182610/http://www.mcrh.mmu.ac.uk/pubs/pdf/mrhr_16_shapely.pdf |archive-date=10 February 2012}}</ref>
+
+The 2012 mid-year estimate for the population of Manchester was 510,700. This was an increase of 7,900, or 1.6 per cent, since the 2011 estimate. Since 2001, the population has grown by 87,900, or 20.8 per cent, making Manchester the third fastest-growing area in the 2011 census.<ref name="mancpop">{{cite web |url=http://www.manchester.gov.uk/downloads/download/4220/public_intelligence_population_publications |title=Public Intelligence Population Publications |publisher=Manchester City Council |date=1 April 2005 |access-date=9 August 2014 |archive-url=https://web.archive.org/web/20140815182631/http://www.manchester.gov.uk/downloads/download/4220/public_intelligence_population_publications |archive-date=15 August 2014 |url-status=dead }}</ref> The city experienced the greatest percentage population growth outside London, with an increase of 19 per cent to over 500,000.<ref>{{cite news |last1=Townsend |first1=Lucy |last2=Westcott |first2=Kathryn |url=https://www.bbc.co.uk/news/magazine-18853714 |title=Census 2011: Five lesser-spotted things in the data |work=BBC News |date=17 July 2012 |access-date=9 August 2014 |archive-url=https://web.archive.org/web/20141017035941/http://www.bbc.co.uk/news/magazine-18853714 |archive-date=17 October 2014 |url-status=live}}</ref> Manchester's population is projected to reach 532,200 by 2021, an increase of 5.8 per cent from 2011. This represents a slower rate of growth than the previous decade.<ref name=mancpop/>
+
+The [[Greater Manchester Built-up Area]] in 2011 had an estimated population of 2,553,400. In 2012 an estimated 2,702,200 people lived in [[Greater Manchester]]. An 6,547,000 people were estimated in 2012 to live within {{convert|30|mi|km|sigfig=1}} of Manchester and 11,694,000 within {{convert|50|mi|km|sigfig=1}}.<ref name=mancpop/>
+
+Between the beginning of July 2011 and end of June 2012 (mid-year estimate date), births exceeded deaths by 4,800. Migration (internal and international) and other changes accounted for a net increase of 3,100 people between July 2011 and June 2012. Compared with Greater Manchester and with England, Manchester has a younger population, with a particularly large 20–35 age group.<ref name=mancpop/>
+
+There were 76,095 undergraduate and postgraduate students at [[Manchester Metropolitan University]], the [[University of Manchester]] and [[Royal Northern College of Music]] in the 2011/2012 academic year.
+
+Of all households in Manchester, 0.23 per cent were Same-Sex [[Civil union|Civil Partnership]] households, compared with an English national average of 0.16 per cent in 2011.<ref name="GayPopulation">{{cite web |url=http://www.neighbourhood.statistics.gov.uk/dissemination/LeadTableView.do?a=7&b=6275161&c=Manchester&d=13&e=61&g=6342340&i=1001x1003x1032x1004&o=362&m=0&r=1&s=1393453659799&enc=1&dsFamilyId=2518|title=Manchester Neighbourhood Statistics&nbsp;– Same-Sex couples |access-date=26 February 2014 |publisher=Office for National Statistics |year=2001 |url-status=dead|archive-url=https://web.archive.org/web/20140303031924/http://www.neighbourhood.statistics.gov.uk/dissemination/LeadTableView.do?a=7&b=6275161&c=Manchester&d=13&e=61&g=6342340&i=1001x1003x1032x1004&o=362&m=0&r=1&s=1393453659799&enc=1&dsFamilyId=2518 |archive-date=3 March 2014}}</ref>
+
+The Manchester [[Larger Urban Zone]], a [[Eurostat]] measure of the functional city-region approximated to local government districts, had a population of 2,539,100 in 2004.<ref name="urbanaudit">{{cite web |title=Urban Audit – City Profiles: Manchester |url=http://www.urbanaudit.org/CityProfiles.aspx?CityCode=UK008C&CountryCode=UK |archive-url=https://web.archive.org/web/20130112222759/http://www.urbanaudit.org/CityProfiles.aspx?CityCode=UK008C&CountryCode=UK |archive-date=12 January 2013 |access-date=5 October 2008 |publisher=Urban Audit}}</ref> In addition to Manchester itself, the LUZ includes the remainder of the county of [[Greater Manchester]].<ref>{{cite web |title=Towards a Common Standard |url=http://www.london.gov.uk/mayor/economic_unit/docs/wp13_towards_a_common_standard.pdf |archive-url=https://web.archive.org/web/20081217143002/http://www.london.gov.uk/mayor/economic_unit/docs/wp13_towards_a_common_standard.pdf |archive-date=17 December 2008 |access-date=5 October 2008 |publisher=Greater London Authority |page=29}}</ref> The Manchester LUZ is the second largest within the United Kingdom, behind that of London.
+
+=== Religion ===
+{{Pie chart|thumb=right|caption=Religious beliefs, according to the 2021 census<ref>{{Cite web |title=Religion - Office for National Statistics |url=https://www.ons.gov.uk/datasets/TS030/editions/2021/versions/1 |access-date=2022-11-30 |website=www.ons.gov.uk}}</ref>|label1=Christian|value1=36.2|color1=Red|label2=No Religion|value2=32.4|color2=Orange|label3=Muslim|value3=22.3|color3=Green|label4=Hindu|value4=1.1|color4=Yellow|label5=Buddhist|value5=0.6|color5=blue|label6=Jewish|value6=0.5|color6=purple|label7=Other|value7=0.5|color7=white|label8=Religion Not Stated|value8=5.9|color8=Grey}}Since the 2001 census, the proportion of Christians in Manchester has fallen by 22 per cent from 62.4 per cent to 48.7 per cent in 2011. The proportion of those with no religious affiliation rose by 58.1 per cent from 16 per cent to 25.3 per cent, whilst the proportion of Muslims increased by 73.6 per cent from 9.1 per cent to 15.8 per cent. The size of the Jewish population in Greater Manchester is the largest in Britain outside London.<ref name="Jewish Population">{{cite web |title=Second largest |url=http://www.somethingjewish.co.uk/articles/290_manchester_jews.htm |url-status=live |archive-url=https://web.archive.org/web/20070830204127/http://www.somethingjewish.co.uk/articles/290_manchester_jews.htm |archive-date=30 August 2007 |access-date=14 September 2007 |work=Something Jewish}}</ref>
+
+=== Ethnicity ===
+[[File:Population pyramid of Manchester by ethnicity in 2021.svg|thumb|Population pyramid of Manchester by ethnicity in 2021]]
+In terms of [[List of English districts and their ethnic composition|ethnic composition]], the City of Manchester has the highest non-white proportion of any district in Greater Manchester. Statistics from the [[United Kingdom Census 2011|2011 census]] showed that 66.7 per cent of the population was [[White people|White]] (59.3 per cent [[White British]], 2.4 per cent [[Irish migration to Great Britain|White Irish]], 0.1 per cent [[Gypsy (term)|Gypsy]] or [[Irish Traveller]], 4.9 per cent [[Other White]] – although the size of mixed European and British ethnic groups is unclear, there are reportedly over 25,000 people in Greater Manchester of at least partial [[Italian Briton|Italian]] descent alone, which represents 5.5 per cent of the population of Greater Manchester<ref>{{cite news |url=http://news.bbc.co.uk/2/hi/uk_news/england/manchester/3223776.stm |work=BBC News |title=Italians revolt over church closure |date=29 November 2003 |access-date=12 May 2010 |first=David |last=Green |archive-url=https://web.archive.org/web/20101204154746/http://news.bbc.co.uk/2/hi/uk_news/england/manchester/3223776.stm |archive-date=4 December 2010 |url-status=live }}</ref>). 4.7 per cent were [[Mixed (United Kingdom ethnicity category)|mixed race]] (1.8 per cent White and Black Caribbean, 0.9 per cent White and Black African, 1.0 per cent White and Asian, 1.0 per cent other mixed), 17.1 per cent [[British Asian|Asian]] (2.3 per cent [[British Indian|Indian]], 8.5 per cent [[British Pakistanis|Pakistani]], 1.3 per cent [[British Bangladeshi|Bangladeshi]], 2.7 per cent [[British Chinese|Chinese]], 2.3 per cent other Asian), 8.6 per cent [[Black British|Black]] (5.1 per cent African<!--, 1.9 per cent [[British African-Caribbean people|Caribbean]]-->, 1.6 per cent [[other Black]]), 1.9 per cent [[British Arab|Arab]] and 1.2 per cent of other ethnic heritage.<ref>{{cite web |url=http://www.ons.gov.uk/ons/rel/census/2011-census/key-statistics-for-local-authorities-in-england-and-wales/rft-table-ks202ew.xls |title=2011 Census: Ethnic group, local authorities in England and Wales |publisher=ONS |access-date=12 December 2012 |archive-url=https://web.archive.org/web/20130116113227/http://www.ons.gov.uk/ons/rel/census/2011-census/key-statistics-for-local-authorities-in-england-and-wales/rft-table-ks202ew.xls |archive-date=16 January 2013 |url-status=live}}</ref>
+
+Kidd identifies [[Moss Side]], [[Longsight]], [[Cheetham Hill]], [[Rusholme]], as centres of population for ethnic minorities.<ref name = "Kidd"/> Manchester's Irish Festival, including a [[St Patrick's Day]] parade, is one of Europe's largest.<ref name="Irish festival">{{cite web |url=http://www.manchesteririshfestival.co.uk |title=The Manchester Irish Festival: the largest in the UK |access-date=28 June 2007 |publisher=Manchester Irish Festival Website |year=2007 |archive-url=https://web.archive.org/web/20160221081149/http://www.manchesteririshfestival.co.uk/ |archive-date=21 February 2016 |url-status=dead }}</ref> There is also a well-established [[Chinatown, Manchester|Chinatown]] in the city with a substantial number of Chinese restaurants and supermarkets. The area also attracts large numbers of Chinese students to the city who, in attending the local universities,<ref name="Chinatown">{{cite web |url=https://www.bbc.co.uk/manchester/chinatown/2004/01/history.shtml |title=History of Manchester's Chinatown |access-date=22 November 2007 |year=2004 |publisher=BBC |archive-url=https://web.archive.org/web/20120401041607/http://www.bbc.co.uk/manchester/chinatown/2004/01/history.shtml |archive-date=1 April 2012 |url-status=live}}</ref> contribute to Manchester having the third-largest Chinese population in Europe.<ref>{{cite web |url=http://www.manchesterairport.co.uk/manweb.nsf/Content/ManchesterAirportcelebratesDiwaliandEid |archive-url=https://web.archive.org/web/20120313201103/http://www.manchesterairport.co.uk/manweb.nsf/Content/ManchesterAirportcelebratesDiwaliandEid |archive-date=13 March 2012 |title=Manchester Airport celebrates Diwali and Eid |access-date=7 September 2012 |year=2011 |publisher=MAG Airports Group}}</ref><ref>{{cite web |url=http://www.manchestereveningnews.co.uk/business/business-news/airport-city-bosses-in-650m-china-690688 |title=Airport City bosses in £650m China mission |access-date=7 September 2012 |year=2012 |work=Manchester Evening News |url-status=dead |archive-url=https://web.archive.org/web/20140117014055/http://www.manchestereveningnews.co.uk/business/business-news/airport-city-bosses-in-650m-china-690688 |archive-date=17 January 2014}}</ref>
+
+'''Ethnicity of Manchester, from 1971 to 2021:'''
+{| class="wikitable mw-collapsible mw-collapsed"
+! rowspan="3" |Ethnic group
+! colspan="10" |Year
+|-
+! colspan="2" |1971 estimations<ref>{{Cite journal |last=Jones |first=P. N. |date=1978 |title=The Distribution and Diffusion of the Coloured Population in England and Wales, 1961-71 |url=https://www.jstor.org/stable/622127 |journal=Transactions of the Institute of British Geographers |volume=3 |issue=4 |pages=515–532 |doi=10.2307/622127 |issn=0020-2754}}</ref>
+! colspan="2" |1991<ref name=":412">Data is taken from United Kingdom [http://casweb.ukdataservice.ac.uk/index.htm Casweb Data services] of the United Kingdom [http://casweb.ukdataservice.ac.uk/step1.cfm 1991 Census on Ethnic Data for England, Scotland and Wales] (Table 6)</ref>
+! colspan="2" |2001<ref>{{cite web |title=Office of National Statistics; 2001 Census Key Statistics |url=https://webarchive.nationalarchives.gov.uk/ukgwa/20160105160709/http://www.ons.gov.uk/ons/rel/census/census-2001-key-statistics/local-authorities-in-england-and-wales/local-authorities-ks06--ethnic-group.xls |access-date=2021-09-07 |website=webarchive.nationalarchives.gov.uk}}</ref>
+! colspan="2" |2011<ref>{{cite web |title=2011 Census: Ethnic group, local authorities in England and Wales |url=http://www.ons.gov.uk/ons/rel/census/2011-census/key-statistics-for-local-authorities-in-england-and-wales/rft-table-ks202ew.xls |url-status=live |archive-url=https://web.archive.org/web/20130116113227/http://www.ons.gov.uk/ons/rel/census/2011-census/key-statistics-for-local-authorities-in-england-and-wales/rft-table-ks202ew.xls |archive-date=16 January 2013 |access-date=12 December 2012 |publisher=ONS}}</ref>
+! colspan="2" |2021<ref>{{Cite web |title=Ethnic group - Office for National Statistics |url=https://www.ons.gov.uk/datasets/TS021/editions/2021/versions/1 |access-date=2022-11-30 |website=www.ons.gov.uk}}</ref>
+|-
+!Number
+!%
+!Number
+!%
+!Number
+!%
+!Number
+!%
+!Number
+!%
+|-
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+![[White people in the United Kingdom|White]]: Total
+!512,936
+!95.8%
+!353,685
+!87.4%
+!318,013
+!81%
+!335,109
+!66.6%
+!313,632
+!56.8%
+|-
+|White: [[White British|British]]
+|–
+|–
+|–
+|–
+|292,498
+|74.5%
+|298,237
+|59.3%
+|268,572
+|48.7%
+|-
+|White: [[White Irish|Irish]]
+|–
+|–
+|–
+|–
+|14,826
+|3.8%
+|11,843
+|2.4%
+|9,442
+|1.7%
+|-
+|White: Traveller of Irish heritage
+|–
+|–
+|–
+|–
+|–
+|–
+|509
+|0.1%
+|597
+|0.1%
+|-
+|White: Gypsy/Roma
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|883
+|0.2%
+|-
+|White: [[Other White|Other]]
+|–
+|–
+|–
+|–
+|10,689
+|2.7%
+|24,520
+|4.9%
+|34,138
+|6.2%
+|-
+![[British Asian|Asian / Asian British]]: Total
+!–
+!–
+!26,766
+!6.6%
+!41,003
+!10.4%
+!85,986
+!17.1%
+!115,109
+!20.9%
+|-
+|Asian / Asian British: [[British Indians|Indian]]
+|–
+|–
+|4,404
+|
+|5,817
+|
+|11,417
+|2.3%
+|14,857
+|2.7%
+|-
+|Asian / Asian British: [[British Pakistanis|Pakistani]]
+|–
+|–
+|15,360
+|3.8%
+|23,104
+|5.9%
+|42,904
+|8.5%
+|65,875
+|11.9%
+|-
+|Asian / Asian British: [[British Bangladeshis|Bangladeshi]]
+|–
+|–
+|2,000
+|
+|3,654
+|
+|6,437
+|1.3%
+|9,673
+|1.8%
+|-
+|Asian / Asian British: [[British Chinese|Chinese]]
+|–
+|–
+|3,103
+|
+|5,126
+|
+|13,539
+|2.7%
+|12,644
+|2.3%
+|-
+|Asian / Asian British: Other Asians
+|–
+|–
+|1,899
+|
+|3,302
+|
+|11,689
+|2.3%
+|12,060
+|2.2%
+|-
+![[Black British people|Black / Black British]]: Total
+!–
+!–
+!18,898
+!4.7%
+!17,739
+!4.5%
+!43,484
+!8.6%
+!65,893
+!12%
+|-
+|Black: [[Black British people|African]]
+|–
+|–
+|3,465
+|0.9%
+|6,655
+|1.7%
+|25,718
+|5.1%
+|47,858
+|8.7%
+|-
+|Black: [[British African-Caribbean people|Caribbean]]
+|–
+|–
+|10,390
+|2.6%
+|9,044
+|2.3%
+|9,642
+|1.9%
+|10,472
+|1.9%
+|-
+|Black: [[Classification of ethnicity in the United Kingdom|Other Blacks]]
+|–
+|–
+|5,043
+|
+|2,040
+|
+|8,124
+|1.6%
+|7,563
+|1.4%
+|-
+![[Mixed (United Kingdom ethnicity category)|Mixed / British Mixed]]
+!–
+!–
+!–
+!–
+!12,673
+!3.2%
+!23,161
+!4.6%
+!29,026
+!5.2%
+|-
+|White and Black Caribbean
+|–
+|–
+|–
+|–
+|5,295
+|
+|8,877
+|1.8%
+|9,987
+|1.8%
+|-
+|White and Black African
+|–
+|–
+|–
+|–
+|2,412
+|
+|4,397
+|0.9%
+|5,992
+|1.1%
+|-
+|White and Asian
+|–
+|–
+|–
+|–
+|2,459
+|
+|4,791
+|1%
+|6,149
+|1.1%
+|-
+|Any other mixed background
+|–
+|–
+|–
+|–
+|2,507
+|
+|5,096
+|1%
+|6,898
+|1.2%
+|-
+!Other: Total
+!–
+!–
+!5,517
+!1.4%
+!3,391
+!0.9%
+!15,387
+!3.1%
+!28,278
+!5.1%
+|-
+|Other: Arab
+|–
+|–
+|5,517
+|1.4%
+|3,391
+|0.9%
+|9,503
+|1.9%
+|15,028
+|2.7%
+|-
+|Other: Any other ethnic group
+|–
+|–
+|–
+|–
+|–
+|–
+|5,884
+|1.2%
+|13,250
+|2.4%
+|-
+!Ethnic minority
+!22,484
+!4.2%
+!51,181
+!12.6%
+!74,806
+!19%
+!168,018
+!33.4%
+!238,306
+!43.2%
+|-
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+!Total:
+!535,420
+!100%
+!404,866
+!100%
+!392,819
+!100%
+!503,127
+!100%
+!551,938
+!100%
+|}
+'''Ethnicity of school pupils'''
+{| class="wikitable mw-collapsible mw-collapsed"
+! rowspan="3" |Ethnic group
+! colspan="4" |School year<ref>{{Cite web |title=School and pupil characteristics |url=https://webarchive.nationalarchives.gov.uk/ukgwa/20130104055718/http://www.education.gov.uk/researchandstatistics/statistics/statistics-by-topic/schoolpupilcharacteristics?page=1 |access-date=2022-11-08 |website=webarchive.nationalarchives.gov.uk}}</ref><ref>{{Cite web |title=Schools, pupils and their characteristics, Academic Year 2021/22 |url=https://explore-education-statistics.service.gov.uk/find-statistics/school-pupils-and-their-characteristics |access-date=2022-11-28 |website=explore-education-statistics.service.gov.uk}}</ref>
+|-
+! colspan="2" |2004/2005
+! colspan="2" |2021/2022
+|-
+!Number
+!%
+!Number
+!%
+|-
+|
+|
+|
+|
+|
+|-
+![[White people in the United Kingdom|White]]: Total
+!34,860
+!64%
+!34,609
+!37.6%
+|-
+|White: [[White British|British]]
+|33,698
+|61.9%
+|29,591
+|32.2%
+|-
+|White: [[White Irish|Irish]]
+|373
+|
+|320
+|0.3%
+|-
+|White: Traveller of Irish heritage
+|106
+|
+|87
+|0.1%
+|-
+|White: Gypsy/Roma
+|23
+|
+|286
+|0.3%
+|-
+|White: [[Other White|Other]]
+|658
+|
+|4,325
+|4.7%
+|-
+![[British Asian|Asian / Asian British]]: Total
+!8,893
+!16.3%
+!23,594
+!25.9%
+|-
+|Asian / Asian British: [[British Indians|Indian]]
+|770
+|
+|2,163
+|2.4%
+|-
+|Asian / Asian British: [[British Pakistanis|Pakistani]]
+|6,204
+|
+|15,838
+|17.3%
+|-
+|Asian / Asian British: [[British Bangladeshis|Bangladeshi]]
+|971
+|
+|2,157
+|2.4%
+|-
+|Asian / Asian British: [[British Chinese|Chinese]]
+|390
+|
+|1,073
+|1.2%
+|-
+|Asian / Asian British: Other Asians
+|558
+|
+|2,363
+|2.6%
+|-
+![[Black British people|Black / Black British]]: Total
+!4,700
+!8.6%
+!15,699
+!17.1%
+|-
+|Black: [[British African-Caribbean people|Caribbean]]
+|1,517
+|
+|1,324
+|1.4%
+|-
+|Black: [[Black British people|African]]
+|2,618
+|
+|11,014
+|12.0%
+|-
+|Black: [[Classification of ethnicity in the United Kingdom|Other Blacks]]
+|564
+|
+|3,361
+|3.7%
+|-
+![[Mixed (United Kingdom ethnicity category)|Mixed / British Mixed]]
+!3,530
+!6.5%
+!8,808
+!9.5%
+|-
+!Other: Total
+!1,690
+!3.1%
+!7,448
+!8.1%
+|-
+!Unclassified
+!793
+!1.5%
+!1,628
+!1.8%
+|-
+|
+|
+|
+|
+|
+|-
+!Total:
+!54,470
+!100%
+!91,786
+!100%
+|}
+
+
+==Economy==
+{{Main|Economy of Manchester}}
+{{See also|List of companies based in Greater Manchester}}
+{|class="wikitable" style="float:right;"
+|+''GVA for <br />Greater Manchester South <br />2002–2012''<ref name="ONS regional GVA">{{cite web |url=http://www.ons.gov.uk/ons/rel/regional-accounts/regional-gross-value-added--income-approach-/december-2013/rft-nuts3.xls |title=Regional Gross Value Added (Income Approach) NUTS3 Tables |year=2013 |publisher=Office for National Statistics |access-date=9 August 2014 |archive-url=https://web.archive.org/web/20131219210913/http://www.ons.gov.uk/ons/rel/regional-accounts/regional-gross-value-added--income-approach-/december-2013/rft-nuts3.xls |archive-date=19 December 2013 |url-status=live}}</ref>
+|-
+! Year || GVA <br />(£ million) || Growth (%)
+|-
+| 2002 || 24,011 || {{increase}}{{0}}3.8%
+|-
+| 2003 || 25,063 || {{increase}}{{0}}4.4%
+|-
+| 2004 || 27,862 || {{increase}}{{0}}11.2%
+|-
+| 2005 || 28,579  || {{increase}}{{0}}2.6%
+|-
+| 2006 || 30,384 || {{increase}}{{0}}6.3%
+|-
+| 2007 || 32,011 || {{increase}}{{0}}5.4%
+|-
+| 2008 || 32,081 || {{increase}}{{0}}0.2%
+|-
+| 2009 || 33,186 || {{increase}}{{0}}3.4%
+|-
+| 2010 || 33,751 || {{increase}}{{0}}1.7%
+|-
+| 2011 || 33,468 || {{decrease}}{{0}}0.8%
+|-
+| 2012 || 34,755 || {{increase}}{{0}}3.8%
+|-
+| 2013 || 37,560 || {{increase}}{{0}}9.6%
+|-
+|}
+[[File:Great Jackson Street Framework 2020.jpg|left|thumb|The Great Jackson Street skyscraper district under construction in Central Manchester]]
+The [[Office for National Statistics]] does not produce economic data for the City of Manchester alone, but includes four other metropolitan boroughs, [[City of Salford|Salford]], [[Stockport]], [[Tameside]], [[Trafford]], in an area named Greater Manchester South, which had a [[Gross Value Added|GVA]] of £34.8&nbsp;billion. The economy grew relatively strongly between 2002 and 2012, when growth was 2.3 per cent above the national average.<ref name="Leeds.gov.uk">{{cite web |url=http://www.leeds.gov.uk/docs/LEH%2004%20Leeds%20Economy.pdf |archive-url=https://web.archive.org/web/20131219012657/http://www.leeds.gov.uk/docs/LEH%2004%20Leeds%20Economy.pdf |archive-date=19 December 2013 |title=The Leeds Economy |date=2004 |publisher=Leeds City Council |access-date=9 August 2014 |url-status=dead}}</ref> The wider [[metropolitan economy]] is the third largest in the United Kingdom.  It is ranked as a [[Alpha world city|beta world city]] by the [[Globalization and World Cities Research Network]].<ref name="TheWorld">{{cite web |url=http://www.lboro.ac.uk/gawc/world2012t.html |title=The World According to GaWC 2012 |access-date=25 March 2014 |publisher=Globalization and World Cities Research Network |archive-url=https://web.archive.org/web/20160305015239/http://content.time.com/time/specials/packages/article/0,28804,2097720_2097718_2097716,00.html |archive-date=5 March 2016 |url-status=live}}</ref>
+
+As the UK economy continues to recover from its 2008–2010 downturn, Manchester compares favourably according to recent figures. In 2012 it showed the strongest annual growth in business stock (5 per cent) of all [[Core Cities Group|core cities]].<ref name="Business Demography: Enterprise Births, Deaths and Survival Rates for 2011">{{cite web |url=http://www.ons.gov.uk/ons/publications/re-reference-tables.html?edition=tcm%3A77-329345 |title=Release Edition Reference Tables: Business Demography, 2012 |publisher=Office for National Statistics |date=27 November 2013 |access-date=9 August 2014 |archive-url=https://web.archive.org/web/20141012044341/http://www.ons.gov.uk/ons/publications/re-reference-tables.html?edition=tcm%3A77-329345 |archive-date=12 October 2014 |url-status=live}}</ref> The city had a relatively sharp increase in the number of business deaths, the largest increase in all the core cities, but this was offset by strong growth in new businesses, resulting in strong net growth.
+
+Manchester's civic leadership has a reputation for business acumen.<ref name="econ">{{cite news |url=https://www.economist.com/news/special-report/21589234-led-london-big-cities-are-sucking-up-talent-jobs-and-investment-everywhere-else |title=Cities: The vacuum cleaners |newspaper=The Economist |date=9 November 2013 |access-date=9 August 2014 |archive-url=https://web.archive.org/web/20140720052053/http://www.economist.com/news/special-report/21589234-led-london-big-cities-are-sucking-up-talent-jobs-and-investment-everywhere-else |archive-date=20 July 2014 |url-status=live}}</ref> It owns two of the country's four busiest airports and uses its earnings to fund local projects.<ref>{{cite news |url=https://www.bbc.co.uk/news/uk-england-manchester-23513673 |title=Manchester Airports Group dividend windfall for councils |work=BBC News |date=31 July 2013 |access-date=9 August 2014 |archive-url=https://web.archive.org/web/20141015104426/http://www.bbc.co.uk/news/uk-england-manchester-23513673 |archive-date=15 October 2014 |url-status=live }}</ref> Meanwhile, [[KPMG]]'s competitive alternative report found that in 2012 Manchester had the 9th lowest tax cost of any industrialised city in the world,<ref name="indices">{{cite web |last1=Moonen |first1=Tim |last2=Clark |first2=Greg |url=http://www.jll.com/Research/jll-city-indices-november-2013.pdf |title=The Business of Cities 2013 |publisher=Jones Lang LaSalle IP |date=November 2013 |pages=78–79 |access-date=9 August 2014 |archive-url=https://web.archive.org/web/20160201083204/http://www.jll.com/Research/jll-city-indices-november-2013.pdf |archive-date=1 February 2016 |url-status=live}}</ref> and fiscal devolution has come earlier to Manchester than to any other British city: it can keep half the extra taxes it gets from transport investment.<ref name=econ/>
+
+KPMG's competitive alternative report also found that Manchester was Europe's most affordable city featured, ranking slightly better than the Dutch cities of [[Rotterdam]] and [[Amsterdam]], which all have a cost-of-living index of less than 95.<ref name="indices" />
+
+Manchester is a city of contrast, where some of the country's most deprived and most affluent neighbourhoods can be found.<ref>{{cite web |url=http://www.manchester.gov.uk/info/500230/joint_strategic_needs_assessment/5683/south_manchester_living_in_the_area |archive-url=https://web.archive.org/web/20140715075839/http://www.manchester.gov.uk/info/500230/joint_strategic_needs_assessment/5683/south_manchester_living_in_the_area |archive-date=15 July 2014 |title=South Manchester: Living in the area: Introducing South Manchester |publisher=Manchester City Council |access-date=9 August 2014}}</ref><ref>{{cite news |url=http://news.bbc.co.uk/1/hi/uk/3871857.stm |title=Wealth hotspots 'outside London' |work=BBC News |date=7 July 2004 |access-date=9 August 2014 |archive-url=https://web.archive.org/web/20090115093517/http://news.bbc.co.uk/1/hi/uk/3871857.stm |archive-date=15 January 2009 |url-status=live}}</ref> According to 2010 [[Indices of Multiple Deprivation]], Manchester is the 4th most deprived local council in England.<ref name="gov.uk">{{cite web |url=https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/6884/1871689.xls |title=The English Indices of Deprivation 2010: Local Authorities District Summaries File Notes |publisher=Department for Communities and Local Government |year=2010 |access-date=9 August 2014 |archive-url=https://web.archive.org/web/20160304035526/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/6884/1871689.xls |archive-date=4 March 2016 |url-status=live }}</ref> Unemployment throughout 2012–2013 averaged 11.9 per cent, which was above national average, but lower than some of the country's comparable large cities.<ref>{{cite web |url=http://www.nomisweb.co.uk/reports/lmp/la/2038432043/report.aspx?#tabempunemp |archive-url=https://web.archive.org/web/20110717103004/https://www.nomisweb.co.uk/reports/lmp/la/2038432043/report.aspx |archive-date=17 July 2011 |title=Labour Market Profile: Manchester |publisher=Office for National Statistics |year=2010 |access-date=9 August 2014}}</ref> On the other hand, Greater Manchester is home to more multi-millionaires than anywhere outside London, with the City of Manchester taking up most of the tally.<ref>{{cite news |last=Robson |first=Steve |url=http://www.manchestereveningnews.co.uk/news/greater-manchester-news/boom-city-manchester-has-more-super-rich-695230 |title=Boom city Manchester has more super-rich than anywhere outside London |newspaper=Manchester Evening News |date=17 September 2012 |access-date=9 August 2014 |url-status=dead |archive-url=https://web.archive.org/web/20131231024956/http://www.manchestereveningnews.co.uk/news/greater-manchester-news/boom-city-manchester-has-more-super-rich-695230 |archive-date=31 December 2013}}</ref> In 2013 Manchester was ranked 6th in the UK for quality of life, according to a rating of the UK's 12 largest cities.<ref name="qol">{{cite web |last=Philipson |first=Alice |url=https://www.telegraph.co.uk/news/uknews/10386993/Bristol-is-best-city-to-live-in-the-UK.html |title=Bristol is 'best city to live in the UK' |work=The Telegraph |date=18 October 2013 |access-date=9 August 2014 |archive-url=https://web.archive.org/web/20161110040410/http://www.telegraph.co.uk/news/uknews/10386993/Bristol-is-best-city-to-live-in-the-UK.html |archive-date=10 November 2016 |url-status=live}}</ref>
+
+Women fare better in Manchester than the rest of the country in comparative pay with men. The per hours-worked [[gender pay gap]] is 3.3 per cent compared with 11.1 per cent for Britain.<ref name="2013 labour market profile">{{cite web |url=http://www.nomisweb.co.uk/reports/lmp/la/1946157083/report.aspx?town=manchester |title=Labour Market Profile: Manchester |publisher=Office for National Statistics |year=2013 |access-date=9 August 2014 |archive-url=https://web.archive.org/web/20141011143922/http://www.nomisweb.co.uk/reports/lmp/la/1946157083/report.aspx?town=manchester |archive-date=11 October 2014 |url-status=dead }}</ref> 37 per cent of the working-age population in Manchester have degree-level qualifications, as opposed to an average of 33 per cent across other core cities,<ref name="2013 labour market profile" /> although its schools under-perform slightly compared with the national average.<ref>{{cite web |title=Education and skills in your area: Manchester LA |url=http://www.education.gov.uk/inyourarea/results/lea_352_wards_3.shtml#03 |publisher=Department for Education |date=2012 |access-date=9 August 2014 |archive-url=https://web.archive.org/web/20131222205235/http://www.education.gov.uk/inyourarea/results/lea_352_wards_3.shtml#03 |archive-date=22 December 2013 |url-status=live}}</ref>
+
+Manchester has the largest UK office market outside London, according to GVA Grimley, with a quarterly office uptake (averaged over 2010–2014) of some 250,000 square ft – equivalent to the quarterly office uptake of [[Leeds]], Liverpool and [[Newcastle upon Tyne|Newcastle]] combined and 90,000 square feet more than the nearest rival, Birmingham.<ref>{{cite web |title=The Big Nine – Regional Office Review – Q4 2014 |url=http://www.gva.co.uk/research/the-big-nine-q4-2014 |publisher=GVA Grimley |date=2015 |access-date=16 March 2015 |archive-url=https://web.archive.org/web/20150227054540/http://www.gva.co.uk/research/the-big-nine-q4-2014/ |archive-date=27 February 2015 |url-status=live}}</ref> The strong office market in Manchester has been partly attributed to "northshoring", (from [[offshoring]]) which entails the relocation or alternative creation of jobs away from the overheated South to areas where office space is possibly cheaper and the workforce market less saturated.<ref>{{cite web |title=Prepare for regional renaissance as businesses favour 'northshoring' |last=Oglesby |first=Chris |url=http://www.propertyweek.com/prepare-for-regional-renaissance-as-businesses-favour-%E2%80%98northshoring%E2%80%99/5041206.article |work=propertyweek.com |date=17 August 2012 |access-date=30 September 2014 |archive-url=https://web.archive.org/web/20141006130352/http://www.propertyweek.com/prepare-for-regional-renaissance-as-businesses-favour-%E2%80%98northshoring%E2%80%99/5041206.article |archive-date=6 October 2014 |url-status=live}}</ref>
+
+{{Panorama
+ | image      = File:Manchester City Centre Skyline.jpg
+ |alt         =
+ | fullwidth  = 4200
+ | fullheight = 477
+ | caption    = A view of the Manchester skyline, January 2020
+ | height     = 240
+}}
+
+==Landmarks==
+{{Main|Architecture of Manchester}}
+{{See also|List of tallest buildings and structures in Manchester|List of streets and roads in Manchester |Grade I listed buildings in Greater Manchester|Grade II* listed buildings in Greater Manchester|List of public art in Greater Manchester}}
+[[File:67 Whitworth Street.jpg|thumb|upright=0.9|Neo-baroque [[Lancaster House, Manchester|Lancaster House]]. Manchester is known for opulent warehouses from the city's textile trade.]]
+Manchester's buildings display a variety of architectural styles, ranging from [[Victorian architecture|Victorian]] to [[contemporary architecture]]. The widespread use of [[red brick]] characterises the city, much of the architecture of which harks back to its days as a global centre for the cotton trade.<ref name="Hartwell"/> Just outside the immediate city centre are a large number of former [[cotton mill]]s, some of which have been left virtually untouched since their closure, while many have been redeveloped as apartment buildings and office space. [[Manchester Town Hall]], in [[Albert Square, Manchester|Albert Square]], was built in the [[Gothic Revival architecture|Gothic revival]] style and is seen as one of the most important Victorian buildings in England.<ref>{{cite book |last=Robinson |first=John Martin |date=1986 |title=The Architecture of Northern England |page=153 |publisher=Macmillan |isbn=9780333373965}}</ref>
+
+Manchester also has a number of [[Tallest Buildings of Manchester|skyscrapers]] built in the 1960s and 1970s, the tallest being the [[CIS Tower]] near [[Manchester Victoria station]] until the [[Beetham Tower, Manchester|Beetham Tower]] was completed in 2006. The latter exemplifies a new surge in high-rise building. It includes a [[Hilton Hotels|Hilton hotel]], a restaurant and apartments. The largest skyscraper is now Deansgate Square South Tower, at 201 metres (659 feet).[[The Green Building]], opposite [[Manchester Oxford Road railway station|Oxford Road station]], is a pioneering eco-friendly housing project, while the recently completed [[One Angel Square]], is one of the most sustainable large buildings in the world.<ref>{{cite web |title=One Angel Square, Co-operative Group HQ |url=http://www.breeam.org/page.jsp?id=598 |work=breeam.org |access-date=14 March 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130521150355/http://www.breeam.org/page.jsp?id=598 |archive-date=21 May 2013}}</ref>
+
+The award-winning [[Heaton Park]] in the north of the city borough is one of the largest municipal parks in Europe, covering {{convert|610|acre|ha}} of parkland.<ref name="HeatonPark">{{cite web |url=http://www.manchester.gov.uk/site/scripts/documents_info.php?categoryID=200073heaton/&documentID=1422 |title=About Heaton Park |access-date=23 November 2007 |publisher=[[Manchester City Council]] |year=2005 |archive-url=https://web.archive.org/web/20080315081308/http://www.manchester.gov.uk/site/scripts/documents_info.php?categoryID=200073heaton%2F&documentID=1422 |archive-date=15 March 2008 |url-status=dead }}</ref> The city has 135 parks, gardens, and open spaces.<ref name="Parks">{{cite web |url=http://www.manchester.gov.uk/site/scripts/documents.php?categoryID=200073 |title=Manchester's parks and open spaces |access-date=23 November 2007 |publisher=[[Manchester City Council]] |year=2005 |archive-url=https://web.archive.org/web/20071012142452/http://www.manchester.gov.uk/site/scripts/documents.php?categoryID=200073 |archive-date=12 October 2007 |url-status=live}}</ref>
+
+Two large squares hold many of Manchester's public monuments. Albert Square has monuments to [[Prince Albert of Saxe-Coburg-Gotha|Prince Albert]], [[James Fraser (bishop)|Bishop James Fraser]], [[Oliver Heywood]], [[William Ewart Gladstone|William Gladstone]] and [[John Bright]]. [[Piccadilly Gardens]] has monuments dedicated to [[Victoria of the United Kingdom|Queen Victoria]], [[Robert Peel]], [[James Watt]] and the [[Arthur Wellesley, 1st Duke of Wellington|Duke of Wellington]]. [[Manchester Cenotaph|The cenotaph]] in St Peter's Square is Manchester's main memorial to its war dead. Designed by [[Edwin Lutyens]], it echoes [[the Cenotaph, Whitehall|the original on Whitehall]] in London. The [[Alan Turing Memorial]] in [[Sackville Park]] commemorates his role as the father of modern computing. A larger-than-life statue of [[Abraham Lincoln]] by George Gray Barnard in the eponymous Lincoln Square (having stood for many years in [[Platt Fields]]) was presented to the city by Mr and Mrs Charles Phelps Taft of [[Cincinnati]], Ohio, to mark the part Lancashire played in the [[cotton famine]] and [[American Civil War]] of 1861–1865.<ref name="PSGM">{{cite book |last1=Cocks |first1=Harry |last2=Wyke |first2=Terry |title=Public Sculpture of Greater Manchester |url=https://archive.org/details/publicsculptureg00wyke |url-access=limited |series=Public Sculpture of Britain |publisher=Liverpool University Press |location=Liverpool |year=2004 |pages=[https://archive.org/details/publicsculptureg00wyke/page/n30 11]–27, 88–92, 111–121, 123–5, 130–2 |isbn=0-85323-567-8}}</ref> A [[Concorde]] is on display near Manchester Airport.
+
+Manchester has six designated [[local nature reserve]]s: [[Chorlton Water Park]], Blackley Forest, Clayton Vale and Chorlton Ees, Ivy Green, [[Boggart Hole Clough]] and [[Highfield Country Park]].<ref>{{cite web |url=http://www.wildaboutmanchester.info/www/index.php/news/3-archive-news/116-local-nature-reserve-status-for-two-new-sites |title= Local nature Reserves |publisher= Manchester City Council |access-date=27 January 2011 |archive-url=https://web.archive.org/web/20140709132101/http://www.wildaboutmanchester.info/www/index.php/news/3-archive-news/116-local-nature-reserve-status-for-two-new-sites |archive-date=9 July 2014 |url-status=live}}</ref>
+
+==Transport==
+{{Main|Transport in Manchester}}
+{{See also|Transport for Greater Manchester}}
+[[File:Public Transport in Greater Manchester.png|thumb|upright=1.2|Map of tram lines, railways and main bus routes in Greater Manchester]]
+
+===Rail===
+[[Manchester Liverpool Road railway station|Manchester Liverpool Road]] was the world's first purpose-built passenger and goods railway station<ref>{{cite web |url=https://www.bbc.co.uk/ahistoryoftheworld/objects/aGqH_KJZSq6XUSo3q5UdEw |title=A History of the World: Liverpool Road Station sundial |publisher=BBC |access-date=9 August 2014 |archive-url=https://web.archive.org/web/20140802230037/http://www.bbc.co.uk/ahistoryoftheworld/objects/aGqH_KJZSq6XUSo3q5UdEw |archive-date=2 August 2014 |url-status=live }}</ref> and served as the Manchester terminus on the [[Liverpool & Manchester Railway]] – the world's first [[Inter-city rail|inter-city]] passenger railway. It is still extant and its buildings form part of the [[Science & Industry Museum]].
+
+[[File:Piccadilly Station Manchester - geograph.org.uk - 692981.jpg|thumb|[[Manchester Piccadilly railway station]], the busiest of the four major railway stations in the [[Manchester station group]] with over 32 million passengers using the station in 2019/20<ref name=ORR/>]]
+Two of the city's four main line termini did not survive the 1960s: [[Manchester Central railway station|Manchester Central]] and [[Manchester Exchange railway station|Manchester Exchange]] each closed in 1969. In addition, [[Manchester Mayfield railway station|Manchester Mayfield station]] closed to passenger services in 1960; its buildings and platforms are still extant, next to [[Manchester Piccadilly railway station|Piccadilly station]], but are due to be redeveloped in the 2020s.
+
+Today, the city is well served by its rail network although it is now working to capacity,<ref>{{Cite news |title=Extra track suggested to ease Manchester's rail bottlenecks |url=http://www.ft.com/cms/s/eef5e63a-1b62-11df-838f-00144feab49a,Authorised=false.html?_i_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2Feef5e63a-1b62-11df-838f-00144feab49a.html%3Fsiteedition%3Duk&siteedition=uk&_i_referer=#axzz2jybR0Zv4#axzz1ox1RWxvB |work=Financial Times |date=17 February 2010 |access-date=13 March 2012 |url-status=dead |archive-url=https://web.archive.org/web/20140116173005/http://www.ft.com/cms/s/eef5e63a-1b62-11df-838f-00144feab49a,Authorised=false.html?_i_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2Feef5e63a-1b62-11df-838f-00144feab49a.html%3Fsiteedition%3Duk&siteedition=uk&_i_referer=#axzz2jybR0Zv4 |archive-date=16 January 2014 }}</ref> and is at the centre of an extensive county-wide railway network, including the [[West Coast Main Line]], with two mainline stations: [[Manchester Piccadilly railway station|Manchester Piccadilly]] and [[Manchester Victoria railway station|Manchester Victoria]]. The [[Manchester station group]] – comprising Manchester Piccadilly, Manchester Victoria, [[Manchester Oxford Road railway station|Manchester Oxford Road]] and [[Deansgate railway station|Deansgate]] – is the third busiest in the United Kingdom, with 44.9&nbsp;million passengers recorded in 2017/2018.<ref name="ORR">{{cite web |url=http://orr.gov.uk/statistics/published-stats/station-usage-estimates |title=Estimates of station usage |publisher=[[Office of Rail & Road|Office of Rail Regulation]]|date=22 April 2014 |access-date=9 August 2014 |archive-url=https://web.archive.org/web/20170625013846/http://www.orr.gov.uk/statistics/published-stats/station-usage-estimates |archive-date=25 June 2017 |url-status=dead }}</ref> The [[High Speed 2]] link to [[Birmingham Curzon Street railway station|Birmingham]] and [[Euston railway station|London]] is also planned, which if built will include a {{Convert|12|km|abbr=on|0}} tunnel under Manchester on the final approach into an upgraded Piccadilly station.<ref>{{cite news |url=https://www.bbc.co.uk/news/uk-england-manchester-21230543 |title=HS2 to enter Manchester via tunnel under city |work=BBC News |date=28 January 2013 |access-date=9 August 2014 |archive-url=https://web.archive.org/web/20150924131121/http://www.bbc.co.uk/news/uk-england-manchester-21230543 |archive-date=24 September 2015 |url-status=live}}</ref>
+
+Recent improvements in Manchester as part of the [[Northern Hub]] in the 2010s have been numerous electrification schemes into and through Manchester, redevelopment of Victoria station and construction of the [[Ordsall Chord]] directly linking Victoria and Piccadilly.<ref>{{cite journal |last=Topham |first=Gwyn |url=https://www.theguardian.com/uk-news/2014/feb/07/george-osborne-northern-hub-rail-project |title=George Osborne launches £600m Northern Hub rail project |journal=The Guardian |date=7 February 2014 |access-date=9 August 2014 |archive-url=https://web.archive.org/web/20141009134654/http://www.theguardian.com/uk-news/2014/feb/07/george-osborne-northern-hub-rail-project |archive-date=9 October 2014 |url-status=live}}</ref> Work on two new through platforms at Piccadilly and an extensive upgrade at Oxford Road had not commenced as of 2019. Manchester city centre, specifically the [[Castlefield Corridor]], suffers from constrained rail capacity that frequently leads to delays and cancellations – a 2018 report found that all three major Manchester stations are among the top ten worst stations in the United Kingdom for punctuality, with Oxford Road deemed the worst in the country.<ref>{{Cite web |title=UK's railway stations with most train delays revealed |url=https://www.bbc.co.uk/news/uk-england-45864908 |work=BBC News |date=16 October 2018 |access-date=26 April 2019 |archive-url=https://web.archive.org/web/20190517223302/https://www.bbc.co.uk/news/uk-england-45864908 |archive-date=17 May 2019 |url-status=live}}</ref>
+
+===Metrolink (tram)===
+{{Main|Manchester Metrolink}}
+[[File:Two M5000 trams passing.jpg|thumb|[[Manchester Metrolink]] is the [[Transport in the United Kingdom#Trams and light rail|largest tram system in the UK]], with a total route length of {{convert|57|mi|km}}.<ref>{{cite web |title=New Metrolink line to Wythenshawe and Manchester Airport to open on November 3 – a year ahead of schedule |url=http://www.manchestereveningnews.co.uk/news/greater-manchester-news/new-metrolink-line-wythenshawe-manchester-7927130 |newspaper=Manchester Evening News |date=13 October 2014 |access-date=2 November 2014 |url-status=dead |archive-url=https://web.archive.org/web/20141018021056/http://www.manchestereveningnews.co.uk/news/greater-manchester-news/new-metrolink-line-wythenshawe-manchester-7927130 |archive-date=18 October 2014 }}</ref>]]
+Manchester became the first city in the UK to acquire a modern [[light rail]] tram system when the [[Manchester Metrolink]] opened in 1992. In 2016–2017, 37.8&nbsp;million passenger journeys were made on the system.<ref name="16/17DfTstats">{{cite web |title=Light Rail and Tram Statistics: England 2016/17 |url=https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/623366/light-rail-tram-ending-march-2017.pdf |publisher=Department for Transport |access-date=30 June 2017 |archive-url=https://web.archive.org/web/20170709131401/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/623366/light-rail-tram-ending-march-2017.pdf |archive-date=9 July 2017 |url-status=live}}</ref> The present system mostly runs on former commuter rail lines converted for light rail use, and crosses the city centre via on-street tram lines.<ref name="metrolink-history">{{cite web |url=http://www.metrolink.co.uk/pdf/past_present_future.pdf |title=Metrolink History |date=9 March 2004 |publisher=Manchester Metrolink |access-date=21 March 2009 |archive-url=https://web.archive.org/web/20090325191627/http://www.metrolink.co.uk/pdf/past_present_future.pdf |archive-date=25 March 2009}}</ref> The network consists of eight lines with [[List of Manchester Metrolink tram stops|99 stops]].<ref name="RTC">{{cite news |url=http://www.manchestereveningnews.co.uk/news/greater-manchester-news/rochdales-first-passenger-tram-80-6897266 |work=Manchester Evening News |date=31 March 2014 |access-date=31 March 2014 |title=Passenger trams start running to and from Rochdale town centre for first time in 80 years |first=John |last=Scheerhout |archive-url=https://web.archive.org/web/20140407072444/http://www.manchestereveningnews.co.uk/news/greater-manchester-news/rochdales-first-passenger-tram-80-6897266 |archive-date=7 April 2014 |url-status=live}}</ref> A new line to the [[Trafford Centre tram stop|Trafford Centre]] opened in 2020.<ref>[https://www.bbc.com/news/uk-england-manchester-37645935 "Metrolink's Trafford Park £350m Tramline Approved"] {{Webarchive|url=https://web.archive.org/web/20181129101729/https://www.bbc.com/news/uk-england-manchester-37645935 |date=29 November 2018 }}. ''BBC News''. 13 October 2016.</ref><ref>{{cite web |url=http://www.railtechnologymagazine.com/Rail-News/enabling-works-begin-on-new-trafford-park-metrolink-line |title=Enabling works begin on new Trafford Park Metrolink line |access-date=20 August 2017 |archive-url=https://web.archive.org/web/20170820163108/http://www.railtechnologymagazine.com/Rail-News/enabling-works-begin-on-new-trafford-park-metrolink-line |archive-date=20 August 2017 |url-status=live }}</ref> Manchester city centre is also serviced by over a dozen heavy and light rail-based park and ride sites.<ref name="Park & Ride">{{cite web |url=http://www.tfgm.com/journey_planning/ParkandRide/Pages/default.aspx |title=TFGM Park & Ride – Stations and Stops |publisher=[[Transport for Greater Manchester]] |year=2007 |access-date=8 November 2013|url-status=dead |archive-url=https://web.archive.org/web/20131022114452/http://www.tfgm.com/journey_planning/ParkandRide/Pages/default.aspx|archive-date=22 October 2013}}</ref>
+
+===Bus===
+[[File:Manchester free bus.jpg|thumb|Free buses operate on three [[Manchester Metroshuttle]] routes around Manchester city centre.]]
+The city has one of the most extensive bus networks outside London, with over 50 bus companies operating in the [[Greater Manchester]] region radiating from the city. In 2011, 80 per cent of public transport journeys in Greater Manchester were made by bus, amounting to 220&nbsp;million passenger journeys each year.<ref name="2012 Annual Report" /> After [[Bus deregulation in the United Kingdom|deregulation]] in 1986, the bus system was taken over by [[GM Buses]], which after privatisation was split into GM Buses North and GM Buses South. Later these were taken over by [[First Greater Manchester]] and [[Stagecoach Manchester]]. Much of the First Greater Manchester business was sold to [[Diamond North West]] and [[Go North West]] in 2019.<ref>{{cite web |url=http://www.gmpte.com/upload/library/t&s01_02.pdf |archive-url=https://web.archive.org/web/20090327122708/http://www.gmpte.com/upload/library/t%26s01_02.pdf |archive-date=27 March 2009 |title=GMPTE Trends and Statistics 2001/2002 |access-date=19 September 2007 |year=2002  |publisher=[[Greater Manchester Passenger Transport Executive]]|pages=28–9 |url-status=dead }}</ref> Go North West operate a three-route [[Zero-fare public transport|zero-fare]] [[Manchester Metroshuttle]], which carries 2.8&nbsp;million commuters a year around Manchester's business districts.<ref name="2012 Annual Report">{{cite web |url=http://www.tfgm.com/Corporate/Documents/AnnualReportsBusinessPerformancePlans/11-0909-Ann_Performance-Report-AW.pdf |title=2011/2012 Annual Report |publisher=Transport for Greater Manchester |date=2012 |pages=10, 16 |access-date=9 August 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140302015458/http://www.tfgm.com/Corporate/Documents/AnnualReportsBusinessPerformancePlans/11-0909-Ann_Performance-Report-AW.pdf |archive-date=2 March 2014 }}</ref><ref>{{cite news |first=Clarissa |last=Satchell |title=Free buses on another city route |url=http://www.manchestereveningnews.co.uk/news/greater-manchester-news/free-buses-on-another-city-route-1085213 |work=[[Manchester Evening News]] |publisher=M.E.N. media |date=22 September 2005 |access-date=18 September 2007 |url-status=dead |archive-url=https://web.archive.org/web/20131026062602/http://www.manchestereveningnews.co.uk/news/greater-manchester-news/free-buses-on-another-city-route-1085213 |archive-date=26 October 2013 }}</ref><ref>{{Cite web |url=https://www.tfgm.com/public-transport/bus/free-bus |title=Free bus in Manchester |archive-url=https://web.archive.org/web/20190714144636/https://tfgm.com/public-transport/bus/free-bus|archive-date=14 July 2019 |url-status=live}}</ref> Stagecoach Manchester is the [[Stagecoach Group]]'s largest subsidiary and operates around 690 buses.<ref>{{cite web |title=Stagecoach welcomes government funding for Greater Manchester transport strategy |url=http://www.stagecoach.com/media/news-releases/2008/2008-06-09.aspx |publisher=stagecoachplc.co.uk |date=9 June 2008 |access-date=26 September 2010 |archive-url=https://web.archive.org/web/20131020194124/http://www.stagecoach.com/media/news-releases/2008/2008-06-09.aspx |archive-date=20 October 2013 |url-status=live}}</ref>
+
+===Air===
+[[File:Manchester Airport.jpg|thumb|[[Manchester Airport]] from above.]]
+{{Main|Manchester Airport}}
+[[Manchester Airport]] serves Manchester, [[Northern England]] and [[North Wales]]. The airport is the [[Busiest airports in the United Kingdom by total passenger traffic#2010 / 2011 data|third busiest in the United Kingdom]], with [[Busiest airports in the United Kingdom by total passenger traffic#2012 / 2013 data|over double the number of annual passengers]] of the next busiest non-London airport.<ref name="caa1990">{{cite web |url=http://www.caa.co.uk/Data-and-analysis/UK-aviation-market/Airports/Datasets/UK-Airport-data/Airport-data-1990-onwards/ |title=CAA Airport Data 1990-2014 |website=caa.co.uk |publisher=UK Civil Aviation Authority |access-date=13 March 2017}}</ref> Services cover many destinations in Europe, North America, the [[Caribbean]], Africa, the Middle East, and Asia (with more destinations from Manchester than any other airport in Britain).<ref>{{cite news |first=James |last=Wilson |title=A busy hub of connectivity |work=[[Financial Times]] |publisher=The Financial Times Limited |date=26 April 2007}}</ref> A second runway was opened in 2001 and there have been continued terminal improvements. The airport has the highest rating available: "''Category 10''", encompassing an elite group of airports able to handle "''Code F''" aircraft, including the [[Airbus A380]] and [[Boeing 747-8]].<ref>{{cite web |title=Manchester Airport is Officially 'A380 Ready' |url=http://www.manchesterairport.co.uk/manweb.nsf/Content/A380Ready |archive-url=https://web.archive.org/web/20100821061436/http://www.manchesterairport.co.uk/manweb.nsf/Content/A380Ready |archive-date=21 August 2010 |publisher=manchesterairport.co.uk |date=18 August 2010 |access-date=1 September 2010}}</ref> From September 2010 the airport became one of only 17 airports in the world and the only UK airport other than [[Heathrow Airport]] and [[Gatwick Airport]] to operate the Airbus A380.<ref>{{cite news |title=Giant Airbus A380 lands at Manchester Airport |url=https://www.bbc.co.uk/news/uk-england-manchester-11148598 |work=BBC News |date=1 September 2010 |access-date=9 August 2014 |archive-url=https://web.archive.org/web/20141017075939/http://www.bbc.co.uk/news/uk-england-manchester-11148598 |archive-date=17 October 2014 |url-status=live }}</ref>
+
+A smaller [[City Airport Manchester]] exists {{Convert|9.3|km|abbr=on|0}} to the west of Manchester city centre. It was Manchester's first municipal airport and became the site of the first [[air traffic control]] tower in the UK, and the first municipal airfield in the UK to be licensed by the [[Air Ministry]].<ref name="CAMHIST">{{cite web |url=http://www.cityairportandheliport.com/about-us/airport-history |title=Airport History: City Airport and Heliport |publisher=City Airport Ltd |access-date=9 August 2014 |archive-url=https://web.archive.org/web/20140625164943/http://cityairportandheliport.com/about-us/airport-history |archive-date=25 June 2014 |url-status=dead}}</ref> Today, private [[Air charter|charter flights]] and [[general aviation]] use City. It also has a [[Flight training|flight school]],<ref>{{cite web |url=http://www.cityairportandheliport.com/learn-to-fly/where-to-start |title=Where to start: City Airport and Heliport |publisher=City Airport Ltd |access-date=9 August 2014 |archive-url=https://web.archive.org/web/20140809033457/http://cityairportandheliport.com/learn-to-fly/where-to-start |archive-date=9 August 2014 |url-status=live }}</ref> and both the [[Greater Manchester Police#Air Support Unit|Greater Manchester Police Air Support Unit]] and the [[North West Air Ambulance]] have helicopters based there.
+
+===Canal===
+An extensive canal network, including the [[Manchester Ship Canal]], was built to carry freight from the Industrial Revolution onward; the canals are still maintained, though now largely repurposed for leisure use.<ref>{{cite web |url=https://www.waterways.org.uk/waterways/canals_rivers/manchester_ship_canal/manchester_ship_canal |title=Manchester Ship Canal |access-date=16 March 2015 |publisher=Inland Waterways Association |archive-url=https://web.archive.org/web/20150402110941/https://www.waterways.org.uk/waterways/canals_rivers/manchester_ship_canal/manchester_ship_canal |archive-date=2 April 2015 |url-status=live }}<br />{{cite news |first=Nigel |last=Pivaro |title=Ship canal cruising is all the rage |url=http://www.manchestereveningnews.co.uk/news/greater-manchester-news/ship-canal-cruising-is-all-the-rage-1045298 |work=[[Manchester Evening News]] |publisher=M.E.N. media |date=20 October 2006 |access-date=19 September 2007 |url-status=dead |archive-url=https://web.archive.org/web/20131110100910/http://www.manchestereveningnews.co.uk/news/greater-manchester-news/ship-canal-cruising-is-all-the-rage-1045298 |archive-date=10 November 2013}}</ref> In 2012, plans were approved to introduce a [[water taxi]] service between Manchester city centre and [[MediaCityUK]] at [[Salford Quays]].<ref>{{cite web |url=http://www.manchesterwatertaxis.com/links/ |title=Links |publisher=Manchester Water Taxis |access-date=9 August 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140422233226/http://www.manchesterwatertaxis.com/links/ |archive-date=22 April 2014 }}</ref> It ceased to operate in June 2018, citing poor infrastructure.<ref>{{cite web |url=https://www.manchestereveningnews.co.uk/whats-on/whats-on-news/waxi-manchester-water-taxi-closed-14815702.amp |title=Manchester's Waxi water taxi service runs aground after two years – and the boats are being sold off too |newspaper=Manchester Evening News |date=22 June 2018 |first=Emily |last=Heward |access-date=7 July 2019 |archive-url=https://web.archive.org/web/20190707222754/https://www.manchestereveningnews.co.uk/whats-on/whats-on-news/waxi-manchester-water-taxi-closed-14815702.amp |archive-date=7 July 2019 |url-status=live}}</ref>
+
+===Cycling===
+{{Further|Cycling in Greater Manchester}}
+Cycling for transportation and leisure enjoys popularity in Manchester and the city also plays a major role in British cycle racing.<ref>{{cite news |title=Census shows more people in Manchester are cycling to work |url=http://www.manchestereveningnews.co.uk/news/greater-manchester-news/census-shows-more-manchester-people-7021775 |author=Charlotte Cox |date=2014-04-23 |publisher=Manchester Evening News |access-date=2016-02-16}}</ref><ref>{{cite web |url=http://www.manchestereveningnews.co.uk/whats-on/whats-on-news/rapha-cycle-club-opens-manchester-7842026 |title=Rapha Cycle Club opens in Manchester |publisher=Manchester Evening News |quote=There’s a rich cycling heritage here, and Manchester is the home of British cycling. |date=2014-09-26 |author=Justin Connolly |access-date=2016-02-16}}</ref>
+
+==Culture==
+{{Main|Culture of Manchester}}
+{{See also|List of people from Manchester}}
+
+===Music===
+{{see also|Popular music of Manchester|List of music artists and bands from Manchester|Madchester}}
+[[File:Oasis Liam and Noel.jpg|thumb|The Gallagher brothers of [[Oasis (band)|Oasis]]]]
+Bands that have emerged from the Manchester music scene include [[Van der Graaf Generator]], [[Oasis (band)|Oasis]], [[The Smiths]], [[Joy Division]] and its successor group [[New Order (band)|New Order]], [[Buzzcocks]], [[The Stone Roses]], [[The Fall (band)|The Fall]], [[The Durutti Column]], [[10cc]], [[Godley & Creme]], [[The Verve]], [[Elbow (band)|Elbow]], [[Doves (band)|Doves]], [[The Charlatans (English band)|The Charlatans]], [[M People]], [[The 1975]], [[Simply Red]], [[Take That]], [[Dutch Uncles]], [[Everything Everything]], [[Pale Waves]] and [[The Outfield]]. Manchester was credited as the main driving force behind British [[Indie music|indie]] music of the 1980s led by The Smiths, later including The Stone Roses, [[Happy Mondays]], [[Inspiral Carpets]], and [[James (band)|James]]. The later groups came from what became known as the "[[Madchester]]" scene that also centred on [[The Haçienda]] nightclub developed by the founder of [[Factory Records]], [[Tony Wilson]]. Although from southern England, [[The Chemical Brothers]] subsequently formed in Manchester.<ref name="ChemBros">{{cite web |url=http://www.manchester.ac.uk/undergraduate/ourreputation/distinguishedalumni/thechemicalbrothers/ |archive-url=https://web.archive.org/web/20090108091553/http://www.manchester.ac.uk/undergraduate/ourreputation/distinguishedalumni/thechemicalbrothers/ |title=The Chemical Brothers – Alumni |access-date=12 November 2007 |archive-date=8 January 2009 |publisher=[[University of Manchester]] |year=2005}}</ref> Former Smiths frontman [[Morrissey]], whose lyrics often refer to Manchester locations and culture, later found international success as a solo artist. Previously, notable Manchester acts of the 1960s include [[The Hollies]], [[Herman's Hermits]], and [[Davy Jones (musician)|Davy Jones]] of the [[Monkees]] (famed in the mid-1960s for their albums and their American TV show), and the earlier [[Bee Gees]], who grew up in [[Chorlton-cum-Hardy|Chorlton]].<ref name="BeeGees">{{cite news |url=http://news.bbc.co.uk/2/hi/uk_news/england/manchester/3705559.stm |title=Bee Gees go back to their roots|access-date=12 November 2007 |work=BBC News |date=12 May 2004 |archive-url=https://web.archive.org/web/20040614061444/http://news.bbc.co.uk/2/hi/uk_news/england/manchester/3705559.stm|archive-date=14 June 2004 |url-status=live}}</ref> Another notable contemporary band from near Manchester is [[The Courteeners]] consisting of [[Liam Fray]] and four close friends. Singer-songwriter [[Ren Harvieu]] is also from Greater Manchester.
+
+[[File:MEN Arena, Manchester (7263927380).jpg|thumb|left|The [[Manchester Arena]], the city's premier indoor multi-use venue and one of the [[List of indoor arenas in Europe|largest purpose-built arenas]] in Europe]]
+Its main pop music venue is [[Manchester Arena]], voted "International Venue of the Year" in 2007.<ref name="MEN">{{cite web |url=http://www.pollstaronline.com/PCIA-Static/2001winners.htm |archive-url=https://web.archive.org/web/20130112222758/http://www.pollstaronline.com/PCIA-Static/2001winners.htm |archive-date=12 January 2013 |title=Pollstar Concert Industry Awards Winners Archives |access-date=24 June 2007 |publisher=Pollstar Online |year=2001}}<br />{{cite news |first=Rachel |last=Brown |title=M.E.N Arena's world's top venue |url=http://www.manchestereveningnews.co.uk/whats-on/find-things-to-do/arenas-worlds-top-venue-1000549 |archive-url=https://web.archive.org/web/20131026062551/http://www.manchestereveningnews.co.uk/whats-on/find-things-to-do/arenas-worlds-top-venue-1000549 |archive-date=26 October 2013 |work=[[Manchester Evening News]] |publisher=M.E.N. Media |access-date=12 August 2007 |quote=The M.E.N. Arena is the top-selling venue in the world |date=10 August 2007}}</ref> With over 21,000 seats, it is the largest arena of its type in Europe.<ref name="MEN"/> In terms of concertgoers, it is the busiest indoor arena in the world, ahead of [[Madison Square Garden]] in New York and [[The O2 Arena]] in London, which are second and third busiest.<ref>{{cite web |title=M.E.N Named Most Popular Entertainment Venue on Planet |url=http://www.men-arena.com/about/?page_id=1412/ |access-date=8 May 2008 |archive-url=https://web.archive.org/web/20081206040846/http://www.men-arena.com/about/?page_id=1412%2F |archive-date=6 December 2008 |url-status=dead }}</ref> Other venues include [[Manchester Apollo]], [[Albert Hall, Manchester|Albert Hall]], [[O2 Victoria Warehouse|Victoria Warehouse]] and the [[Manchester Academy]]. Smaller venues include the [[Band on the Wall]], the Night and Day Café,<ref>{{cite web |url=http://www.nightnday.org/ |title=Night & Day Café |publisher=nightnday.org |access-date=15 July 2011 |archive-url=https://web.archive.org/web/20110727123619/http://www.nightnday.org/ |archive-date=27 July 2011 |url-status=live}}</ref> the Ruby Lounge,<ref>{{cite web |url=http://www.therubylounge.com/index.php/History/ |title=The Ruby Lounge: History |publisher=therubylounge.org |access-date=15 July 2011 |archive-url=https://web.archive.org/web/20120324190503/http://www.therubylounge.com/index.php/history |archive-date=24 March 2012 |url-status=dead }}</ref> and The Deaf Institute.<ref>{{cite web |url=http://thedeafinstitute.co.uk/ |title=Trof presents the Deaf Institute: café, bar and music hall |publisher=thedeafinstitute.co.uk |access-date=15 July 2011 |archive-url=https://web.archive.org/web/20110716200811/http://www.thedeafinstitute.co.uk/ |archive-date=16 July 2011 |url-status=live }}</ref> Manchester also has the most [[Independent music|indie]] and rock music events outside London.<ref>{{cite web |url=https://www.tickx.co.uk/article/1498/manchester-the-uks-rock-and-indie-music-capital/ |title=Manchester: the UK's rock and indie music capital |publisher=tickx.co.uk |access-date=6 November 2018 |archive-url=https://web.archive.org/web/20181106171544/https://www.tickx.co.uk/article/1498/manchester-the-uks-rock-and-indie-music-capital/ |archive-date=6 November 2018 |url-status=live}}</ref>
+
+Manchester has two [[symphony orchestra]]s, the [[Hallé]] and the [[BBC Philharmonic]], and a [[chamber orchestra]], the Manchester Camerata. In the 1950s, the city was home to a so-called "[[New Music Manchester|Manchester School]]" of classical composers, which was composed of [[Harrison Birtwistle]], [[Peter Maxwell Davies]], David Ellis and [[Alexander Goehr]]. Manchester is a centre for musical education: the [[Royal Northern College of Music]] and [[Chetham's School of Music]].<ref>{{cite book |last=Redhead |first=Brian |title=Manchester: a Celebration |author-link=Brian Redhead |publisher=Andre Deutsch |location=London |year=1993 |pages=60–61 |isbn=0-233-98816-5}}</ref> Forerunners of the RNCM were the [[Northern School of Music]] (founded 1920) and the [[Royal Manchester College of Music]] (founded 1893), which merged in 1973. One of the earliest instructors and classical music pianists/conductors at the RNCM, shortly after its founding, was the Russian-born [[Arthur Friedheim]], (1859–1932), who later had the music library at the famed [[Peabody Institute]] conservatory of music in [[Baltimore]], Maryland, named after him. The main classical music venue was the [[Free Trade Hall]] on Peter Street until the opening in 1996 of the 2,500 seat [[Bridgewater Hall]].<ref>{{cite news |title=Good Venue Guide; 28 – Bridgewater Hall, Manchester |work=[[Independent on Sunday]] |date=12 April 1998}}</ref>
+
+[[Brass band (British style)|Brass band]] music, a tradition in the north of England, is important to Manchester's musical heritage;<ref name="mif-deller">{{cite web |url=http://www.mif.co.uk/event/procession |title=Procession – Jeremy Deller |date=July 2009 |publisher=Manchester International Festival |access-date=24 July 2009 |archive-url=https://web.archive.org/web/20101129212942/http://www.mif.co.uk/event/procession/ |archive-date=29 November 2010 |url-status=dead }}</ref> some of the UK's leading bands, such as the [[Co-operative wholesale society|CWS]] Manchester Band and the [[Fairey Band]], are from Manchester and surrounding areas, and the [[Whit Friday]] brass-band contest takes place annually in the neighbouring areas of [[Saddleworth]] and [[Tameside]].
+
+===Performing arts===
+[[File:Opera House (Manchester).jpg|thumb|upright|The [[Manchester Opera House|Opera House]], one of Manchester's largest theatre venues]]
+Manchester has a thriving theatre, opera and dance scene, with a number of large performance venues, including [[Manchester Opera House]], which feature large-scale touring shows and West End productions; the [[Palace Theatre, Manchester|Palace Theatre]]; and the [[Royal Exchange Theatre, Manchester|Royal Exchange Theatre]] in Manchester's former cotton exchange, which is the largest [[theatre in the round]] in the UK.
+
+Smaller venues include the [[Contact Theatre]] and Z-arts in Hulme. The [[Dancehouse]] on Oxford Road is dedicated to dance productions.<ref>{{cite web |url=http://thedancehouse.co.uk/about_us/the_dancehouse_theatre.asp |archive-url=https://web.archive.org/web/20090217073935/http://thedancehouse.co.uk/about_us/the_dancehouse_theatre.asp |archive-date=17 February 2009 |title=The Dancehouse Theatre |access-date=7 February 2009 |publisher=thedancehouse.co.uk}}</ref> In 2014, [[HOME (Manchester)|HOME]], a new custom-built arts complex opened. Housing two theatre spaces, five cinemas and an art exhibition space, it replaced the [[Cornerhouse]] and The [[Library Theatre]].<ref>{{cite news |last=Linton |first=Deborah |url=http://www.manchestereveningnews.co.uk/news/greater-manchester-news/new-home-for-cornerhouse-and-library-theatre-903674 |title=New home for Cornerhouse and Library Theatre in £19m arts centre plan |work=Manchester Evening News |date=24 November 2010 |url-status=dead |archive-url=https://web.archive.org/web/20160203021952/http://www.manchestereveningnews.co.uk/news/greater-manchester-news/new-home-for-cornerhouse-and-library-theatre-903674 |archive-date=3 February 2016}}</ref>
+
+Since 2007 the city has hosted the [[Manchester International Festival]], a biennial international [[arts festival]] with a focus on original work, which has included major new commissions by artists, including [[Bjork]]. A government statement in 2014 announced a £78&nbsp;million grant for a new "large-scale, ultra-flexible arts space" for the city.<ref name="FactoryTheatre">{{cite news |url=https://www.theguardian.com/commentisfree/2014/dec/05/guardian-view-manchester-cultural-space-one-kind-factory-another |title=The Guardian view on Manchester's new cultural space: from one kind of factory to another |work=The Guardian|date=5 December 2014 |access-date=13 January 2015 |archive-url=https://web.archive.org/web/20141215124354/http://www.theguardian.com/commentisfree/2014/dec/05/guardian-view-manchester-cultural-space-one-kind-factory-another |archive-date=15 December 2014 |url-status=live}}</ref> Later the council stated it had secured a further £32&nbsp;million.<ref name="BBC News2">{{cite news |last=Youngs |first=Ian |url=https://www.bbc.co.uk/news/uk-england-manchester-33621486 |work=BBC |title=The Factory Manchester £110m arts venue approved |date=29 July 2015 |access-date=30 July 2015 |archive-url=https://web.archive.org/web/20150729100459/http://www.bbc.co.uk/news/uk-england-manchester-33621486 |archive-date=29 July 2015 |url-status=live }}</ref> The £110&nbsp;million venue was confirmed in July 2016.<ref name="MCC_Exec270716">{{Cite report |author= Manchester City Council |author-link=Manchester City Council |date=July 2016 |title=Executive meeting: 16. Updated Draft St Johns Strategic regeneration framework and Factory Manchester |url=http://www.manchester.gov.uk/meetings/meeting/2619/executive |publisher=[[Manchester City Council]] |access-date=22 July 2016 |archive-url= https://web.archive.org/web/20160730123102/http://www.manchester.gov.uk/meetings/meeting/2619/executive |archive-date= 30 July 2016 |url-status=live}} [http://www.manchester.gov.uk/download/meetings/id/21265/16_updated_draft_st_johns_strategic_regeneration_framework_and_factory_manchester Pdf.] {{Webarchive |url=https://web.archive.org/web/20160801060020/http://www.manchester.gov.uk/download/meetings/id/21265/16_updated_draft_st_johns_strategic_regeneration_framework_and_factory_manchester |date=1 August 2016}}</ref>{{rp|13–14}} The theatre, to be called [[The Factory (Manchester)|The Factory]], after Manchester's [[Factory Records]], will provide a permanent home for the Manchester International Festival.<ref name="FactoryTheatre"/> It is due to open at the end of 2019.<ref name="MCC_Exec270716"/>{{rp|15}}
+
+===Museums and galleries===
+[[File:Manchester Art Gallery March 2010.jpg|thumb|left|Manchester Art Gallery]]
+Manchester's museums celebrate Manchester's Roman history, rich industrial heritage and its role in the [[Industrial Revolution]], the [[textile industry]], the Trade Union movement, [[women's suffrage]] and [[Association football|football]]. A reconstructed part of the Roman fort of Mamucium is open to the public in [[Castlefield]]. The [[Museum of Science and Industry (Manchester)|Science and Industry Museum]], housed in the former [[Liverpool Road railway station (Manchester)|Liverpool Road railway station]], has a large collection of [[steam locomotives]], industrial machinery, aircraft and a replica of the world's first stored computer program (known as the [[Manchester Baby]]).<ref name="mosi">{{cite web|title=Home|url=https://www.scienceandindustrymuseum.org.uk/|publisher=Science and Industry Museum}}</ref> The [[Museum of Transport in Manchester|Museum of Transport]] displays a collection of historic buses and trams.<ref name="gmts">{{cite web |url=http://www.gmts.co.uk/explore/vehicles.html |archive-url=https://web.archive.org/web/20100213222852/http://www.gmts.co.uk/explore/vehicles.html |archive-date=13 February 2010 |title=Vehicle Collection |year=2007 |publisher=Greater Manchester Museum of Transport |access-date=24 July 2009}}</ref> Trafford Park in the neighbouring borough of Trafford is home to [[Imperial War Museum North]].<ref name="iwm">{{cite web |url=http://www.iwm.org.uk/visits/iwm-north |work=iwm.org.uk |year=2013 |title=IWM North |author=[[Imperial War Museum]] |access-date=9 March 2013 |archive-url=https://web.archive.org/web/20130301015442/http://www.iwm.org.uk/visits/iwm-north |archive-date=1 March 2013 |url-status=live }}</ref> The [[Manchester Museum]] opened to the public in the 1880s, has notable [[Egyptology]] and [[natural history]] collections.<ref name="museum">{{cite web|url=http://www.museum.manchester.ac.uk/aboutus/history/ |title=The History of The Manchester Museum |publisher=University of Manchester |access-date=24 July 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090627082857/http://www.museum.manchester.ac.uk/aboutus/history/ |archive-date=27 June 2009 }}</ref>
+
+[[File:Shackleton AEW.JPG|thumb|The [[Museum of Science and Industry (Manchester)|Science and Industry Museum]]]]
+The municipally owned [[Manchester Art Gallery]] in Mosley Street houses a permanent collection of European painting and one of Britain's main collections of [[Pre-Raphaelite Brotherhood|Pre-Raphaelite]] paintings.<ref name="preraph1">{{cite web |url=http://www.culture24.org.uk/art/tra18176 |title=The Pre-Raphaelite Collections |last=Moss |first=Richard |date=17 October 2003 |publisher=24-Hour Museum |access-date=24 July 2009 |archive-url=https://web.archive.org/web/20120909020028/http://www.culture24.org.uk/art/tra18176 |archive-date=9 September 2012 |url-status=live}}</ref><ref name="preraph2">{{cite book |last=Morris |first=Edward |title=Public art collections in north-west England |publisher=Liverpool University Press |year=2001 |page=118 |isbn=0-85323-527-9}}</ref>
+
+In the south of the city, the [[Whitworth Art Gallery]] displays modern art, sculpture and textiles and was voted Museum of the Year in 2015.<ref name="whitworth">{{cite web |url=http://www.whitworth.manchester.ac.uk/collection/ |title=Collection |publisher=Whitworth Gallery |access-date=24 July 2009 |archive-url=https://web.archive.org/web/20090227113021/http://www.whitworth.manchester.ac.uk/collection/ |archive-date=27 February 2009 |url-status=dead }}</ref> Other exhibition spaces and museums in Manchester include [[Islington Mill]] in Salford, the [[National Football Museum]] at [[Urbis]], [[Castlefield Gallery]], the Manchester Costume Gallery at [[Platt Fields Park]], the [[People's History Museum]] and the [[Manchester Jewish Museum]].<ref name="virtualmanc">{{cite web |url=http://www.manchestereventsguide.co.uk/section/museums.html |title=Manchester Museums Guide |year=2009 |publisher=Virtual Manchester |access-date=24 July 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090530143656/http://www.manchestereventsguide.co.uk/section/museums.html |archive-date=30 May 2009}}</ref>
+
+The work of [[Stretford]]-born painter {{nowrap|[[L. S. Lowry]]}}, known for "matchstick" paintings of industrial Manchester and Salford, can be seen in the City and Whitworth Manchester galleries, and at [[the Lowry]] art centre in [[Salford Quays]] (in the neighbouring borough of Salford), which devotes a large permanent exhibition to his works.<ref name="lowry">{{cite web |url=http://www.thelowry.com/ls-lowry/the-ls-lowry-collection/ |title=The Lowry Collection |year=2009 |publisher=The Lowry |access-date=24 July 2009 |url-status=dead |archive-url=https://web.archive.org/web/20100330200042/http://www.thelowry.com/ls-lowry/the-ls-lowry-collection/ |archive-date=30 March 2010}}</ref>
+
+===Literature===
+[[File:Gaskell House Plymouth Grove front.JPG|thumb|left|upright=1.25|[[Gaskell House]], where Mrs Gaskell wrote most of her novels. The house is now a museum.]]
+Manchester is a [[UNESCO]] [[City of Literature]] known for a "radical literary history".<ref>{{cite news |last=Royle |first=Nicholas |url=https://www.theguardian.com/books/booksblog/2017/nov/02/a-new-chapter-begins-as-manchester-awarded-unesco-city-of-literature |title=A new chapter begins: Manchester named Unesco City of Literature |newspaper=[[The Guardian]] |date=2 November 2017 |access-date=12 November 2017 |archive-url=https://web.archive.org/web/20171112032227/https://www.theguardian.com/books/booksblog/2017/nov/02/a-new-chapter-begins-as-manchester-awarded-unesco-city-of-literature |archive-date=12 November 2017 |url-status=live}}</ref><ref>{{cite news |last=Atkinson |first=David |url=https://www.theguardian.com/travel/2014/oct/04/manchester-literature-festival-walking-tour|title=A literary tour of Manchester|newspaper=[[The Guardian]]|date=4 October 2014 |access-date=29 September 2015 |archive-url=https://web.archive.org/web/20151001002106/http://www.theguardian.com/travel/2014/oct/04/manchester-literature-festival-walking-tour |archive-date=1 October 2015 |url-status=live}}</ref> Manchester in the 19th century featured in works highlighting the changes that industrialisation had brought. They include [[Elizabeth Gaskell]]'s novel ''[[Mary Barton]]: A Tale of Manchester Life'' (1848),<ref>{{cite web |url=https://www.bbc.co.uk/history/historic_figures/gaskell_elizabeth.shtml |title=Elizabeth Gaskell (1810–1865) |publisher=BBC |access-date=2 November 2007 |archive-url=https://web.archive.org/web/20071205145033/http://www.bbc.co.uk/history/historic_figures/gaskell_elizabeth.shtml |archive-date=5 December 2007 |url-status=live}}</ref> and studies such as ''[[The Condition of the Working Class in England in 1844]]'' by [[Friedrich Engels]], while living and working here.<ref>{{cite book |title=The Condition of the Working-Class in England in 1844 |last=Engels |first=Fredrick |year=1892 |publisher=Swan Sonnenschein & Co |location=London |pages=45, 48–53 |url=http://www.fordham.edu/halsall/mod/1844engels.html |via=[[Internet History Sourcebooks Project]] |access-date=11 March 2015 |archive-url=https://web.archive.org/web/20141012013114/http://www.fordham.edu/halsall/mod/1844engels.html| archive-date=12 October 2014 |url-status=live}}</ref> Manchester was the meeting place of Engels and [[Karl Marx]]. The two began writing ''[[The Communist Manifesto]]'' in [[Chetham's Library]]<ref>{{cite book |author-link=Tristram Hunt |last1=Hunt |first1=Tristram |title=The Frock Coated Communist: A Revolutionary Life |date=2 June 2009 |publisher=Allen Lane |isbn=978-0713998528 |page=129 }}</ref> – founded in 1653 and claiming to be the oldest public library in the English-speaking world. Elsewhere in the city, the [[John Rylands Library]] holds an extensive collection of early printing. The [[Rylands Library Papyrus P52]], believed to be the earliest extant New Testament text, is on permanent display there.<ref>{{cite book |last1=Hodgson |first1=John |title=Riches of the Rylands: The Special Collections of the University of Manchester Library |date=30 November 2014 |publisher=Manchester University Press |location=Manchester |isbn=978-0719096358 |edition=1st}}</ref>
+
+{{wikisource|Letitia Elizabeth Landon (L. E. L.) in Fisher's Drawing Room Scrap Book, 1835/Manchester|'Manchester' a poetical illustration by L. E. L.}}
+[[Letitia Landon]]'s poetical illustration ''Manchester'' to a vista over the city by G. Pickering in Fisher's Drawing Room Scrap Book, 1835, records the rapid growth of the city and its cultural importance.<ref> {{cite book|last =Landon|first=Letitia Elizabeth|title=Fisher's Drawing Room Scrap Book, 1835|url=https://play.google.com/books/reader?id=Bzk_AAAAYAAJ&pg=GBS.PA34-IA4|section=picture and poetical illustration|year=1834|publisher=Fisher, Son & Co.}}</ref>
+
+[[Charles Dickens]] is reputed to have set his novel ''[[Hard Times (novel)|Hard Times]]'' in the city, and though partly modelled on [[Preston, Lancashire|Preston]], it shows the influence of his friend Mrs Gaskell.<ref>{{cite web |url=http://www.victorianweb.org/authors/dickens/hardtimes/pva27.html |title=Charles Dickens's Hard Times for These Times as an Industrial Novel |access-date=20 October 2013 |archive-url=https://web.archive.org/web/20141028194622/http://www.victorianweb.org/authors/dickens/hardtimes/pva27.html |archive-date=28 October 2014 |url-status=live}}</ref> Gaskell penned all her novels but ''Mary Barton'' at her home in [[84 Plymouth Grove]]. Often her house played host to influential authors: Dickens, [[Charlotte Brontë]], [[Harriet Beecher Stowe]] and [[Charles Eliot Norton]], for example.<ref name="Independent">{{cite news |last=Nurden |first=Robert |url=https://www.independent.co.uk/arts-entertainment/books/features/an-ending-dickens-would-have-liked-471564.html |archive-url=https://web.archive.org/web/20100514042503/http://www.independent.co.uk/arts-entertainment/books/features/an-ending-dickens-would-have-liked-471564.html |archive-date=14 May 2010 |title=An ending Dickens would have liked |work=The Independent |date=26 March 2006 |access-date=29 September 2015 |url-status=dead |location=London}}</ref> It is now open as a literary museum.
+
+[[Charlotte Brontë]] began writing her novel ''[[Jane Eyre]]'' in 1846, while staying at lodgings in [[Hulme]]. She was accompanying her father [[Patrick Brontë|Patrick]], who was convalescing in the city after cataract surgery.<ref>{{cite news |url=https://www.bbc.co.uk/manchester/content/articles/2006/10/10/101006_jane_eyre_feature.shtml |title=Jane Eyre: a Mancunian? |work=[[BBC]] |date=10 October 2006 |access-date=17 July 2018 |archive-url=https://web.archive.org/web/20150925071359/http://www.bbc.co.uk/manchester/content/articles/2006/10/10/101006_jane_eyre_feature.shtml |archive-date=25 September 2015 |url-status=live }}</ref> She probably envisioned Manchester Cathedral churchyard as the burial place for Jane's parents and the birthplace of Jane herself.<ref>Alexander, Christine, and Sara L. Pearson. ''Celebrating Charlotte Brontë: Transforming Life into Literature in'' Jane Eyre. Brontë Society, 2016, p. 173.</ref> Also associated with the city is the Victorian poet and novelist [[Isabella Banks]], famed for her 1876 novel ''[[The Manchester Man (novel)|The Manchester Man]]''. Anglo-American author [[Frances Hodgson Burnett]] was born in the city's [[Cheetham Hill]] district in 1849, and wrote much of her classic children's novel ''[[The Secret Garden]]'' while visiting nearby Salford's [[Buile Hill Park]].<ref>{{cite news |last=Keeling |first=Neal |url=http://www.manchestereveningnews.co.uk/news/greater-manchester-news/buile-hill-salford-hilton-hotel-7064923 |title=Derelict Buile Hill Mansion could be turned into Hilton hotel |work=[[Manchester Evening News]] |date=3 May 2014 |access-date=29 September 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150930025047/http://www.manchestereveningnews.co.uk/news/greater-manchester-news/buile-hill-salford-hilton-hotel-7064923 |archive-date=30 September 2015}}</ref>
+
+[[Anthony Burgess]] is among the 20th-century writers who made Manchester their home. He wrote here the [[dystopian]] satire ''[[A Clockwork Orange (novel)|A Clockwork Orange]]'' in 1962.<ref>See the essay "A Prophetic and Violent Masterpiece" by Theodore Dalrymple in "Not With a Bang but a Whimper" (2008) pp. 135–149.</ref> Dame [[Carol Ann Duffy]], [[Poet Laureate of the United Kingdom|Poet Laureate]] from 2009 to 2019, moved to the city in 1996 and lives in [[Didsbury|West Didsbury]].<ref>{{cite web |last=Forbes |first=Peter |url=https://www.theguardian.com/books/2002/aug/31/featuresreviews.guardianreview8 |title=Winning lines |work=[[The Guardian]] |date=31 August 2002 |access-date=29 September 2015 |archive-url=https://web.archive.org/web/20130213202550/http://www.guardian.co.uk/books/2002/aug/31/featuresreviews.guardianreview8|archive-date=13 February 2013 |url-status=live}}</ref>
+
+===Nightlife===
+The night-time economy of Manchester has expanded significantly since about 1993, with investment from breweries in bars, public houses and clubs, along with active support from the local authorities.<ref name=Park/> The more than 500 licensed premises<ref name=Hobbs/> in the city centre have a capacity to deal with more than {{Formatnum:250000}} visitors,<ref>{{cite web |last=Hobbs |first=Dick |url=http://www.esrc.ac.uk/_images/seven_deadly_sins_tcm8-13545.pdf |archive-url=https://web.archive.org/web/20120608000633/http://www.esrc.ac.uk/_images/seven_deadly_sins_tcm8-13545.pdf |archive-date=8 June 2012 |title=Seven Deadly Sins: A new look at society through an old lens |publisher=Economic and Social Research Council |pages=24–27 |access-date=27 November 2011}}</ref> with 110,000–130,000 people visiting on a typical weekend night,<ref name=Hobbs/> making Manchester the most popular city for events at 79 per thousand people.<ref>{{cite web |last1=Chadha |first1=Aayush |title=UK Event Data – In Review |url=https://www.tickx.co.uk/article/772 |website=www.tickx.co.uk |access-date=1 December 2017 |archive-url=https://web.archive.org/web/20171201232544/https://www.tickx.co.uk/article/772 |archive-date=1 December 2017 |url-status=live}}</ref> The night-time economy has a value of about £100&nbsp;million,<ref>{{cite news |url=http://news.bbc.co.uk/sport3/commonwealthgames2002/hi/features/newsid_1993000/1993489.stm |title=Guide to Manchester |work=BBC Sport |access-date=12 November 2007 |date=16 June 2002 |archive-url=https://web.archive.org/web/20031205185422/http://news.bbc.co.uk/sport3/commonwealthgames2002/hi/features/newsid_1993000/1993489.stm |archive-date=5 December 2003 |url-status=live }}</ref> and supports 12,000 jobs.<ref name="Hobbs">{{cite journal |last1=Hobbs |first1=Dick |last2=Winlow |first2=Simon |last3=Hadfield |first3=Philip |last4=Lister |first4=Stuart |year=2005 |title=Violent Hypocrisy: Governance and the Night-time Economy |journal=European Journal of Criminology |volume=2 |page=161 |doi=10.1177/1477370805050864 |issue=2|s2cid=145151649 }}</ref>
+
+The [[Madchester]] scene of the 1980s, from which groups including [[The Stone Roses]], the [[Happy Mondays]], [[Inspiral Carpets]], [[808 State]], [[James (band)|James]] and [[The Charlatans UK|The Charlatans]] emerged, was based around clubs such as [[The Haçienda]].<ref name="Hasl">{{cite book | last = Haslam | first = Dave | title = Manchester, England | publisher = Fourth Estate | location = New York | year = 2000 | isbn = 1-84115-146-7}}</ref> The period was the subject of the movie ''[[24 Hour Party People]]''.  Many of the big clubs suffered problems with organised crime at that time; Haslam describes one where staff were so completely intimidated that free admission and drinks were demanded (and given) and drugs were openly dealt.<ref name=Hasl/> Following a series of drug-related violent incidents, The Haçienda closed in 1997.<ref name=Park/>
+[[File:Canal street manchester.jpg|thumb|right|[[Canal Street (Manchester)|Canal Street]], one of Manchester's liveliest nightspots, part of the city's gay village]]
+
+===Gay village===
+[[Public house]]s in the [[Canal Street (Manchester)|Canal Street]] area have had an LGBTQ+ clientele since at least 1940,<ref name=Park/> and now form the centre of Manchester's LGBTQ+ community. Since the opening of new bars and clubs, the area attracts 20,000 visitors each weekend<ref name=Park/> and has hosted a popular festival, [[Manchester Pride]], each August since 1995.<ref>{{cite news |title=Europe's biggest gay festival to be held in UK |url=https://www.theguardian.com/uk/2003/feb/11/gayrights.world |work=[[The Guardian]] |publisher=M.E.N media |date=11 February 2003 |access-date=20 May 2007 |archive-url=https://web.archive.org/web/20130826221150/http://www.theguardian.com/uk/2003/feb/11/gayrights.world |archive-date=26 August 2013 |url-status=live}}</ref>
+
+==Education==
+{{See also|List of schools in Manchester}}
+[[File:Whitworth Hall Manchester.jpg|thumb|left|[[Whitworth Hall]] at the [[University of Manchester]]. With approximately 44,000 students, it is the second-largest university [[List of universities in the United Kingdom by enrolment|in the UK in terms of enrolment]].<ref name=":1">{{Cite web |title=Where do HE students study? {{!}} HESA |url=https://www.hesa.ac.uk/data-and-analysis/students/where-study |access-date=2022-05-12 |website=www.hesa.ac.uk}}</ref>]]
+There are three universities in the City of Manchester. The [[University of Manchester]], [[Manchester Metropolitan University]] and [[Royal Northern College of Music]]. The University of Manchester is the second largest full-time non-[[collegiate university]] in the United Kingdom,<ref name=":1" /> created in 2004 by the merger of [[Victoria University of Manchester]], founded in 1904, and [[UMIST]], founded in 1956,<ref name="Man Uni">{{cite web|url=http://www.manchester.ac.uk/aboutus/news/archive/list/item/?id=2462&year=2007&month=01|title=Manchester still top of the popularity league|access-date=6 October 2008|publisher=[[University of Manchester]]|date=18 January 2007|archive-url=https://web.archive.org/web/20081207071504/http://www.manchester.ac.uk/aboutus/news/archive/list/item/?id=2462&year=2007&month=01|archive-date=7 December 2008|url-status=live}}</ref> having developed from the [[Mechanics' Institute, Manchester|Mechanics' Institute]] founded, as indicated in the university's logo, in 1824. The University of Manchester includes the [[Manchester Business School]], which offered the first MBA course in the UK in 1965.<ref>Description of 'Manchester Business School, Manchester Business School Archive, 1965-2002. [[University of Manchester Library]]. GB 133 MBS' on the Archives Hub website, https://archiveshub.jisc.ac.uk/data/gb133-mbs, (date accessed :13/05/2022)</ref>
+
+[[Manchester Metropolitan University]] was formed as Manchester Polytechnic on the merger of three colleges in 1970. It gained university status in 1992, and in the same year absorbed Crewe and Alsager College of Higher Education in South Cheshire.<ref>{{cite book |last=Fowler |first=Alan |title=Many Arts, Many Skills: Origins of Manchester Metropolitan University |year=1994 |publisher=Manchester Metropolitan University |isbn=1-870355-05-9 |pages=115–20, 226–8}}</ref> The Cheshire campus permanently closed in 2019.<ref>{{Cite news |last=Ryan |first=Belinda |date=10 February 2017 |title=Crewe MMU campus will close in July 2019, university says |work=Crewe Chronicle |url=https://www.crewechronicle.co.uk/news/crewe-mmu-campus-close-july-12589102 |access-date=13 May 2022}}</ref> [[The University of Law]], the largest provider of vocation legal training in Europe, has a campus in the city.<ref>{{cite web |url=http://www.ibanet.org/Education_and_Internships/LLM/about_col.aspx |title=The College of Law |access-date=20 January 2013 |publisher=International Bar Association |archive-url=https://web.archive.org/web/20130819080107/http://www.ibanet.org/Education_and_Internships/LLM/about_col.aspx |archive-date=19 August 2013 |url-status=dead }}</ref>
+
+The three universities are grouped around Oxford Road on the southern side of the city centre, which forms Europe's largest urban higher-education precinct.<ref name="Higher edu">{{cite book |title=Pevsner Architectural Guides: Manchester |last=Hartwell |first=Clare |year=2001 |page=105 |publisher=Penguin Books |isbn=0-14-071131-7}}</ref> Together they have a combined population of over 80,000 students as of 2022.<ref name=":1" />
+
+One of Manchester's notable secondary schools is [[Manchester Grammar School]]. Established in 1515,<ref name="Man GS">{{cite book |title=Manchester: A History |last=Kidd |first=Alan |year=2006 |page=206 |publisher=Carnegie Publishing |location=Lancaster |isbn=1-85936-128-5}}<br />{{cite book |title=A History of Manchester |last=Hylton |first=Stuart |year=2003 |page=25 |publisher=Phillimore & Co |isbn=1-86077-240-4}}</ref> as a free grammar school next to what is now the cathedral, it moved in 1931 to Old Hall Lane in Fallowfield, south Manchester, to accommodate the growing student body. In the post-war period, it was a [[direct grant grammar school]] (i.e. partially state funded), but it reverted to independent status in 1976 after abolition of the direct-grant system.<ref name="MGS">{{cite book |title=Dare to be wise: a history of the Manchester Grammar School |last=Bentley |first=James |year=1990 |pages=108, 114, 119–121 |publisher=James & James |isbn=0-907383-04-1}}</ref> Its previous premises are now used by [[Chetham's School of Music]]. There are three schools nearby: [[William Hulme's Grammar School]], [[Withington Girls' School]] and [[Manchester High School for Girls]].
+
+In 2019, the Manchester [[Local Education Authority]] was ranked second to last out of Greater Manchester's ten LEAs and 140th out of 151 in the country LEAs based on the percentage of pupils attaining grades 4 or above in English and mathematics GCSEs ([[General Certificate of Secondary Education]]) with 56.2 per cent compared with the national average of 64.9 per cent.<ref>{{Cite web |title='KS4 local authority data' from 'Key stage 4 performance', Permanent data table |url=https://explore-education-statistics.service.gov.uk/data-tables/permalink/baee5d88-d366-4fd8-b927-4e9b2507abc9 |access-date=2022-05-12 |website=explore-education-statistics.service.gov.uk |language=en}}</ref> Of the 63 secondary schools in the LEA, four had 80 per cent or more pupils achieving Grade 4 or above in English and maths GCSEs: [[Manchester High School for Girls]], [[King David School, Manchester|The King David High School]], Manchester Islamic High School for Girls, and Kassim Darwish Grammar School for Boys.<ref>{{Cite web |date=2019 |title=Compare School Performance Service |url=https://www.compare-school-performance.service.gov.uk/schools-by-type?step=default&table=schools&region=352&geographic=la&for=secondary&basedon=English%20%26%20maths%20GCSEs&show=All%20pupils&orderby=ks4.0.PTL2BASICS_94&orderdir=asc |access-date=13 May 2022 |website=GOV.UK}}</ref>
+
+==Sport==
+{{Main|Sport in Manchester}}
+[[File:Etihad Stadium.jpg|thumb|upright=1.25|The [[City of Manchester Stadium|Etihad Stadium]] is home to [[Premier League]] club [[Manchester City FC]] and host stadium for the [[2002 Commonwealth Games]].]]
+Two [[Premier League]] [[association football|football]] clubs bear the city's name – [[Manchester City FC|Manchester City]] and [[Manchester United FC|Manchester United]].<ref>{{cite web |url=https://www.telegraph.co.uk/sport/football/teams/manchester-city/8514475/Manchester-is-a-City-United-in-celebration-as-both-clubs-end-the-day-with-silverware.html |title=Manchester is a City United in celebration as both clubs end the day with silverware |last1=White |first1=Duncan |last2=Smith |first2=Rory |work=The Telegraph |date=14 May 2011 |access-date=9 August 2014 |archive-url=https://web.archive.org/web/20140812203118/http://www.telegraph.co.uk/sport/football/teams/manchester-city/8514475/Manchester-is-a-City-United-in-celebration-as-both-clubs-end-the-day-with-silverware.html |archive-date=12 August 2014 |url-status=live}}</ref> Manchester City's home is the [[City of Manchester Stadium]] in east Manchester, built for the [[2002 Commonwealth Games]] and then reconfigured as a football ground in 2003. Manchester United and [[Lancashire County Cricket Club]], although commonly associated with Manchester, [[Trafford#Sport|are based]] in the neighbouring metropolitan borough of [[Trafford]].<ref>{{cite web |url=http://www.visitmanchester.com/Parts2.aspx?PartId=51&ExperienceId=11 |title=Football fever |access-date=6 October 2008 |work=Visit Manchester web pages |publisher=Visit Manchester |archive-url=https://web.archive.org/web/20071027081212/http://www.visitmanchester.com/Parts2.aspx?PartId=51&ExperienceId=11 |archive-date=27 October 2007}}<br /> {{cite web |url=http://visitmanchester.com/Parts2.aspx?ExperienceId=11&PartId=120 | title=Sporting heritage |access-date=6 October 2008 |work=Visit Manchester web pages |publisher=Visit Manchester |archive-url=https://web.archive.org/web/20100206131231/http://visitmanchester.com/Parts2.aspx?ExperienceId=11&PartId=120 |archive-date=6 February 2010}}</ref>
+
+Sporting facilities built for the [[2002 Commonwealth Games]] include the City of Manchester Stadium, [[National Squash Centre]] and [[Manchester Aquatics Centre]].<ref>{{cite web |url=http://www.gameslegacy.com/cgi-bin/index.cgi/34| archive-url=https://web.archive.org/web/20071111071627/http://www.gameslegacy.com/cgi-bin/index.cgi/34 |archive-date=11 November 2007 |title=Sporting Legacy |access-date=6 October 2008 |year=2003 |work=Commonwealth Games Legacy Manchester 2002 |publisher=Commonwealth Games Legacy}}</ref> Manchester has competed twice to host the Olympic Games, beaten by [[Atlanta]] for [[Bids for the 1996 Summer Olympics|1996]] and [[Sydney]] for [[Bids for the 2000 Summer Olympics|2000]]. The [[National Cycling Centre]] includes a velodrome, BMX Arena and Mountainbike trials, and is the home of [[British Cycling]], UCI ProTeam [[Team Sky]] and [[Sky Track Cycling]]. The [[Manchester Velodrome]], built as a part of the bid for the 2000 games, has become a catalyst for British success in cycling.<ref name="Park">{{cite book |last=Parkinson-Bailey |first=John J |title=Manchester: an Architectural History |year=2000 |publisher=Manchester University Press |location=Manchester |isbn=0-7190-5606-3 |pages=249–250, 284–286}}</ref> The velodrome hosted the [[UCI Track Cycling World Championships]] for a record third time in 2008. The [[National Indoor BMX Arena]] (2,000 capacity) adjacent to the velodrome opened in 2011. The [[Manchester Arena]] hosted the [[FINA]] World Swimming Championships in 2008.<ref name="FINA">{{cite web |url=http://www.fina.org/project/index.php?option=com_content&task=view&id=58&Itemid=380 |archive-url= https://web.archive.org/web/20150904003207/http://www.fina.org/project/index.php?option=com_content&task=view&id=58&Itemid=380 |url-status=dead |archive-date= 4 September 2015 |title=9th Fina World Swimming Championships (25m)| access-date=6 October 2008 |publisher=Fina.org |year=2008}}</ref> Manchester hosted the [[World Open (squash)|World Squash Championships]] in 2008,<ref>{{cite web|url=http://www.worldsquash2008.com/|archive-url=https://web.archive.org/web/20080715100407/http://www.worldsquash2008.com/|archive-date=15 July 2008 |title=Hi-Tec World Squash Championships – Manchester 2008 |publisher=Hi-Tec World Squash Championships Manchester 2008 |year=2008 |access-date=5 May 2009}}</ref> the [[2010 World Lacrosse Championship]],<ref>{{cite web |url=http://www.2010worldlacrosse.com/ |title=World Lacrosse Championships – Manchester 2010 |publisher=World Lacrosse Championships 2010 |year=2010 |access-date=29 March 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100211113204/http://www.2010worldlacrosse.com/ |archive-date=11 February 2010}}</ref> the [[2013 Ashes series]], [[2013 Rugby League World Cup]] and [[2015 Rugby World Cup]].
+
+==Media==
+{{Main|Media in Manchester}}
+{{See also|List of television programmes set, produced or filmed in Manchester|Films set in Manchester|List of national radio programmes made in Manchester}}
+
+===Print===
+[[File:Express Building Manchester.jpg|thumb|The 1930s [[Daily Express Building, Manchester|Daily Express Building]], Manchester, a remnant of Britain's "second Fleet Street"]]
+<!-- Newspaper -->
+''[[The Guardian]]'' newspaper was founded in the city in 1821 as ''The Manchester Guardian''. Until 2008, its head office was still in the city, though many of its management functions were moved to London in 1964.<ref name="Kidd"/><ref name="guardian-timeline">{{cite web |author=Guardian Staff |title=Key moments in The Guardian's history: a timeline |url=https://www.theguardian.com/gnm-archive/2002/jun/11/1 |website=The Guardian |access-date=28 July 2020 |date=16 November 2017}}</ref> For many years most national newspapers had offices in Manchester: ''[[The Daily Telegraph]]'', ''[[Daily Express]]'', ''[[Daily Mail]]'', ''[[Daily Mirror]]'', ''[[The Sun (United Kingdom)|The Sun]]''. At its height, 1,500 journalists were employed, earning the city the nickname "second [[Fleet Street]]". In the 1980s the titles closed their northern offices and centred their operations in London.<ref>{{cite book |last=Waterhouse |first=Robert |title=The Other Fleet Street |publisher=First Edition Limited |year=2004 |isbn= 1-84547-083-4}}</ref>
+
+The main regional newspaper in the city is the ''[[Manchester Evening News]]'', which was for over 80 years the sister publication of ''The Manchester Guardian''.<ref name="guardian-timeline" /> The ''Manchester Evening News'' has the largest circulation of a UK regional evening newspaper and is distributed free of charge in the city centre on Thursdays and Fridays, but paid for in the suburbs. Despite its title, it is available all day.<ref>{{cite news |url= https://www.theguardian.com/media/2007/aug/30/pressandpublishing.abcs1 |title=Paid-for sales of MEN slump |access-date= 6 October 2008 |last=Sweney |first=Mark |date=30 August 2007 |work=The Guardian |location=UK |publisher=Guardian News and Media Limited |archive-url=https://web.archive.org/web/20131110081617/http://www.theguardian.com/media/2007/aug/30/pressandpublishing.abcs1 |archive-date=10 November 2013 |url-status=live}}</ref>
+
+Several local weekly free papers are distributed by the MEN group. The ''[[Metro (Associated Metro Limited)|Metro]] North West'' is available free at [[Manchester Metrolink|Metrolink]] stops, rail stations and other busy locations.
+<ref>{{cite web |url=http://www.merrymedia.co.uk/index.php?option=com_content&task=view&id=2881&Itemid=175 |title=M.E.N. Makes Changes To Metro Distribution |access-date=6 October 2008 | date=9 March 2007| work=Merry Media News |archive-url=https://web.archive.org/web/20071022154944/http://www.merrymedia.co.uk/index.php?option=com_content&task=view&id=2881&Itemid=175 |archive-date=22 October 2007}}<br /> {{cite web |url= http://www.manchesteronline.co.uk/newspapers/ |archive-url=https://web.archive.org/web/20110812015752/http://www.manchesteronline.co.uk/newspapers/ |archive-date=12 August 2011 |title=manchester local press |access-date=6 November 2007 |year=2007 |work=ManchesterOnline |publisher=GMG Regional Digital}}</ref>
+
+An attempt to launch a Northern daily newspaper, the ''North West Times'', employing journalists made redundant by other titles, closed in 1988.<ref name=newpapers/> Another attempt was made with the ''[[North West Enquirer]]'', which hoped to provide a true "regional" newspaper for the [[North West England|North West]], much in the same vein as the ''[[Yorkshire Post]]'' does for [[Yorkshire]] or ''[[The Northern Echo]]'' does for the [[North East England|North East]]; it folded in October 2006.<ref name="newpapers">{{cite news |url=https://www.independent.co.uk/news/media/new-quality-weekly-for-manchester-is-a-good-idea-on-paper-5544495.html |title=New quality weekly for Manchester is a good idea on paper |access-date=6 October 2008 |last=Herbert |first=Ian |date= 30 January 2006 |work=The Independent |publisher=Independent News and Media Limited |location=London |archive-url=https://web.archive.org/web/20151222102200/http://www.independent.co.uk/news/media/new-quality-weekly-for-manchester-is-a-good-idea-on-paper-5544495.html |archive-date=22 December 2015 |url-status=live}}<br />{{cite web |url= http://www.nw-enquirer.co.uk/the_enquirer_suspends_publication_.html |archive-url=https://web.archive.org/web/20070226214918/http://www.nw-enquirer.co.uk/the_enquirer_suspends_publication_.html |title=The Enquirer suspends publication |access-date=6 October 2008 |archive-date=3 April 2007 |last=Waterhouse |first=Robert |date=20 September 2006 |work=The North West Enquirer |publisher=The North West Enquirer}}</ref>
+
+===Television===
+<!-- TV & film -->
+[[File:Granada TV.jpg|thumb|[[Granada Studios]], the former headquarters of [[Granada Television]]]]
+Manchester has been a centre of [[Television in the United Kingdom|television broadcasting]] since the 1950s. A number of television studios have been in operation around the city, and have since relocated to [[MediaCityUK]] in neighbouring Salford.
+
+The [[ITV (TV network)|ITV]] franchise [[Granada Television]] has been based in Manchester since 1954. Now based at MediaCityUK, the company's former headquarters at [[Granada Studios]] on [[Quay Street]] with its distinctive illuminated sign were a prominent landmark on the Manchester skyline for several decades.<ref>{{cite news |title=£1bn vision for former ITV site revealed |url=http://www.manchestereveningnews.co.uk/business/1bn-vision-former-itv-site-8004809 |url-status=dead |archive-url=https://web.archive.org/web/20160201135241/http://www.manchestereveningnews.co.uk/business/1bn-vision-former-itv-site-8004809 |archive-date=1 February 2016}}</ref><ref name="Skillset">{{cite web |url=http://www.skillset.org/uploads/pdf/asset_3933.pdf?3 |title=The creative media industries and workforce in North West England |publisher=skillset.org |year=2008 |access-date=6 October 2008 |url-status=dead |archive-url=https://web.archive.org/web/20110113021242/http://www.skillset.org/uploads/pdf/asset_3933.pdf?3 |archive-date=13 January 2011 }}</ref><ref>{{cite news |title=ITV removes famous Granada sign from Manchester studios |url=https://www.manchestereveningnews.co.uk/news/greater-manchester-news/itv-removes-famous-granada-sign-899669 |access-date=28 July 2020 |work=Manchester Evening News |date=26 September 2010}}</ref> Granada produces ''[[Coronation Street]],''<ref>{{cite book |last=Little |first=Daran |title=The Coronation Street Story |year=1995 |publisher=Boxtree |location=London |isbn=1-85283-464-1 |page=6 |quote=Coronation Street is without doubt the most successful television programme in the world.... what is today the world's longest running drama serial.}}</ref> local news and programmes for North West England. Although its influence has waned, Granada had been described as "the best commercial television company in the world".<ref>{{Cite news |title=Obituary – David Plowright |quote=As he himself liked to quote, not for nothing had Granada been dubbed the best commercial television company in the world |url=https://www.independent.co.uk/news/obituaries/david-plowright-413771.html |newspaper=The Independent |date=29 August 2006 |access-date=4 February 2012 |archive-url=https://web.archive.org/web/20120130161610/http://www.independent.co.uk/news/obituaries/david-plowright-413771.html |archive-date=30 January 2012 |url-status=live }}</ref><ref>{{Cite news |title=Party People returns as presenter Rob McLoughlin celebrates thirtieth year at ITV |quote=The Financial Times was to claim that 'Granada was probably the best commercial TV company in the world' – with respect to Thames TV; LWT and our American cousins –  they may have been right but when that quote was hauled over reception in Quay Street I found it both inspiring and daunting |url=http://www.how-do.co.uk/north-west-media-features/special-features/party-people-returns-as-presenter-rob-mcloughlin-celebrates-thirtieth-year-at-itv-201 |archive-url=https://web.archive.org/web/20120419172834/http://www.how-do.co.uk/north-west-media-features/special-features/party-people-returns-as-presenter-rob-mcloughlin-celebrates-thirtieth-year-at-itv-201 |archive-date=19 April 2012 |date=25 January 2012 |access-date=4 February 2012}}</ref>
+
+With the growth in regional television in the 1950s, Manchester became one of the [[BBC]]'s three main centres in England.<ref name="Skillset"/> In 1954, the BBC opened its first regional [[BBC Television]] studio outside London, [[Dickenson Road Studios]], in a converted Methodist chapel in [[Rusholme]]. The first edition of ''[[Top of the Pops]]'' was broadcast here on New Year's Day 1964.<ref name="TOTP">{{Cite news |url=https://www.theguardian.com/music/2006/jul/16/32 |title='Top of the Pops' shows |access-date=6 October 2008 |work=Observer Music Monthly |publisher=Guardian News and Media Limited |date=16 July 2006 |location=London |archive-url=https://web.archive.org/web/20130930035454/http://www.theguardian.com/music/2006/jul/16/32 |archive-date=30 September 2013 |url-status=live}}</ref><ref name="itsahotun-history">{{cite web |last1=Lee |first1=CP|author-link1=CP Lee |title=Mancunian Film Company History |url=http://www.itsahotun.com/history.html |website=It's a Hot 'Un |access-date=25 July 2020 |archive-url=https://web.archive.org/web/20120120204633/http://www.itsahotun.com/history.html |archive-date=20 January 2012 |date=20 January 2012 |url-status=dead}}</ref>
+From 1975, BBC programmes including ''[[Mastermind (television)|Mastermind]]'',<ref name="BBC programs">{{Cite press release |url=https://www.bbc.co.uk/pressoffice/speeches/stories/bennett_manch.shtml |title=Championing sustainable TV production in the nations and regions |access-date=6 October 2008 |publisher=BBC |date=23 November 2005 |archive-url=https://web.archive.org/web/20061224172214/http://www.bbc.co.uk/pressoffice/speeches/stories/bennett_manch.shtml |archive-date=24 December 2006 |url-status=live}}</ref> and ''[[Real Story]]'',<ref name="BBC real story">{{Cite press release |url= http://www.bbc.co.uk/pressoffice/pressreleases/stories/2006/11_november/15/real.shtml |title=BBC One's Real Story with Fiona Bruce series comes to end in 2007 |access-date=6 October 2008 |publisher=BBC |date=15 November 2006 |archive-url=https://web.archive.org/web/20120229023321/http://www.bbc.co.uk/pressoffice/pressreleases/stories/2006/11_november/15/real.shtml |archive-date=29 February 2012 |url-status=live}}</ref> were made at [[New Broadcasting House (Manchester)|New Broadcasting House]] on [[Oxford Road, Manchester|Oxford Road]]. The ''Cutting It'' series set in the city's Northern Quarter and ''[[The Street (BBC series)|The Street]]'' were set in Manchester<ref>{{cite news |title=International Emmys Awards to honor Al Gore |url=http://usatoday30.usatoday.com/life/people/2007-11-18-al-gore_N.htm |date=19 November 2007 |access-date=6 October 2008 |work=USA Today |first=Charles J. |last=Gans |archive-url=https://web.archive.org/web/20121018053409/http://usatoday30.usatoday.com/life/people/2007-11-18-al-gore_N.htm | archive-date=18 October 2012 |url-status=live}}</ref> as was ''[[Life on Mars (UK TV series)|Life on Mars]]''. Manchester was the regional base for [[BBC One]] North West Region programmes before it relocated to MediaCityUK in nearby [[Salford Quays]].<ref name="NWT">{{cite web |url=http://www.manchester2002-uk.com/media/tv-and-radio.html |title=Television & Radio Stations in Manchester |access-date=11 September 2007 |publisher=Manchester 2002 UK |year=2002 |url-status=dead |archive-url=https://web.archive.org/web/20070922233804/http://www.manchester2002-uk.com/media/tv-and-radio.html |archive-date=22 September 2007}}</ref><ref name="Media city">{{cite web |url=http://www.dtg.org.uk/news/news.php?id=2464 |title=BBC R&D to relocate to Salford Quays |access-date=6 October 2008| publisher=Digital TV Group |date=1 June 2007 |archive-url=https://web.archive.org/web/20081206144955/http://www.dtg.org.uk/news/news.php?id=2464 |archive-date=6 December 2008 |url-status=dead }}<br /> {{Cite press release |url=https://www.bbc.co.uk/pressoffice/pressreleases/stories/2007/05_may/31/salford.shtml |title=BBC move to Salford gets green light |access-date=6 October 2008 |publisher=BBC |date=31 May 2007 |archive-url=https://web.archive.org/web/20081222043534/http://www.bbc.co.uk/pressoffice/pressreleases/stories/2007/5_may/31/salford.shtml |archive-date=22 December 2008 |url-status=live}}</ref>
+
+The Manchester television channel, [[Channel M]], owned by the [[Guardian Media Group]] operated from 2000, but closed in 2012.<ref name="Skillset"/><ref>{{cite web |url=https://www.theguardian.com/media/2012/apr/16/manchester-channel-m-closes |title=Manchester's Channel M closes after 12 years |first=John |last=Plunkett |work=The Guardian |date=16 April 2012 |access-date=8 May 2012 |archive-url=https://web.archive.org/web/20130928020000/http://www.theguardian.com/media/2012/apr/16/manchester-channel-m-closes |archive-date=28 September 2013 |url-status=live }}</ref> Manchester is also covered by two internet television channels: Quays News and Manchester.tv. The city had a new terrestrial channel from January 2014 when YourTV Manchester, which won the OFCOM licence bid in February 2013. It began its first broadcast, but in 2015, [[That's Manchester]] took over to air on 31 May and launched the freeview channel 8 service slot, before moving to channel 7 in April 2016.
+
+===Radio===
+<!-- Radio -->
+The city has the highest number of local radio stations outside London, including [[BBC Radio Manchester]], [[Hits Radio Manchester]], [[Capital Manchester and Lancashire]], [[Greatest Hits Radio Manchester & The North West]], [[Heart North West]], [[Smooth North West]], [[Gold (British radio network)|Gold]], [[Radio X (United Kingdom)|Radio X]], NMFM (North Manchester FM) and [[XS Manchester]].<ref>{{cite web |url=http://www.northwestradio.info/fm/ |publisher=northwestradio.info |year=2005 |access-date=8 November 2007 |title=A Guide to Radio Stations in and Around North West England |archive-url=https://web.archive.org/web/20120604082058/http://www.northwestradio.info/fm/ |archive-date=4 June 2012 |url-status=dead }}</ref><ref name=ofcomradio/> Student radio stations include [[Fuse FM]] at the University of Manchester and MMU Radio at the Manchester Metropolitan University.<ref>{{cite web|url=http://www.fusefm.co.uk/ |title=FUSE FM – Manchester Student Radio |access-date=6 October 2008 |work=fusefm.co.uk |url-status=dead |archive-url=https://web.archive.org/web/20080919151313/http://www.fusefm.co.uk/ |archive-date=19 September 2008}}</ref> A [[community radio]] network is coordinated by Radio Regen, with stations covering [[Ardwick]], [[Longsight]] and [[Levenshulme]] ([[All FM]] 96.9) and [[Wythenshawe]] (Wythenshawe FM 97.2).<ref name="ofcomradio">See [http://stakeholders.ofcom.org.uk/broadcasting/ Radio] {{Webarchive|url=https://web.archive.org/web/20131016155741/http://stakeholders.ofcom.org.uk/broadcasting/ |date=16 October 2013 }} at the [[Ofcom]] web site and subpages, especially the [http://www.ofcom.org.uk/static/radiolicensing/amfm/analogue-main.htm directory of analogue radio stations] {{Webarchive |url=https://web.archive.org/web/20110721102657/http://www.ofcom.org.uk/static/radiolicensing/amfm/analogue-main.htm |date=21 July 2011 }}, the map{{cite web |url=http://www.ofcom.org.uk/radio/ifi/rbl/formats/acrm_styles.pdf |title=Commercial Radio Styles |access-date=14 December 2015 |url-status=dead |archive-url=https://web.archive.org/web/20090304085205/http://www.ofcom.org.uk/radio/ifi/rbl/formats/acrm_styles.pdf |archive-date=4 March 2009 }}  (PDF), and the map{{cite web |url=http://www.ofcom.org.uk/radio/ifi/rbl/formats/crmmap.pdf |title=Community Radio in the UK |access-date=14 December 2015 |url-status=dead |archive-url=https://web.archive.org/web/20100414200018/http://www.ofcom.org.uk/radio/ifi/rbl/formats/crmmap.pdf |archive-date=14 April 2010 }} (PDF). Retrieved on 6 November 2007.</ref> Defunct radio stations include [[Sunset 102]], which became [[Kiss 102]], then [[Galaxy Manchester]]), and KFM which became Signal Cheshire (later [[Imagine FM]]). These stations and [[pirate radio]] played a significant role in the city's [[house music]] culture, the [[Madchester]] scene.
+
+==International relations==
+Manchester has formal [[Town twinning|twinning]] arrangements (or "friendship agreements") with several places.<ref>{{cite web |url=http://www.manchester.gov.uk/info/100004/the_council_and_democracy/5903/international_civic_links |title=Manchester City Council: International civic links |publisher=Manchester.gov.uk |access-date=3 February 2014 |archive-url=https://web.archive.org/web/20140221155306/http://www.manchester.gov.uk/info/100004/the_council_and_democracy/5903/international_civic_links |archive-date=21 February 2014 |url-status=live }}</ref><ref name="Manchester">{{cite news |url=http://www.manchestereveningnews.co.uk/news/greater-manchester-news/twinning-link-with-la-925445 |title=Twinning link with LA |newspaper=Manchester Evening News |access-date=28 July 2009 |url-status=dead |archive-url=https://web.archive.org/web/20130731001604/http://www.manchestereveningnews.co.uk/news/greater-manchester-news/twinning-link-with-la-925445 |archive-date=31 July 2013}}</ref> In addition, the [[British Council]] maintains a metropolitan centre in Manchester.<ref>{{cite web |url=http://www.britishcouncil.org/organisation/transparency/reports-documents |title=British Council Annual Report 2013–14 |access-date=16 March 2015 |publisher=[[British Council]] |date=31 March 2014 |archive-url=https://web.archive.org/web/20150402121131/http://www.britishcouncil.org/organisation/transparency/reports-documents |archive-date=2 April 2015 |url-status=dead }}</ref>
+*[[Amsterdam]], Netherlands<ref name=Jayne /> (2007)
+*[[Bilwi]], Nicaragua<ref name=Jayne>{{cite journal |last1=Jayne |first1=Mark |last2=Hubbard |first2=Philip |last3=Bell |first3=David |title=Twin Cities: Territorial and Relational Geographies of 'Worldly' Manchester |journal=Urban Studies |date=2013 |volume=50 |issue=2 |pages=239–254 |doi=10.1177/0042098012450480 |jstor=26144203 |s2cid=146405719 |url=https://www.jstor.org/stable/pdf/26144203.pdf |issn=0042-0980}}</ref>
+*[[Chemnitz]], Germany (1983)<ref>At the time of the agreement, it was in the [[East Germany|German Democratic Republic]] and named Karl-Marx-Stadt.</ref>
+*[[Córdoba, Spain|Córdoba]], Spain<ref name=Jayne />
+*[[Faisalabad]], Pakistan (1997)<ref name=Jayne />
+*[[Los Angeles]], United States (2009)
+*[[Rehovot]], Israel<ref name=Jayne />
+*[[Saint Petersburg]], Russia<ref name=Jayne /> (1962)
+*[[Wuhan]], People's Republic of China (1986)<ref>{{cite web |title=International civic links {{!}} International civic links {{!}} Manchester City Council |url=https://www.manchester.gov.uk/info/100004/the_council_and_democracy/5903/international_civic_links |website=www.manchester.gov.uk |access-date=10 March 2022}}</ref>
+*[[Melbourne]], Australia
+*[[Osaka]], Japan<ref name=Jayne />
+
+Manchester is home to the largest group of [[consul (representative)|consuls]] in the UK outside London. The expansion of international trade links during the Industrial Revolution led to the introduction of the first consuls in the 1820s and since then over 800, from all parts of the world, have been based in Manchester. Manchester hosts consular services for most of the north of England.<ref>{{cite book |author=Fox, David |title=Manchester Consuls |year=2007 |publisher=Carnegie Publishing |location=Lancaster |isbn=978-1-85936-155-9 |pages=vii–ix}}<br />{{cite web |title=Manchester Consular Association |url=https://www.manchesterconsularassociation.com/ |archive-url=https://web.archive.org/web/20190119230017/https://www.manchesterconsularassociation.com/ |archive-date=19 January 2019 |url-status=live}}<br />{{cite web |url=http://mca.group.shef.ac.uk/index_Page320.htm |title=List of Consulates, Consulate Generals and High Commissioners |publisher=MCA (subsidiary of Sheffield University) |access-date=5 January 2007 |url-status=dead |archive-url=https://web.archive.org/web/20131212001011/http://mca.group.shef.ac.uk/index_Page320.htm |archive-date=12 December 2013}}</ref>
+
+==See also==
+{{Portal|England|United Kingdom|Europe}}
+*[[List of Freemen of the City of Manchester]]
+*[[Manchester dialect]]
+*[[Symbols of Manchester]], including the city's [[Symbols of Manchester#Worker bee|worker bee]] motif
+*[[Tampere]]
+
+{{clear}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+{{refbegin}}
+{{col-begin|width=auto}}
+{{col-break}}
+
+===Architecture===
+* {{cite book |last=Atkins |first=Philip |title=Guide across Manchester |publisher=Civic Trust for the North West |location=Manchester |year=1975 |isbn=978-0-901347-29-9}}
+* {{cite book |last=Hands| first=David |author2=Parker, Sarah |title=Manchester: A Guide to Recent Architecture |publisher=Ellipsis Arts |location=London |year=2000 |isbn=978-1-899858-77-4}}
+* {{cite book |last=Hartwell |first=Clare |title=Manchester |series=Pevsner Architectural Guides |year=2001 |publisher=Penguin Books | location = London | isbn = 978-0-14-071131-8}}
+* {{cite book |last1=Hartwell |first1=Clare |last2=Hyde |first2=Matthew  |last3=Pevsner |first3=Nikolaus| author-link3=Nikolaus Pevsner |series=The Buildings of England |title=Lancashire: Manchester and the South-East |year=2004 |publisher=Yale University Press |location=New Haven & London |isbn=978-0-300-10583-4}}
+* {{cite book |last=Parkinson-Bailey |first=John J. |title=Manchester: an Architectural History |year=2000 |publisher=Manchester University Press |location=Manchester |isbn=978-0-7190-5606-2}}
+* {{cite book |last=Robinson |first=John Martin |title=The Architecture of Northern England |year=1986 |publisher=Macmillan |location=London |isbn=978-0-333-37396-5}}
+
+=== General===
+*{{cite book |last=Beesley |first=Ian |title=Victorian Manchester and Salford |publisher=Ryburn |location=Keele |year=1988 |isbn=978-1-85331-006-5}}
+*{{cite book |last=Hylton |first=Stuart |title=A History of Manchester |publisher=Phillimore & Company |location=Chichester |year=2003 |isbn=978-1-86077-240-5}}
+*{{cite book |last=Kidd |first=Alan J. |title=Manchester |series=Town and City Histories |publisher=Ryburn |location=Keele |year=1993 |isbn=978-1-85331-016-4}}
+*{{cite book |last=Mottley |first=A. L. |title=A Northern Life |publisher=Any Subject Books |location=Coventry |year=2013 |isbn=978-1-909392-53-3}}
+*{{cite book |title=The Mancunian Way |publisher=Clinamen Press| location=Manchester |year=2002 |isbn=978-1-903083-81-9 |editor-last1=Price |editor-first1=Jane |editor-last2= Stebbing |editor-first2= Ben}}
+*{{cite book |last=Redhead |first=Brian |title=Manchester: a Celebration |author-link=Brian Redhead |publisher=André Deutsch |location=London |year=1993 |isbn=978-0-233-98816-0}}
+*{{cite book |last =Schofield |first=Jonathan |title=The City Life Guide to Manchester |year=2005 |publisher=City Life |location=Manchester |isbn=978-0-9549042-2-7}}
+*{{cite book |last=Worthington |first=Barry |title=Discovering Manchester |publisher=Sigma Leisure |location=Ammanford |year=2011 |isbn=978-1-85058-862-7}}
+{{col-break}}
+
+===Culture===
+* {{cite book |last=Cantrell |first=J. A. |title=James Nasmyth and the Bridgewater Foundry, A study of entrepreneurship in the early engineering industry |year=1985 |publisher=Manchester University Press |location=Manchester |isbn=978-0-7190-1339-3 |url=https://archive.org/details/jamesnasmythbri00cant}}
+* {{cite book |last=Champion |first=Sarah |title=And God Created Manchester |year=1990 |publisher=Wordsmith |location=Manchester |isbn=978-1-873205-01-3}}
+* {{cite book |last=Gatenby |first=Phill |title=Morrissey's Manchester: The Essential "Smiths" Tour |year=2002 |location= Manchester |work=Empire Publications |isbn=978-1-901746-28-0}}
+* {{cite book |last=Haslam |first=Dave |title=Manchester, England |publisher=Fourth Estate |location=New York |year=2000 |isbn=978-1-84115-146-5}}
+* {{cite book |last=Lee |first=C. P. |title= hake, Rattle and Rain: popular music making in Manchester 1955–1995 |year=2002 |publisher=Hardinge Simpole | location = Ottery St Mary | isbn = 978-1-84382-049-9}}
+* {{cite book |last=Lee |first= C. P. |title= Like the Night (Revisited): Bob Dylan and the Road to the Manchester Free Trade Hall |publisher=Helter Skelter Publishing |location=London |year=2004 |isbn=978-1-900924-33-7}}
+* {{Cite journal |last=Pearce |first=Lynne |title=Women writers and the elusive urban sublime: the view from "''Manchester, England''" |journal=[[Contemporary Women's Writing]] |volume=1 |issue=1–2 |pages=192–202 |doi=10.1093/cww/vpm014 |date=December 2007}}
+* {{cite book |editor1-first=Jon |editor1-last=Savage |title=The Haçienda Must Be Built |year=1992 |publisher=[[International Music Publications]] |location=Woodford Green |isbn=978-0-86359-857-9}}
+
+=== Sport===
+*{{cite book |last=Inglis |first=Simon |title=Played in Manchester |publisher=Played in Britain |year=2004 |isbn=978-1-873592-78-6}}
+*{{cite book |last=James |first=Gary |title=Manchester: a football history |publisher=James Ward |location=Halifax |year=2008 |isbn=978-0-9558127-0-5}}
+{{col-end}}
+{{refend}}
+
+==External links==
+{{Sister project links |wikt=Manchester |commons=Manchester |q=no |b=no |v=no |voy=Manchester}}
+* [http://www.manchester.gov.uk/ Manchester City Council]
+* [http://www.visitmanchester.com/ Official tourist board site]
+
+{{Spoken Wikipedia|date=2008-02-03|Manchester (Part 1).ogg|Manchester (Part 2).ogg}}
+
+{{Geographic location
+| title     = Destinations from Manchester
+| Northwest = [[Bolton]], [[Wigan]], [[Preston, Lancashire|Preston]]
+| North     = [[Bury, Greater Manchester|Bury]], [[Blackburn]], [[Burnley]]
+| Northeast = [[Oldham]], [[Rochdale]], [[Huddersfield]], [[Dewsbury]], [[Halifax, West Yorkshire|Halifax]], '''[[Leeds]]'''
+| West      = [[Leigh, Greater Manchester|Leigh]], [[St Helens, Merseyside|St Helens]], '''[[Liverpool]]'''
+| Centre    = Manchester
+| East      = [[Hyde, Greater Manchester|Hyde]], [[Stalybridge]], [[Glossop]], '''[[Sheffield]]'''
+| Southwest = [[Sale, Greater Manchester|Sale]], [[Altrincham]], [[Knutsford]]
+| South     = [[Cheadle, Greater Manchester|Cheadle]], [[Wilmslow]], [[Alderley Edge]]
+| Southeast = [[Stockport]], [[Chapel-en-le-Frith]], [[Buxton]], '''[[Derby]]'''
+}}
+
+{{Core Cities Group}}
+{{UK cities}}
+{{Manchester}}
+{{Greater Manchester}}
+{{Manchester B&S}}
+{{Metropolitan districts of England}}
+{{NW England}}
+{{Commonwealth Games Host Cities}}
+<!-- Please leave it there. It would be nice if the number of cities in the category could stay at the nice round number of 50, instead of falling to 49 every few weeks -->
+{{Authority control}}
+
+[[Category:Manchester| ]]
+[[Category:1st-century establishments in Roman Britain]]
+[[Category:79 establishments]]
+[[Category:Cities in North West England]]
+[[Category:Metropolitan boroughs of Greater Manchester]]
+[[Category:Populated places established in the 1st century]]
+[[Category:Towns in Greater Manchester]]

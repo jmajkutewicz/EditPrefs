@@ -1,0 +1,24 @@
+== No change ==
+Test test test: {{quote|Quote quote. Quote quote}} End end
+
+== Prefix changed ==
+Test test test: {{quote|Quote quote. Quote quote}} End end
+
+== Suffix changed ==
+Test test test: {{quote|Quote quote. Quote quote}} End end
+
+== Quote changed ==
+Test test test: {{quote|Quote quote. Quote quote}} End end
+
+== All changed ==
+Test test test: {{quote|Quote quote. Quote quote}} End end
+
+
+== No change (quote 2) ==
+Test test test: {{quote|Quote quote. Quote quote}}. End end
+
+== Suffix changed (quote 2) ==
+Test test test: {{quote|Quote quote. Quote quote}}. End end
+
+== All changed (quote 2) ==
+Test test test: {{quote|Quote quote. Quote quote}}. End end

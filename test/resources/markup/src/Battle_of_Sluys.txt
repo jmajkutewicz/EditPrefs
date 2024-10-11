@@ -1,0 +1,40 @@
+{{Infobox Military Conflict
+|conflict=Battle of Sluys
+|partof=the [[Hundred Years' War]]
+|image=[[Image:BattleofSluys.jpeg|300px|A [[miniature (illuminated manuscript)|miniature]] of the battle from [[Jean Froissart]]'s [[Froissart's Chronicles|''Chronicles'']], [[14th century]]]]
+|caption=A [[miniature (illuminated manuscript)|miniature]] of the battle from [[Jean Froissart]]'s ''Chronicles'', [[14th century]]
+|date=[[24 June]] [[1340]]
+|place=Near [[Sluis]], [[West Flanders]]
+|result=English victory
+|combatant1=[[England]]
+|combatant2=[[France]]
+|commander1=[[Edward III of England]]
+|commander2=[[Hugues Quiéret]],<br>[[Nicolas Béhuchet]]
+|strength1=250 ships
+|strength2=190 ships
+|casualties1=Unknown
+|casualties2=20 000 (Europe A History by [[Norman Davies]])
+}}
+{{Campaignbox Hundred Years' War}}
+The naval '''Battle of Sluys''' was fought on [[24 June]] [[1340]]. It was one of only two naval battles in which King [[Edward III of England]] commanded in person, the other being the [[Battle of L'Espagnols-sur-Mer]].
+
+The encounter took place in front of the town of Sluys or [[Sluis]], ([[French language|French]] ''Écluse''), on the inlet between [[West Flanders]] and [[Zeeland]]. In the middle of the 14th century this was an open [[roadstead]] capable of holding large fleets; it later was silted up by the river [[Eede]]. A French fleet, which the king, in a letter to his son [[Edward, the Black Prince]], put at 190 sail, had been collected in preparation for an invasion of England. It was under the command of [[Hugues Quiéret]], admiral for the king of France, and of [[Nicolas Béhuchet]], a lawyer who had been one of the king's treasurers. Part of the fleet consisted of [[Republic of Genoa|Genoese]] galleys serving as mercenaries under the command of [[Egidio Bocanegra]] (Barbavera). Although many English historians speak of King Edward’s fleet as inferior in number to the French, it is certain that he sailed from Orwell on [[June 22]] with 200 sail, and that he was joined on the coast of [[Flanders]] by his admiral for the [[North Sea]], Sir [[Robert Morley (admiral)|Robert Morley]], with 50 more. Some in this swarm of vessels were no doubt mere transports, for the king brought with him the household of his queen, [[Philippa of Hainault]], who was then at [[Bruges]]. As, however, one of the queen's ladies was killed in the battle, it would appear that all the English vessels were employed.
+
+Edward anchored at [[Blankenberge]] on the afternoon of [[23 June]] and sent three squires to reconnoitre the position of the French. The Genoese Barbavera advised his colleagues to go to sea, but Béhuchet, who as constable exercised the general command, refused to leave the anchorage. He probably wished to occupy it in order to bar the king’s road to Bruges. The disposition of the French was made in accordance with the usual medieval tactics of a fleet fighting on the defensive. Quiéret and Béhuchet formed their force into three or four lines, with the ships tied to one another, and with a few of the largest stationed in front as outposts. King Edward entered the road-stead on the morning of the 24th, and after manoeuvering to place his ships to windward, and to bring the sun behind him, attacked. In his letter to his son he says that the enemy made a noble defence "all that day and the night after." His ships were arranged in two lines, and it may be presumed that the first attacked in front, while the second would be able to turn the flanks of the opponent. The battle was a long succession of hand-to-hand conflicts to board or to repel boarders.  Edward makes no mention of any actual help given him by his Flemish allies, though he says they were willing; the French claim that they joined after dark. They also assert that the king was wounded by Béhuchet, but this is not certain, and there is no testimony save a legendary one for a personal encounter between him and the French commander, though it would not be improbable.
+
+The battle concluded with the almost total destruction of the French. Quiéret was slain, and Béhuchet is said to have been hanged by King Edward’s orders. Barbavera escaped to sea with his squadron on the morning of [[25 June]], carrying off two English prizes. English chroniclers claim that the victory was won with small cost of life, and that the loss of the French was 30,000 men, but no reliance can be placed on medieval estimates of numbers. After the battle King Edward remained at anchor several days, and it is probable that his fleet had suffered heavily.
+
+== References ==
+The story of the battle of Sluys is told from the English side by Sir [[Harris Nicolas]], in his ''History of the Royal Navy'', vol. ii. (London, 1847); and from the French side by [[M. C. de la Roncière]], ''Histoire de la marine francaise'', vol. i. (Paris, 1899). Both make copious references to original sources.
+
+{{1911}}
+
+[[Category:Battles of the Hundred Years' War|Sluys 1340]]
+[[Category:Naval battles|Sluys 1340]]
+[[Category:1340]]
+
+[[es:Batalla de Sluys]]
+[[fr:Bataille de l'Écluse]]
+[[nl:Slag bij Sluis (1340)]]
+[[pl:Bitwa pod Sluys]]
+[[sv:Slaget vid Sluys]]

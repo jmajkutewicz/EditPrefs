@@ -1,0 +1,1 @@
+The nested intervals theorem is usually founded upon a more fundamental characteristic of the real numbers: the existence of least upper bounds or "suprema". To directly exploit these objects, one may define <math> b_0.b_1 b_2 b_3 \ldots </math> to be the least upper bound of the set of approximants <math> b_0, b_0. b_1, b_0. b_1 b_2, \ldots </math>.
