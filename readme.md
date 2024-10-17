@@ -1,12 +1,12 @@
 # Wiki Preferences
 
-This repo contains code for paper "TODO"
+This repo contains code for the paper "TBA"
 
-This tools creates LLM alignment dataset from Wikipedia articles' edition history.
+This tool creates an LLM alignment dataset from Wikipedia articles' edition history.
 
 ## Dataset
 
-The Wiki Preferences dataset created from English Wikipedia dump from 01.04.2024 is available on HuggingFace: https://huggingface.co/datasets/jmajkutewicz/WikiPrefs
+The Wiki Preferences dataset created from the English Wikipedia dump from 01.04.2024 is available on HuggingFace: https://huggingface.co/datasets/jmajkutewicz/WikiPrefs
 
 ## Usage
 
@@ -25,24 +25,24 @@ python -m spacy download en_core_web_sm
 
 ### Creating dataset from Featured Articles edits
 
-1. Download featured articles list from Wikipedia:
+1. Download the featured articles list from Wikipedia:
     ```bash
    python -m wikiprefs.download_featured_articles_list
     ```
-2. Extract all featured articles edits from Wikipedia meta-history dump:
+2. Extract all featured articles' edits from Wikipedia meta-history dump:
     ```bash
    python -m wikiprefs.download_articles_history \
       --dst path_to_directory_for_saving_featured_articles_history
     ```
-   Note that we don't save whole meta-history dump to disk, but only featured articles history. This allows to minimize
+   Note that we don't save the whole meta-history dump to disk; we only save the history of featured articles. This allows to minimize
    disk space requirements.
-3. Extract diffs from featured articles history to csv files
+3. Extract diffs from featured articles' history to CSV files
     ```bash
    python -m wikiprefs.collect_retained_diffs \
       --src path_to_directory_with_saved_featured_articles_history\
       --dst path_to_directory_for_saving_extracted_diffs
     ```
-4. Create dataset from the extracted diffs
+4. Create a dataset from the extracted diffs
     ```bash
    python -m wikiprefs.create_dataset \
       -t fa \
@@ -50,7 +50,7 @@ python -m spacy download en_core_web_sm
       --hf-repo huggingface_repo_id
     ```
 
-### Creating dataset from NPOV edits
+### Creating a dataset from NPOV edits
 
 1. Find revisions, which comments suggest NPOV edits:
     ```bash
@@ -62,7 +62,7 @@ python -m spacy download en_core_web_sm
    python -m wikiprefs.collect_npov_diffs \
     --dst path_to_directory_for_saving_extracted_diffs
     ```
-3. Create dataset from the extracted diffs
+3. Create a dataset from the extracted diffs
     ```bash
    python -m wikiprefs.create_dataset \
       -t npov \
@@ -87,5 +87,5 @@ Docstrings format: <https://google.github.io/styleguide/pyguide.html#38-comments
 Please cite our paper if you use in this software or dataset in your research.
 
 ```
-TODO
+TBA
 ```
