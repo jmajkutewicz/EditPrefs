@@ -1,6 +1,6 @@
 # Wiki Preferences
 
-This repo contains code for the paper "TBA"
+This repo contains code for the paper "Aligning large language models with human preferences using historical text edits"
 
 This tool creates an LLM alignment dataset from Wikipedia articles' edition history.
 
