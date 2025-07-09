@@ -87,5 +87,14 @@ Docstrings format: <https://google.github.io/styleguide/pyguide.html#38-comments
 Please cite our paper if you use in this software or dataset in your research.
 
 ```
-TBA
+@article{MAJKUTEWICZ2025113566,
+    title = {Aligning large language models with human preferences using historical text edits},
+    journal = {Knowledge-Based Systems},
+    volume = {322},
+    pages = {113566},
+    year = {2025},
+    issn = {0950-7051},
+    doi = {https://doi.org/10.1016/j.knosys.2025.113566},
+    author = {Jan Majkutewicz and Julian Szymański},
+}
 ```
